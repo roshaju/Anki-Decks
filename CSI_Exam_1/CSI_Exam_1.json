@@ -60,11 +60,15 @@
         "Arsenic.png",
         "Screen Shot 2017-03-06 at 6.45.13 PM.png",
         "Screen Shot 2017-03-12 at 5.30.04 PM.png",
+        "Water deprivation testing.png",
         "cm poison t.png",
+        "paste-10101763080548.jpg",
         "paste-111054969372905.jpg",
         "paste-1275304639201281.jpg",
         "paste-195068824649729.jpg",
+        "paste-21453361643871.jpg",
         "paste-242983479803905.jpg",
+        "paste-269397528674520.jpg",
         "paste-29283087024713.jpg",
         "paste-319305048654269.jpg",
         "paste-328281530302637.jpg",
@@ -82,6 +86,10 @@
         "paste-396902222791154.jpg",
         "paste-397821345792562.jpg",
         "paste-42563125903361.jpg",
+        "paste-436166813811307.jpg",
+        "paste-44525925957633.jpg",
+        "paste-44538810859521.jpg",
+        "paste-450292961247579.jpg",
         "paste-468138550362113.jpg",
         "paste-468245924545003.jpg",
         "paste-474701260390401.jpg",
@@ -89,6 +97,7 @@
         "paste-554115205693441.jpg",
         "paste-60687887892872.jpg",
         "paste-696712414887970.jpg",
+        "paste-71163313128050.jpg",
         "paste-783058437407268.jpg",
         "paste-783079912243748.jpg",
         "paste-783114271982115.jpg",
@@ -98,9 +107,12 @@
         "paste-783745632174628.jpg",
         "paste-783827236553253.jpg",
         "paste-783844416422437.jpg",
+        "paste-86917253169688.jpg",
         "paste-9328668966913.jpg",
-        "paste-96666828931334.jpg"
+        "paste-96666828931334.jpg",
+        "paste-c73aff3d3ec9c12a17e1f4da9b17224eed59850c.jpg"
     ],
+    "mid": "1542737394172",
     "name": "CSI Exam 1",
     "note_models": [
         {
@@ -199,6 +211,148 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>{{c2::Antidiuretic hormone (ADH)}}</b>&nbsp;is packaged with&nbsp;<b>neurophysin {{c1::II}}</b>&nbsp;and glycoprotein</div><div><br /></div>",
+                "<img src=\"paste-436166813811307.jpg\" /><div><br /></div><div>point mutations in neurophysin II underlie most cases of heredtiary hypothalamic diabetes insipidus<br /><div><br /></div><div><br /></div></div>"
+            ],
+            "flags": 0,
+            "guid": "zu[e3dx4jO",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Boards&Beyond",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>{{c2::<i>Central</i>}}</b>&nbsp;<b>diabetes insipidus&nbsp;</b>is caused by <u>failure</u> of the <i>posterior pituitary</i> to secrete <b>{{c1::ADH}}&nbsp;</b>",
+                "- damage to posterior pituitary typically results in <u>transient central DI</u> as hypothalamic nuclei are intact and axonal regeneration / hypertrophy can allow adequate ADH release into the circulation<div><br /></div><div>- damage to hypothalamic nuclei results in loss in vasopressinergic neurons, which often leads to <u>permanent central DI</u></div>"
+            ],
+            "flags": 0,
+            "guid": "CDzy6p8MYT",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>ADH&nbsp;disorder</u>&nbsp;is characterized by&nbsp;<u>low&nbsp;levels</u>&nbsp;of circulating&nbsp;<b>ADH</b>&nbsp;and thus&nbsp;<b>large volumes</b>&nbsp;of&nbsp;<b>dilute urine</b>?&nbsp;</div><div><br /></div><div>{{c1::central diabetes insipidus (nephrogenic has <u>high</u>&nbsp;ADH levels)}}</div>",
+                "<i>also have increased serum osmolarity and increased Na<sup>+&nbsp;</sup>concentration, secondary to decreased water absorption</i>"
+            ],
+            "flags": 0,
+            "guid": "JW4juh9*fI",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b><i>{{c3::Central}}</i>&nbsp;diabetes insidipus</b>&nbsp;is treated with an&nbsp;<b>{{c1::ADH}}</b>&nbsp;<b>analogue</b>, such as&nbsp;<b>{{c2::dDAVP (desmopressin)}}</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H,lHuO#tAb",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In&nbsp;<b>{{c1::<i>nephrogenic</i>&nbsp;diabetes insipidus}}</b>, the&nbsp;<i>principal cells</i>&nbsp;of the collecting duct are&nbsp;<u>unresponsive</u>&nbsp;to&nbsp;<b>{{c2::ADH}}</b>&nbsp;due to a defect in the V<sub>2</sub>&nbsp;receptor, G<sub>s</sub>&nbsp;protein, or adenylyl cyclase</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mr,6?iAIfo",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<b>diabetes insipidus</b>&nbsp;is characterized by an&nbsp;<u>inability</u>&nbsp;of the&nbsp;<u>posterior pituitary</u>&nbsp;to secrete&nbsp;<b>ADH</b>?</div><div><br /></div><div>{{c1::central diabetes insipidus}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hX7yJkP5RQ",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<b>diabetes insipidus</b>&nbsp;is characterized by a <u>lack of&nbsp;response</u>&nbsp;to the&nbsp;<b>ADH</b>&nbsp;secreted by the&nbsp;<u>posterior pituitary</u>?</div><div><br /></div><div>{{c1::nephrogenic diabetes insipidus}}&nbsp;</div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FemSC8:&[T",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<b>diabetes insipidus</b>&nbsp;is characterized by&nbsp;<b>elevated</b>&nbsp;levels of&nbsp;<b>ADH</b>?</div><div><br /></div><div>{{c1::nephrogenic diabetes insipidus}}</div>",
+                "<i>due to stimulation of secretion by the increased serum osmolarity</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "i4.&56?`qs",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b><i>{{c2::Nephrogenic}}</i>&nbsp;diabetes insipidus</b>&nbsp;is treated with&nbsp;<b>{{c1::thiazide}} diuretics</b></div>",
+                "<i>results in decreased Na<sup>+</sup>&nbsp;reabsorption and water excretion &amp; increased water reabsorption</i>"
+            ],
+            "flags": 0,
+            "guid": "Mn9Rx{Lo(/",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>Thyroid&nbsp;hormones&nbsp;<i>increase</i>&nbsp;<b>cardiac</b>&nbsp;<b>output</b>&nbsp;</div><div>by&nbsp;<u>inducing&nbsp;synthesis</u>&nbsp;(upregulation) of&nbsp;{{c1::<b>β</b><sub style=\"font-weight: bold; \">1</sub>&nbsp;<b>adrenergic</b>}}&nbsp;<b>receptors</b>&nbsp;in the heart</div>",
                 "<i>β<sub>1</sub> receptors mediate the effects on the SNS to increase HR, contractility, SV, CO</i><div><i><br /></i></div><div><i>thus B1 blockers can be used to alleviate adrenergic symptoms in a thyroid storm</i></div>"
             ],
@@ -212,6 +366,250 @@
                 "EXPANSION",
                 "EndocrinePhysiology",
                 "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Constipation, polyuria, polydipsia, lethargy, and hyporeflexia are signs of which&nbsp;<b>calcium imbalance</b>?&nbsp;</div><div><br /></div><div>{{c1::Hypercalcemia}}&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tx&kcMgW.0",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b><i>{{c1::Central}}</i> diabetes insipidus</b> is characterized by <b>polyuria</b> and <b>polydipsia</b> with an <u>inability</u> to <b>{{c3::concentrate}}</b> urine due to<b> {{c2::<u>lack of ADH</u>}}</b>&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t)`|9m1]v6",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b><i>{{c1::Nephrogenic}}</i>&nbsp;diabetes insipidus</b>&nbsp;is characterized by&nbsp;<b>polyuria</b>&nbsp;and&nbsp;<b>polydipsia</b>&nbsp;with an <u>inability</u> to&nbsp;<b>{{c3::concentrate}}</b>&nbsp;urine due to<b>&nbsp;{{c2::lack of&nbsp;<u>response</u>&nbsp;to ADH}}</b>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Hq$0/^k.Fw",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Etiologies of&nbsp;<b><i>{{c1::central}}</i>&nbsp;diabetes insipidus</b>&nbsp;include pituitary tumor, autoimmune, trauma, surgery, and ischemic encephalopathy&nbsp;</div>",
+                "- Autoimmune can be against posterior pituitary or against ADH<div><br /></div><div>- Trauma can be neurosurgery (9% of cases), head injury (17% of cases - ex. basilar skull fracture)</div><div><br /></div><div>- Benign Suprasellar tumor (20% of cases) / trauma to posterior pituitary / pituitary stalk / head trauma depletes posterior pituitary of ADH stores</div><div><br /></div><div>- noninfectious granulomas (sarcoidosis, langerhans cell histiocytosis)</div><div><br /></div><div>- idiopathic (25% of cases)</div><div><br /></div><div>- hemochromatosis</div><div><br /></div><div>- genetic mutation (AD mutation in neurophysin II- carrier for ADH as it descends the neurohypophysis)</div>"
+            ],
+            "flags": 0,
+            "guid": "k=5unJ!FDI",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "NBME120",
+                "PathomaEndocrine",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b><i>{{c2::Nephrogenic}}</i>&nbsp;diabetes insipidus</b>&nbsp;is often caused by&nbsp;<b>{{c1::ADH receptor}}</b>&nbsp;<b>mutations</b>&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zd>wqpahIW",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b><i>{{c1::Nephrogenic}}</i>&nbsp;diabetes insipidus</b>&nbsp;may be caused by drugs such as&nbsp;<b>{{c2::lithium}}</b>&nbsp;and&nbsp;<b>{{c3::demeclocycline}}</b>&nbsp;</div>",
+                "<i>demeclocycline is an ADH antagonist</i>"
+            ],
+            "flags": 0,
+            "guid": "g1e;#C>&AJ",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Both&nbsp;<i style=\"font-weight: bold; \">central</i>&nbsp;and&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;are characterized by&nbsp;<b>urine specific gravity&nbsp;</b>&lt; {{c1::1.006}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oFk|y=l*((",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Both&nbsp;<i style=\"font-weight: bold; \">central</i>&nbsp;and&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;are characterized by {{c1::low}}&nbsp;<b>urine osmolality</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nk<7s0bc^R",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Both&nbsp;<i style=\"font-weight: bold; \">central</i>&nbsp;and&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;are characterized by&nbsp;<b>serum osmolality</b>&nbsp;{{c1::&gt;}} 290 mOsm/kg</div>",
+                "<i>due to decreased ability to retain H<sub>2</sub>O</i>&nbsp;, also causes hypernatremia&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "KrSK;T0:0a",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Both&nbsp;<i style=\"font-weight: bold; \">central</i>&nbsp;and&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;are characterized by blood&nbsp;<b><i>hyperosmotic</i>&nbsp;volume {{c1::contraction}}</b></div>",
+                "<i>lack of ADH causes excess water excretion and thus volume contraction</i>"
+            ],
+            "flags": 0,
+            "guid": "ka.|Q+pF/l",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b><i>Central</i>&nbsp;diabetes insipidus</b>&nbsp;is characterized by {{c1::low}} levels of&nbsp;<b>ADH</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m(M{*0EIsC",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b><i>Nephrogenic&nbsp;</i>diabetes insipidus</b>&nbsp;is characterized by {{c1::normal}} or {{c1::elevated}} levels of&nbsp;<b>ADH</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HLdR}J(]?O",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Treatment for&nbsp;<i style=\"font-weight: bold; \">central</i><b>&nbsp;diabetes insipidus</b><i style=\"font-weight: bold; \">&nbsp;</i>includes <b>hydration</b> and&nbsp;<b>{{c1::desmopressin}}</b>, which is an&nbsp;<b>ADH</b>&nbsp;<i>analog</i></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P6g?fL=,>s",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Treatment for&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;includes <b>hydration</b> and&nbsp;<b>{{c1::HCTZ}}</b>, which is a&nbsp;<b>thiazide</b>&nbsp;<b>diuretic</b></div>",
+                "<i>may also use&nbsp;<b>indomethacin</b>&nbsp;and&nbsp;<b>amiloride</b>&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "P|Iq7d=_:T",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Diagnosis of&nbsp;<b>diabetes insipidus</b>&nbsp;is aided by the&nbsp;<b>{{c1::water deprivation}} test</b>&nbsp;</div>",
+                "<img src=\"Water deprivation testing.png\" />"
+            ],
+            "flags": 0,
+            "guid": "m&]4A1aPQo",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In&nbsp;<b>diabetes insipidus</b>, the&nbsp;<b>water deprivation test</b>&nbsp;<i>fails</i>&nbsp;to&nbsp;<b>{{c1::increase}}</b>&nbsp;urine osmolality</div>",
+                "<i>**osmolality will increase in&nbsp;<b>central</b>&nbsp;diabetes insipidus with administration of an&nbsp;<b>ADH analog</b>&nbsp;</i><div><i><img src=\"Water deprivation testing.png\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "t/NIT=9rH}",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
             ]
         },
         {
@@ -317,6 +715,330 @@
                 "CSI_Ex1",
                 "EndocrinePathology",
                 "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Type {{c1::1}} diabetes mellitus</b>&nbsp;is characterized by&nbsp;<b>insulin</b>&nbsp;<b>deficiency</b>&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M^kldZ;<Q&",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Type {{c1::2}} diabetes mellitus</b>&nbsp;is characterized by&nbsp;<b>insulin</b>&nbsp;<b>resistance</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M?&eH,^:m8",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Type 1 diabetes mellitus</b>&nbsp;is due to {{c1::autoimmune destruction}}&nbsp;of <u>pancreatic&nbsp;</u>{{c2::<u>β</u>}}<u>&nbsp;cells</u>&nbsp;by&nbsp;<b>{{c3::anti-glutamic acid decarboxylase}} antibodies</b>&nbsp;</div>",
+                "<i>autoantibodies against insulin may be present in blood (sign of damage); may be seen before disease develops</i>"
+            ],
+            "flags": 0,
+            "guid": "c!?R0#k?qf",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the level of&nbsp;<b>insulin</b>&nbsp;in a patient with&nbsp;<b>type 2 diabetes</b>&nbsp;(elevated, decreased, normal)?&nbsp;</div><div><br /></div><div>{{c1::Variable;&nbsp;<u>increased</u>&nbsp;<i>early</i>&nbsp;in disease, but may be&nbsp;<u>decreased</u>&nbsp;later in disease due to beta cell exhaustion}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yIhaCS@<R4",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Type 1 diabetes&nbsp;</b>is&nbsp;associated with&nbsp;<b>HLA-{{c1::DR3}}</b>&nbsp;and&nbsp;<b>HLA-{{c1::DR4}}</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G6&GOi#j-B",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Why do patients with&nbsp;<b>diabetes mellitus</b>&nbsp;present with <b>polyuria</b> and <b>polydipsia</b>?&nbsp;</div><div><br /></div><div>{{c1::Excess glucose is filtered into the urine and pulls water with it}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eb>WF(#X0e",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the&nbsp;<u>most common</u>&nbsp;type of&nbsp;<b>diabetes mellitus</b>?</div><div><br /></div><div>{{c1::Type 2}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Iax`Ke5).W",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the diagnostic cutoff for&nbsp;<b>HbA</b><sub style=\"font-weight: bold; \">1c</sub>&nbsp;for a diagnosis of&nbsp;<b>diabetes mellitus</b>?&nbsp;</div><div><br /></div><div>{{c1::&gt;6.5%}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QQ%Cuo5hp",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the diagnostic cutoff for&nbsp;<b>fasting plasma glucose</b>&nbsp;for a diagnosis of&nbsp;<b>diabetes mellitus</b>?</div><div><br /></div><div>{{c1::&gt;126 mg/dL}}</div>",
+                "<i>after fasting for &gt;8 hours</i>"
+            ],
+            "flags": 0,
+            "guid": "DOa`IE)QYX",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the diagnostic cutoff for the&nbsp;<b>2-hour oral glucose tolerance test</b>&nbsp;for a diagnosis of&nbsp;<b>diabetes mellitus</b>?</div><div><br /></div><div>{{c1::&gt; 200 mg/dL}}</div><div></div>",
+                "<i>2 hours after consumption of 75g of glucose in water</i>"
+            ],
+            "flags": 0,
+            "guid": "Ewaxiur{8s",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One of the most feared complications of&nbsp;<b>type 1 diabetes</b>&nbsp;is&nbsp;<b>{{c1::diabetic ketoacidosis}}</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OBb:wslm-H",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Diabetic ketoacidosis</b>&nbsp;is associated with a&nbsp;<b>{{c1::fruity}}</b>&nbsp;breath odor due to exhaled&nbsp;<b>{{c2::acetone}}</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C&t8Zy;v>X",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Diabetic ketoacidosis</b>&nbsp;is associated with<b>&nbsp;{{c1::Kussmaul}}</b>&nbsp;respirations, which is rapid/deep breathing to compensate for <b>metabolic</b>&nbsp;<b>{{c2::acidosis}}</b>&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ej*D?vxThW",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What type of&nbsp;<b>acidosis</b>&nbsp;will a patient with&nbsp;<b>diabetic ketoacidosis</b>&nbsp;experience?</div><div><br></div><div>{{c1::high anion gap metabolic acidosis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PGvovQ!j4B",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Will a&nbsp;<b>diabetic ketoacidosis</b>&nbsp;patient present with&nbsp;<b>hyper-</b>&nbsp;or&nbsp;<b>hypo-glycemia</b>?</div><div><br /></div><div>{{c1::hyperglycemia (usually &gt;300 mg/dL)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bqX]?MIW^B",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<b>fungal infection</b>&nbsp;is a feared complication in a&nbsp;<b>diabetic ketoacidosis</b>&nbsp;patient?</div><div><br /></div><div>{{c1::mucormycosis (usually caused by&nbsp;<i>Rhizopus</i>&nbsp;infection)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i[MFPAM6*t",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the treatment for&nbsp;<b>diabetic ketoacidosis</b>?</div><div><br /></div><div>IV {{c1::fluids}}, {{c1::insulin}}, and {{c1::K<sup>+</sup>&nbsp;(to replete&nbsp;<b>intracellular</b>&nbsp;stores)}}</div>",
+                "Remember, fix volume status first!"
+            ],
+            "flags": 0,
+            "guid": "b<`M_3pS/m",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One of the most feared complications of&nbsp;<b>type 2 diabetes</b>&nbsp;is&nbsp;{{c1::hyperosmolar hyperglycemia non-ketotic syndrome}}</div>",
+                "<i>hyperglycemia causes excessive osmotic diuresis, leading to dehydration and possibly coma</i>"
+            ],
+            "flags": 0,
+            "guid": "pGk)IBBRA?",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What demographic is most commonly associated with&nbsp;<b>hyperosmolar hyperglycemia non-ketotic syndrome</b>?&nbsp;</div><div><br /></div><div>{{c1::Elderly type 2 diabetics, especially with limited ability to drink}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y/w!R804>t",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Hyperosmolar hyperglycemic non-ketotic syndrome</b>&nbsp;often presents with <u>glucose levels</u> &gt; {{c1::600}} mg/dL and <u>increased</u><b> serum osmolarity</b> (&gt; 320 mOsm/kg)&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DasMnTNeL5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<b>hyperosmolar hyperglycemia non-ketotic syndrome</b>&nbsp;present with acidosis? Why?&nbsp;</div><div><br /></div><div>{{c1::No, ketone production is inhibited by presence of insulin}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n74s0VId&b",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the treatment for&nbsp;<b>hyperosmolar hyperglycemic non-ketotic syndrome</b>?&nbsp;</div><div><br /></div><div>{{c1::intense IV fluids and insulin therapy}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PR}CAZ%x{F",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Non-enzymatic glycosylation</b>&nbsp;of small vessels may cause&nbsp;<b>nodular {{c1::glomerulosclerosis}}</b>&nbsp;with&nbsp;<b>Kimmelstiel-Wilson nodules</b>; may cause chronic renal failure&nbsp;</div>",
+                "<img src=\"paste-86917253169688.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "n|M/5b2H$K",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
             ]
         },
         {
@@ -499,6 +1221,71 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>{{c2::Hyper}}-osmolarity</b>&nbsp;may cause&nbsp;<b>K</b><sup style=\"font-weight: bold; \">+</sup>&nbsp;to shift&nbsp;{{c1::<u>out of</u>}} cells, causing {{c1::<u>hyperkalemia</u>}}</div>",
+                "<div><i>hyperosmolarity causes water to flow out of the cell, some K<sup>+</sup>&nbsp;flows with it</i></div><img src=\"paste-450292961247579.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "qpm/xAOl3t",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><b>{{c1::Hypo}}-osmotic</b>&nbsp;<b>urine</b>&nbsp;is produced when the circulating levels of&nbsp;<b>ADH</b>&nbsp;are {{c2::<u>low</u>}}&nbsp;</div></div>",
+                "<i>e.g. diabetes insipidus</i>"
+            ],
+            "flags": 0,
+            "guid": "H)8hJ.Vzsm",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<b>non-volatile acids</b>&nbsp;(2) are commonly elevated in&nbsp;<u>type 1 diabetes</u>?&nbsp;</div><div><br></div><div>{{c1::acetoacetic acid and β-hydroxybutyric acid (ketoacidosis)}}</div><div><br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "srl`ksuzEc",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The hyperfiltration in <b>diabetic glomerulonephropathy </b>can lead to&nbsp;<u>eosinophilic</u>&nbsp;<b>nodular</b>&nbsp;<b>glomerulosclerosis</b>, known as&nbsp;{{c1::Kimmelstiel-Wilson}}<b>&nbsp;</b>nodules</div>",
+                "<div>Hyperfiltration leads to glomerular hypertrophy and scarring (glomerulosclerosis)&nbsp;</div><div><br /></div><div><img src=\"paste-71163313128050.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "K=AR.In6k~",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "PathomaRenal",
+                "RenalPathology",
+                "fa2018",
+                "nephrotic_syndrome"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><div><div><b>Vitamin {{c2::C}}</b>&nbsp;keeps iron in the&nbsp;{{c1::Fe<sup>2+</sup>}}&nbsp;state which {{c3::<u>increases</u>}} absorption&nbsp;</div><div><br /></div><div><b><br /></b></div></div></div>",
                 "Bad in iron toxicity&nbsp;"
             ],
@@ -659,6 +1446,22 @@
                 "PathomaWBC",
                 "WBC",
                 "lymphoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<b>{{c1::supraoptic}} nucleus</b>&nbsp;of the&nbsp;<u>hypothalamus</u>&nbsp;primarily makes&nbsp;<b>ADH</b>&nbsp;</div>",
+                "<i>lesions here causes diabetes insipidus</i>"
+            ],
+            "flags": 0,
+            "guid": "k#+R}woE0J",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "KaplanNeurology",
+                "neurology",
+                "thalamus"
             ]
         },
         {
@@ -1339,6 +2142,66 @@
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "NeuroPathology",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Diabetic retinopathy}}</b>&nbsp;is&nbsp;<u>retinal damage</u>&nbsp;due to&nbsp;<b>chronic hyperglycemia</b>&nbsp;</div><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s-;yeJ=o7v",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "eye",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Non-proliferative}} diabetic retinopathy</b>&nbsp;is characterized by&nbsp;<u>leakage of blood</u>&nbsp;from damaged capillaries, resulting in&nbsp;<b>hemorrhages</b>&nbsp;and&nbsp;<b>macular</b>&nbsp;<b>edema</b>&nbsp;&nbsp;</div>",
+                "<div><i>image shows hemorrhages</i>&nbsp;</div><div><img src=\"paste-269397528674520.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Mxi,]$L(jY",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "eye",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the&nbsp;<u>treatment</u>&nbsp;for&nbsp;<b><i>non-proliferative</i>&nbsp;diabetic retinopathy</b>?&nbsp;</div><div><br /></div><div>{{c1::Blood sugar control}}</div><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w3@w+fZ$6P",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "eye",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Proliferative}} diabetic retinopathy</b>&nbsp;results in&nbsp;<u>new blood vessel formation</u>&nbsp;with resultant traction on the retina&nbsp;</div><div><br /></div><div><b><i><br /></i></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dC~AUpKN_@",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "eye",
                 "neurology"
             ]
         },
@@ -2153,6 +3016,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>Type {{c2::II}} diabetes mellitus</b>&nbsp;is associated with deposition of&nbsp;{{c1::<b>amylin</b>&nbsp;(islet amyloid polypeptide)}}&nbsp;in the&nbsp;<b>islets of the pancreas</b>&nbsp;</div>",
+                "<i>amylin is derived from&nbsp;<b>insulin</b></i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "BR&WqpAtnL",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter1Pathoma",
+                "PathomaPathology",
+                "pathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><b>Terminal Complement (C5-C9) Deficiencies</b>&nbsp;increase susceptibility to&nbsp;<u>recurrent</u>&nbsp;{{c1::<b><i>Neisseria</i></b>}} bacteremia&nbsp;</div><div><br /></div>",
                 "These patients most often present with recurrent meningitis&nbsp;"
             ],
@@ -2167,6 +3046,52 @@
                 "PathomaInflammation",
                 "fa2018",
                 "immunodeficiency"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Defects in <b>CD-</b>{{c1::<b>25</b>}}&nbsp;on&nbsp;<u>regulatory T cells</u>&nbsp;are associated with <b>multiple sclerosis</b>&nbsp;and <b>type I diabetes mellitus</b>&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b><CoGh0Ip",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Chapter2Pathoma",
+                "EXPANSION",
+                "autoimmune_disorders",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What&nbsp;<u>HLA subtypes</u>&nbsp;are associated with&nbsp;<b>type I diabetes mellitus</b>?&nbsp;</div><div><br /></div><div>{{c1::DR3}} and {{c1::DR4}}&nbsp;</div></div>",
+                "<img src=\"paste-10101763080548.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "dc)ds|G{fx",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "HLA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Anti-islet cell cytoplasmic</b>&nbsp;<u>autoantibodies</u>&nbsp;are associated with&nbsp;<b>{{c1::type I diabetes mellitus}}</b>&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iydv=r0/BU",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
             ]
         },
         {
@@ -2723,6 +3648,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>In the treatment of <u><i>Diabetic Ketoacidosis</i></u> and <u><i>Hyperosmolar Hyperglycemia State</i></u>, aggresive {{c1::iso}}tonic saline fluids are indicated</div>",
+                "These are both hyperosmotic states and thus isotonic solutions will bring down the tonicity (relatively hypotonic to the hypertonic state)<div><br /><div><img src=\"paste-44525925957633.jpg\" />&nbsp;= DKA</div><div><br /></div><div><img src=\"paste-44538810859521.jpg\" />= HHS</div></div>"
+            ],
+            "flags": 0,
+            "guid": "nn>}4()3xS",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Drugs that elongate QT interval must be avoided in Congenital Long QT Syndrome - &nbsp;<i>ABCDEF+N</i><div><i><br></i></div><div><i>A - </i>anti-arrthymics (Class {{c1::1A}} and {{c1::3)}}; {{c2::Arsenic::heavy metal?}}</div><div><i>B</i><i style=\"font-weight: bold; \">&nbsp;- </i>anti-biotics ({{c3::macrolides}}, {{c3::fluoroquinolones}})</div><div><i>C </i>- anti-\"c\"ychotics ({{c4::haloperidol}}); {{c5::chloroquine}}</div><div><i>D</i>&nbsp;- anti-depressants ({{c6::TCAs}}); diuretics ({{c7::thiazides}})</div><div><i>E </i>- anti-e{{c8::metics}}&nbsp;</div><div><i>F </i>- anti-fungals ({{c9::fluconazole}})</div><div><i>N - -</i>n{{c10::avir (protease inhibitors)::drug for HIV}}</div>",
                 ""
             ],
@@ -2874,6 +3815,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "The osmotic diuresis in diabetic ketoacidosis may lead to fatal arrhythmias by causing {{c1::total body K+}} depletion",
+                "Pseudohyperkalemia due to rapid ion cell buffering (H/K shift) leads to K+ lost in urine"
+            ],
+            "flags": 0,
+            "guid": "O`%4WOt!(`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<b>Lead poisoning</b>&nbsp;presents in&nbsp;<u>adults</u>&nbsp;with environmental exposure (batteries, ammunition) with headache and memory loss due to {{c1::demyelination}}, as well as {{c2::abdominal}} colic",
                 "Can result in wrist / foot drop as well as fanconi syndrome"
             ],
@@ -2908,6 +3865,40 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What psychological disorder is characterized by increased intake of free water, leading to <u>hyponatremia</u> and production of a volume of dilute urine?<div><br></div><div>{{c1::Primary psychogenic polydipsia}}</div>",
+                "Can be tested for with a water restriction test. If patient's physiology changes then the polydipsia is psychogenic in nature"
+            ],
+            "flags": 0,
+            "guid": "x1.8TNx3yX",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primary polygenic polydipsia can be treated with {{c1::water restriction}}",
+                "this normalizes urine output"
+            ],
+            "flags": 0,
+            "guid": "bx7bN>k>a9",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<b>Stimulant intoxication</b> can present with <b>{{c1::paranoid}} ideation </b>and thus must be differentiated from primary psychiatric disorders",
                 "physical signs include tachycardia, hypertension, hyperthermia, diaphroesis, and mydriasis"
             ],
@@ -2918,6 +3909,23 @@
                 "BGadd",
                 "BGnonessentials",
                 "CSI_Ex1",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which form of <b>diabetes mellitus</b>&nbsp;is characterized by <u>weight loss</u>?<div><br /></div><div>{{c1::Type 1 Diabetes}}</div>",
+                "<div>- these patients do not have any insulin to store glucose and thus no deposition as fat or other storage forms</div><div><br /></div><div>- typically T1DM presents subacutely with polyuria, polydipsia, polyphagia accompanied by fatigue and weight loss</div>"
+            ],
+            "flags": 0,
+            "guid": "lYfJP2hm|>",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
                 "EXPANSION",
                 "Uworld"
             ]
@@ -3042,6 +4050,23 @@
                 "EXPANSION",
                 "Uworld",
                 "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients with diabetic ketoacidosis have {{c1::increased}} bicarbonate reuptake&nbsp;",
+                "alpha-intercalated cells in the kidney respond to metabolic acidosis by removing H+ from the blood into the urine, which stimulates bicarb reuptake<div><br /></div><div><img src=\"paste-21453361643871.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "uFIeP|yerC",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
             ]
         },
         {
@@ -3263,6 +4288,102 @@
             ],
             "flags": 0,
             "guid": "bU6b4A#kdc",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "American Diabetes Association Recommends screening for diabete for&nbsp;<div>1)&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">{{c1::All patients starting age 45}}</span></div><div>2)&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">{{c2::A</span><span style=\"background-color: rgb(255, 255, 255);\">ny patient if BMI &gt; 25</span><span style=\"background-color: rgb(255, 255, 255);\">}}</span></div>",
+                "<div>If normal then repeat every 3 years&nbsp;</div><div><span>If Pre-diabetes, repeat in 1-2 years</span></div>"
+            ],
+            "flags": 0,
+            "guid": "LHsdxzXnTT",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Diabetic retinopathy is characterized by&nbsp;<div>1) {{c1::Macular edema, exudates, and aneurysms&nbsp;}}</div><div>2) {{c2::Cotton wool pathches}}</div><div>3) {{c3::Neovascularization of the Retina}}</div>",
+                "<img src=\"paste-c73aff3d3ec9c12a17e1f4da9b17224eed59850c.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "AEdSpG%&o0",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cardiac autnomic neuropathy symptoms caused by Diabetes include<div>1) {{c1::Orthostatic Hypotension}}</div><div>2) {{c2::Silent MI&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "U$W>^&pYx",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Symptoms of GI Autonomic Neuropathy caused by DM include:<div>1) {{c1::Gastroparesis}}</div><div>2) {{c2::Decreased esophageal mobility&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gwa7V**C}k",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Symptoms of GU Autonomic Neuropathy caused by DM include:<div>1) {{c1::Overflow incontinence}}&nbsp;</div><div>2) {{c2::Erectile dysfunction&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xmJxpP9Nau",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ankle brachial index interpratations<div><div><br></div><div>{{c1::&gt;0.9}} = normal</div> <div>{{c2::0.4-0.9}} = mild-moderate PAD</div> <div>{{c3::&lt;0.4}} = severe PAD</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I2hi/h{1Pl",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Diabetes mangment includes the following<div><div>1) {{c1::Hgb A1c every 6 months}},&nbsp;<span>3 months if&nbsp;</span>{{c2::uncontrolled DM}}<span>&nbsp;or&nbsp;</span>{{c3::new changes to meds}}<span>&nbsp;</span></div> <div>2) {{c4::Lipid panel annually}}</div> <div>3) {{c5::Urine Microalbumin annually}}</div> <div>4) {{c6::BUN/Cr annually}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kMvr~n3&8t",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The following referrals are typically made for diabetes patients&nbsp;</div><div>1) {{c1::Ophthalmology annually}}&nbsp;</div><div>2) {{c2::Diabetes Educator}}&nbsp;</div><div>3) {{c3::Podiatry as needed}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QfeT[0M+,u",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": []
         }
