@@ -65,9 +65,16 @@
         "paste-10101763080548.jpg",
         "paste-111054969372905.jpg",
         "paste-1275304639201281.jpg",
+        "paste-1319035996209153.jpg",
         "paste-195068824649729.jpg",
+        "paste-20422569492481.jpg",
         "paste-21453361643871.jpg",
+        "paste-223200860439003.jpg",
+        "paste-223394133967317.jpg",
+        "paste-225507257876957.jpg",
+        "paste-236188841541633.jpg",
         "paste-242983479803905.jpg",
+        "paste-252234839359848.jpg",
         "paste-269397528674520.jpg",
         "paste-29283087024713.jpg",
         "paste-319305048654269.jpg",
@@ -79,6 +86,7 @@
         "paste-33990371180691.jpg",
         "paste-351001907298305.jpg",
         "paste-359274014310858.jpg",
+        "paste-373902672920830.jpg",
         "paste-380684426281092.jpg",
         "paste-381341556277398.jpg",
         "paste-381345851244694.jpg",
@@ -87,12 +95,17 @@
         "paste-397821345792562.jpg",
         "paste-42563125903361.jpg",
         "paste-436166813811307.jpg",
+        "paste-436192583614686.jpg",
         "paste-44525925957633.jpg",
         "paste-44538810859521.jpg",
         "paste-450292961247579.jpg",
         "paste-468138550362113.jpg",
         "paste-468245924545003.jpg",
         "paste-474701260390401.jpg",
+        "paste-47498043326465.jpg",
+        "paste-482792978776600.jpg",
+        "paste-489385753575766.jpg",
+        "paste-489746530828827.jpg",
         "paste-514395348140033.jpg",
         "paste-554115205693441.jpg",
         "paste-60687887892872.jpg",
@@ -107,10 +120,12 @@
         "paste-783745632174628.jpg",
         "paste-783827236553253.jpg",
         "paste-783844416422437.jpg",
+        "paste-7ac82ae5f5c8c5f6bac3b6fda520b53cb8f7d8a1.jpg",
         "paste-86917253169688.jpg",
         "paste-9328668966913.jpg",
         "paste-96666828931334.jpg",
-        "paste-c73aff3d3ec9c12a17e1f4da9b17224eed59850c.jpg"
+        "paste-c73aff3d3ec9c12a17e1f4da9b17224eed59850c.jpg",
+        "paste-d4cd51f5ded4012bc6e6266b097fc2f4c96161c6.jpg"
     ],
     "mid": "1542737394172",
     "name": "CSI Exam 1",
@@ -224,6 +239,84 @@
                 "EXPANSION",
                 "EndocrinePhysiology",
                 "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The most important physiologic stimulus for <i>increasing</i>&nbsp;<b>antidiuretic hormone</b>&nbsp;(ADH) secretion is&nbsp;<b>{{c1::increased plasma osmolarity}}</b></div><div><b><br /></b></div>",
+                "<div><i>sensed by osmoreceptors in the anterior hypothalamus</i></div><div><i><img src=\"paste-436192583614686.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "k=B|wS4mWV",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What receptors sense an increase in&nbsp;<b>plasma osmolarity</b>, providing stimuli to increase&nbsp;<b>ADH</b>&nbsp;secretion?</div><div><br></div><div>{{c1::osmoreceptors in the anterior hypothalamus}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pB]2_Ai/y#",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The major action of&nbsp;<b>ADH (vasopressin)</b>&nbsp;is to&nbsp;<b>increase {{c1::water permeability (and thus reabsorption)}}</b>&nbsp;of the principal cells in the&nbsp;<b>{{c2::<i>late</i> distal convoluted tubule}}</b>&nbsp;and&nbsp;<b>{{c2::collecting duct}}</b></div><div><br></div>",
+                "<img src=\"paste-47498043326465.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Dk:`l1(i&&",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<i>receptors</i>&nbsp;for&nbsp;<b>ADH</b>&nbsp;on the <b>principal</b> <b>cells</b> of the late distal tubule and collecting duct are <b>{{c1::V<sub>2</sub>}}&nbsp;receptors</b></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tE+&6eix#L",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>How does&nbsp;<b>ADH</b>&nbsp;<i>increase H<sub>2</sub>O permeability&nbsp;</i>of the principal cells of the late distal tubule and collecting duct?</div><div><br /></div><div>{{c1::Increased&nbsp;<b>aquaporin 2 (AQP2)</b>&nbsp;channels via increased cAMP}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bb,K(Q5ZjS",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
             ]
         },
         {
@@ -467,7 +560,7 @@
             "data": "",
             "fields": [
                 "<div>Both&nbsp;<i style=\"font-weight: bold; \">central</i>&nbsp;and&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;are characterized by&nbsp;<b>urine specific gravity&nbsp;</b>&lt; {{c1::1.006}}</div>",
-                ""
+                "A urine specific gravity test compares the density of urine to the density of water. This quick test can help determine how well your kidneys are diluting your urine."
             ],
             "flags": 0,
             "guid": "oFk|y=l*((",
@@ -496,7 +589,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Both&nbsp;<i style=\"font-weight: bold; \">central</i>&nbsp;and&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;are characterized by&nbsp;<b>serum osmolality</b>&nbsp;{{c1::&gt;}} 290 mOsm/kg</div>",
+                "<div>Both&nbsp;<i style=\"font-weight: bold; \">central</i>&nbsp;and&nbsp;<b><i>nephrogenic</i>&nbsp;diabetes insipidus</b>&nbsp;are characterized by&nbsp;<b>serum osmolality</b>&nbsp;{{c1::&gt; 290 mOsm/kg}}</div>",
                 "<i>due to decreased ability to retain H<sub>2</sub>O</i>&nbsp;, also causes hypernatremia&nbsp;"
             ],
             "flags": 0,
@@ -606,6 +699,21 @@
             ],
             "flags": 0,
             "guid": "t/NIT=9rH}",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>SIADH</b>&nbsp;is characterized by&nbsp;<b>{{c1::euvolemic}}</b><b>&nbsp;</b>(volume)&nbsp;<b>{{c1::hyponatremia}}</b>&nbsp;(Na<sup>+</sup>&nbsp;level)&nbsp;with continued urinary Na<sup>+</sup>&nbsp;excretion</div>",
+                "<i>body responds to water retention with&nbsp;<b>decreased aldosterone</b>, causing normal volumes (euvolemic) but decreased sodium (hyponatremia)</i>"
+            ],
+            "flags": 0,
+            "guid": "QSR[NNCXis",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "EndocrinePathology",
@@ -1003,8 +1111,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Does&nbsp;<b>hyperosmolar hyperglycemia non-ketotic syndrome</b>&nbsp;present with acidosis? Why?&nbsp;</div><div><br /></div><div>{{c1::No, ketone production is inhibited by presence of insulin}}</div>",
-                ""
+                "<div>Does&nbsp;<b>hyperosmolar hyperglycemia non-ketotic syndrome</b>&nbsp;present with acidosis? Why?&nbsp;</div><div><br></div><div>{{c1::No, ketone production is inhibited by presence of insulin}}</div>",
+                "HHS is usually precipitated by an infection,<sup>[6]</sup> myocardial infarction, stroke or another acute illness. A relative insulin deficiency leads to a serum glucose that is usually higher than 33&nbsp;mmol/L (600&nbsp;mg/dL), and a resulting serum osmolarity that is greater than 320 mOsm. This leads to excessive urination (more specifically an osmotic diuresis), which, in turn, leads to volume depletion and hemoconcentration that causes a further increase in blood glucose level. Ketosis is absent because the presence of some insulin inhibits hormone-sensitive lipase mediated fat tissue breakdown."
             ],
             "flags": 0,
             "guid": "n74s0VId&b",
@@ -1039,6 +1147,79 @@
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><i>Sketchy Pharmacology: Endocrine (diabetes)</i>&nbsp;</div><div><br></div><div><b>{{c2::Thiazolidinediones}}</b>&nbsp;cause increased <b>insulin</b> {{c1::sensitivity}}, therefore {{c3::<u>enhancing glucose uptake</u>&nbsp;in peripheral tissue}}s</div>",
+                "<div><i>This is particular for adipose tissue, essentially redirecting the excess glucose into your fat&nbsp;</i></div><div><i><br></i></div><div><div>These medications also reduce blood pressure, increase HDLs, decrease TGs</div></div><div><i><br></i></div><div><i><img src=\"paste-1319035996209153.jpg\"></i></div><div><i><br></i></div><div><i><img src=\"paste-223394133967317.jpg\"></i></div>"
+            ],
+            "flags": 0,
+            "guid": "selKhidw3Y",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePharmacology",
+                "Uworld",
+                "diabetesdrugs",
+                "sketchypharmacology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><i>Sketchy Pharmacology: Endocrine (diabetes)</i>&nbsp;</div><div><br /></div><div><b>PPAR-gamma</b>, which is activated by thiazolidinediones,&nbsp;<u>upregulates</u>&nbsp;{{c1::adiponectin}}, which causes&nbsp;<b>increased insulin sensitivity</b>&nbsp;and&nbsp;<b>fatty acid oxidation</b></div>",
+                "<div><i>usually low in obese and T2DM patients</i></div><div><i><br /></i></div><div><i><img src=\"paste-1319035996209153.jpg\" /></i></div><div><img src=\"paste-223200860439003.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "o-=}J}:).f",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePharmacology",
+                "Uworld",
+                "diabetesdrugs",
+                "sketchypharmacology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><i>Sketchy Pharmacology: Endocrine (diabetes)</i></div><div><br /></div><div><b>Alpha-glucosidase inhibitors</b>&nbsp;(e.g. acarbose, miglitol) reduce the activity of alpha-glucosidases on the {{c1::intestinal brush border}}, thus&nbsp;<i>delaying</i>&nbsp;carbohydrate hydrolysis and absorption</div>",
+                "This results in decreased postprandial hyperglycemia<br /><div><br /></div><div><img src=\"paste-225507257876957.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": ";HJKh<3nW",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePharmacology",
+                "diabetesdrugs",
+                "fa2018",
+                "sketchypharmacology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Vasopressin (ADH)</b>&nbsp;causes&nbsp;<u>water reabsorption</u>&nbsp;by the renal distal tubule and collecting ducts by activating&nbsp;{{c2::V<sub>2</sub>}}&nbsp;receptors&nbsp;</div>",
+                "<i>increased water reabsorption helps increase blood pressure</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "h{(0f3$s-m",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CardioPhysiology",
+                "CostanzoCardio",
+                "FAcardio"
             ]
         },
         {
@@ -1221,6 +1402,36 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>Plasma osmolarity</b>&nbsp;may be estimated by&nbsp;<b>P<sub>osm</sub></b>&nbsp;=&nbsp;{{c1::(2 * Na<sup>+</sup>)&nbsp;+ (Glucose/18) + (BUN/2.8)}}&nbsp;</div>",
+                "<div><i>Na<sup>+</sup>&nbsp;= plasma Na<sup>+</sup>&nbsp;concentration (mEq/L)</i></div><div><i>Glucose = plasma glucose concentration (mg/dL)&nbsp;</i></div><div><i>BUN = blood urea nitrogen concentration (mg/dL)</i>&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "Ax3BkN>?-",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>How does&nbsp;<b>plasma protein&nbsp;</b><u>concentration</u>&nbsp;change with&nbsp;<b>hyposmotic volume expansion</b>&nbsp;(e.g. SIADH)?&nbsp;</div><div><br /></div><div>{{c1::Decreased}}</div>",
+                "<img src=\"paste-373902672920830.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "e?1`s2SM9,",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><b>{{c2::Hyper}}-osmolarity</b>&nbsp;may cause&nbsp;<b>K</b><sup style=\"font-weight: bold; \">+</sup>&nbsp;to shift&nbsp;{{c1::<u>out of</u>}} cells, causing {{c1::<u>hyperkalemia</u>}}</div>",
                 "<div><i>hyperosmolarity causes water to flow out of the cell, some K<sup>+</sup>&nbsp;flows with it</i></div><img src=\"paste-450292961247579.jpg\" />"
             ],
@@ -1236,11 +1447,101 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>Changes in <b>osmolarity</b>&nbsp;are sensed by <b>{{c1::osmoreceptors}}</b>&nbsp;in the {{c2::<u>anterior hypothalamus</u>}}</div>",
+                "<img src=\"paste-482792978776600.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "?bc$<zY_r",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Stimulation of&nbsp;<u>hypothalamic osmoreceptors</u>&nbsp;stimulates&nbsp;<b>{{c1::thirst}}</b>&nbsp;and</div><div>&nbsp;<i>secretion</i>&nbsp;of&nbsp;<b>{{c2::ADH}}</b>&nbsp;</div>",
+                "<i>inhibition of hypothalamic osmoreceptors produces the opposite effect</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "Pnfd7)g+?_",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In the&nbsp;<u>absence</u>&nbsp;of&nbsp;<b>{{c2::ADH}}</b>, the principal cells of the&nbsp;<i>late distal tubule</i>&nbsp;and&nbsp;<i>collecting duct</i>&nbsp;are {{c1::<u>impermeable</u>}} to&nbsp;<b>water</b></div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NbS:gH`as/",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In the&nbsp;<u>presence</u>&nbsp;of&nbsp;<b>{{c2::ADH}}</b>,&nbsp;<b>{{c1::aquaporin 2}} channels</b>&nbsp;are inserted in the&nbsp;<u>luminal</u>&nbsp;membrane of {{c3::<b>principal</b>}} <b>cells</b> of the late distal tubule and collecting duct</div>",
+                "<img src=\"paste-489385753575766.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Jn0r.)>7G@",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Hyper}}-osmotic</b>&nbsp;<b>urine</b>&nbsp;is produced when the circulating levels of&nbsp;<b>ADH</b>&nbsp;are {{c2::<u>high</u>}}&nbsp;</div>",
+                "<i>e.g. water deprivation ,SIADH</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "FarBC]q2}k",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><div><b>{{c1::Hypo}}-osmotic</b>&nbsp;<b>urine</b>&nbsp;is produced when the circulating levels of&nbsp;<b>ADH</b>&nbsp;are {{c2::<u>low</u>}}&nbsp;</div></div>",
                 "<i>e.g. diabetes insipidus</i>"
             ],
             "flags": 0,
             "guid": "H)8hJ.Vzsm",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Without ADH, the&nbsp;<b>late distal tubule&nbsp;</b>and&nbsp;<b>collecting ducts&nbsp;</b>are {{c1::<u>impermeable</u>}} to H<sub>2</sub>O &nbsp;</div>",
+                "<div><i>as fluid flows down the segments, equilibration with interstitial fluid does not occur&nbsp;</i></div><div><i><img src=\"paste-489746530828827.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "fB6gJoi1^m",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "CostanzoRenal",
@@ -1280,6 +1581,51 @@
                 "RenalPathology",
                 "fa2018",
                 "nephrotic_syndrome"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The&nbsp;{{c1::fractional excretion of sodium (FE<sub>Na</sub>)}}&nbsp;is the ratio of the <b>Na<sup>+</sup>&nbsp;excreted/</b>&nbsp;<b>Na<sup>+</sup>&nbsp;filtered&nbsp;</b><div><b><br /></b></div><div><br /></div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FSO1cM5_g>",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "FArenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What equation may be used to calculate the&nbsp;<u>fractional excretion of sodium</u>&nbsp;using&nbsp;<b>creatinine</b>&nbsp;as an&nbsp;<i>estimate</i>&nbsp;of GFR?&nbsp;</div><div><br /></div><div>&nbsp;FE<sub>Na</sub>&nbsp;=&nbsp;{{c1::(P<sub>Cr</sub>&nbsp;* U<sub>Na</sub>)&nbsp;/ (U<sub>Cr</sub>&nbsp;* P<sub>Na</sub>)}}&nbsp;</div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G?6AmAX&d`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "FArenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>electrolyte disturbance</u>&nbsp;causes nausea, malaise, stupor, coma, and&nbsp;<b>seizures</b>?&nbsp;</div><div><br /></div><div>{{c1::Low Na<sup>+</sup>&nbsp;(hyponatremia)}}</div>",
+                "<img src=\"paste-252234839359848.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "z;_{A;s0Q<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "FArenal",
+                "RenalPhysiology"
             ]
         },
         {
@@ -3559,6 +3905,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>Cyclophosphamide</b> can stimulate {{c1::<b>ADH</b>}} secretion, resulting in a euvolemic hyponatremia</div>",
+                "<br /><div><img src=\"paste-236188841541633.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "LKH[S(nD`j",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "NeoplasiaPharmacology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><div><div>Which&nbsp;<b>carcinogen</b>&nbsp;is associated with the following types of cancer?</div><div><br /></div><div></div></div><div>{{c1::<u>Arsenic</u>}}&nbsp;</div></div><div><br /></div><div><span style=\"color: rgb(170, 0, 0)\">Squamous Cell Carcinoma of the Skin</span></div><div><font color=\"#aa0000\">Angiosarcoma of the Liver</font></div><div><font color=\"#aa0000\">Lung Cancer</font></div>",
                 "- Arsenic likes to bind to cysteine residues in <b>keratin</b> (explaining predilection for causing SCC of the skin), thus the presence of this compound can be detected by sampling a patients fingernails or hair"
             ],
@@ -3642,6 +4004,22 @@
                 "CSI_Ex1",
                 "EXPANSION",
                 "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In treating SIADH, {{c1::<b>hyper</b>}}tonic saline is given when treating a patient with severe symptoms, and {{c1::<b>iso</b>}}tonic saline is given for mild symptoms&nbsp;</div>",
+                "- Fluid restriction is the <b><i><u>first thing</u></i></b> done in asymptomatic patients&nbsp;<div><img src=\"paste-20422569492481.jpg\" /></div><div>- <b>Isotonic saline</b> is preferred in<u> mild</u> symptoms because it is still <i><b>relatively hypertonic</b></i> to the dilutional hyponatremia of SIADH (therefore <i>will still help</i> normalize the <u>hyponatremia</u> in a patient that is already fluid overloaded)</div><div>- when a patient has <b>severe symptoms</b> (cerebral edema, seizures), hypertonic saline is given to <b><u>ensure</u></b> that the water that has entered the brain is pulled out (gives a <b><u>strong</u></b> osmotic impetus)</div>"
+            ],
+            "flags": 0,
+            "guid": "GgNeH(Ymep",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION"
             ]
         },
         {
@@ -3831,6 +4209,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>a-glucosidase&nbsp;inhibitors </b>are not recommended if {{c1::kidney}} function is impaired</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jAR:Q.F*8|",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<b>Lead poisoning</b>&nbsp;presents in&nbsp;<u>adults</u>&nbsp;with environmental exposure (batteries, ammunition) with headache and memory loss due to {{c1::demyelination}}, as well as {{c2::abdominal}} colic",
                 "Can result in wrist / foot drop as well as fanconi syndrome"
             ],
@@ -3883,7 +4277,7 @@
             "data": "",
             "fields": [
                 "Primary polygenic polydipsia can be treated with {{c1::water restriction}}",
-                "this normalizes urine output"
+                "this normalizes urine output<div><br></div><div><b>Primary polygenic polydipsia = Psychogenic polydipsia</b> (PPD)<br></div>"
             ],
             "flags": 0,
             "guid": "bx7bN>k>a9",
@@ -3909,6 +4303,57 @@
                 "BGadd",
                 "BGnonessentials",
                 "CSI_Ex1",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients with <b>diabetic neuropathy</b>&nbsp;present with a slowly progressive decrease in vibratory sensation, {{c1::proprioception}}, and {{c2::temperature}} sensation",
+                "<div>Capillary basement membrane thickening and capillary closure occurs over time</div> <div>Occluded vasa nevorum capillaries lead to demyelination and diminished nerve conduction</div><div><br></div><div><img src=\"paste-7ac82ae5f5c8c5f6bac3b6fda520b53cb8f7d8a1.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "jV/)!KF:*<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients with <u>early</u> <b>diabetic neuropathy</b>&nbsp;typically have decreased {{c1::ankle}} reflexes",
+                "Overall decreased sensation in the feet, thus foot care is particularly important in diabetics"
+            ],
+            "flags": 0,
+            "guid": "E;]c%:d4f9",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients with <u>late</u>&nbsp;diabetic neuropathy have widespread loss of reflexes with motor {{c1::weakness}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c6/10P|d~m",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
                 "EXPANSION",
                 "Uworld"
             ]
@@ -4295,18 +4740,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "American Diabetes Association Recommends screening for diabete for&nbsp;<div>1)&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">{{c1::All patients starting age 45}}</span></div><div>2)&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">{{c2::A</span><span style=\"background-color: rgb(255, 255, 255);\">ny patient if BMI &gt; 25</span><span style=\"background-color: rgb(255, 255, 255);\">}}</span></div>",
-                "<div>If normal then repeat every 3 years&nbsp;</div><div><span>If Pre-diabetes, repeat in 1-2 years</span></div>"
-            ],
-            "flags": 0,
-            "guid": "LHsdxzXnTT",
-            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Diabetic retinopathy is characterized by&nbsp;<div>1) {{c1::Macular edema, exudates, and aneurysms&nbsp;}}</div><div>2) {{c2::Cotton wool pathches}}</div><div>3) {{c3::Neovascularization of the Retina}}</div>",
                 "<img src=\"paste-c73aff3d3ec9c12a17e1f4da9b17224eed59850c.jpg\">"
             ],
@@ -4367,7 +4800,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Diabetes mangment includes the following<div><div>1) {{c1::Hgb A1c every 6 months}},&nbsp;<span>3 months if&nbsp;</span>{{c2::uncontrolled DM}}<span>&nbsp;or&nbsp;</span>{{c3::new changes to meds}}<span>&nbsp;</span></div> <div>2) {{c4::Lipid panel annually}}</div> <div>3) {{c5::Urine Microalbumin annually}}</div> <div>4) {{c6::BUN/Cr annually}}</div></div>",
+                "Diabetes mangment includes the following<div><div>1) {{c1::Hgb A1c every 6 months}},&nbsp;<span>3 months if&nbsp;</span>{{c2::uncontrolled DM}}<span>&nbsp;or&nbsp;</span>{{c3::new changes to meds}}<span>&nbsp;</span></div> <div>2) {{c4::Lipid panel annually}}</div> <div>3) {{c5::Urine Microalbumin annually}}</div> <div>4) {{c6::BUN/Cr annually}}</div></div><div>5) {{c7::&nbsp;Foot microfilament exam}}<span>&nbsp;</span></div>",
                 ""
             ],
             "flags": 0,
@@ -4384,6 +4817,234 @@
             ],
             "flags": 0,
             "guid": "QfeT[0M+,u",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "American Diabetes Association Recommends screening for diabetes for <br>1) {{c1::All patients starting age 45}}<br>2) {{c2::Any patient if BMI &gt; 25}}",
+                "If normal then repeat every 3 years <br>If Pre-diabetes, repeat in 1-2 years"
+            ],
+            "flags": 0,
+            "guid": "AKYd?f4Q6P",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hypernatremia is characterized by a serum sodium {{c1::&gt; 145}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B`v6@7z-H~",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hyponatremia is characterized by a serum sodium {{c1::&lt; 135}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h+^P~:pH+g",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Sensible}} fluid losses are those the person is aware of&nbsp;</div>",
+                "such as through wound drainage, GI tract losses (n/v/d) and urination.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "pK.k!+}s@A",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Insensible}} fluid losses may occur without the person's awareness.&nbsp;&nbsp;</div>",
+                "Insensible losses occur daily through the skin and lungs.&nbsp; Increase in fevers, hyperhidrosis, hypercatolic states (such as in sepsis)."
+            ],
+            "flags": 0,
+            "guid": "HUH.(bJiJ:",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Increased {{c1::thirst and water intake}} is the first defense against {{c2::hypernatremia&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dKd]i4o.ZJ",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c3::Pseudo/Iso-Osmolar Hyponatremia}} is caused by&nbsp;{{c1::hyperlipidemia}} and {{c2::hyperproteinemia.}}</div>",
+                "<div><span>The total body sodium is not changed, but due to severely abnormal proteinemia or lipid states, the serum Na is read out as low, when in fact it is appropriate.</span><br></div><div><span><br></span></div><div><div>Multiple myeloma for instance can lead to hyponatremia in an acute,initial presentation, prior to any treatment.</div></div><div><br></div><div><img src=\"paste-d4cd51f5ded4012bc6e6266b097fc2f4c96161c6.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "FH{4-HF3bP",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c4::Hyperosmolar Hyponatremia}} is caused by&nbsp;{{c1::Hyperglycemia}}, M{{c2::annitol infusions}} and {{c3::immunoglobulin preparations}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O7OYFy!3*7",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Exercise associated Hyponatremia}} is a {{c2::hypoosomlar hyponatremia}} caused by {{c3::replacement of isensible losses with free water.}}&nbsp;",
+                "Common in untrained runners&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "x~XYb=S?7I",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c3::Cerebral Salt Wasting}} is characterized by urine sodium {{c1::&gt; 120}} and Urine osmolarity {{c2::&gt; 300}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y{]1dbe08q",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Cerebral salt wasting}} is caused by {{c1::disruption of neural input into the kidney,&nbsp;}}",
+                "leads to impaired Sympathetic mediated Na and water resorption at the proximal tubule."
+            ],
+            "flags": 0,
+            "guid": "wc_n_%T1*C",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Metobolic syndrome}} is a triad of&nbsp;</div> <div>1) {{c2::Obesity}}</div> <div>2) {{c3::Hypertension}}</div> <div>3( {{c4::Dyslipidemia (High LDL, Low HDL)}}</div>",
+                "<div>•Significantly increases ones risk of having a cardiovascular event</div> <div>•Hyperinsulinemia in response to insulin resistance may contribute to the development of these abnormalities</div>"
+            ],
+            "flags": 0,
+            "guid": "p};J8#P1y1",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Risk factors for Type II Diabetes include&nbsp;</div><div>1) {{c1::Family history}}</div> <div>2) {{c2::Ethnicity (Asians, Hispanics, African Americans &gt; Caucasians)}}<span>&nbsp;</span></div> <div>3) {{c3::Obesity}}</div> <div>4) {{c4::BMI (Linear association betweenand risk for Type 2 DM)}}<span>&nbsp;</span></div> <div>5) {{c5::Fat distribution (Upper body and abdominal obesity – greater risk for&nbsp;Type 2 DM)}}<span>&nbsp;</span></div> <div>6) {{c6::Sedentary lifestyle}}</div>7) {{c7::Tobacco use}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tx0Dp6rJ6Y",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Short acting insulins are typically {{c1::taken before meals&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QVrD~3gR+T",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Intermediate acting insulins are typically taken {{c1::in a hospital setting}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HWSK5T][b[",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Long acting insulins are typically taken {{c1::once a day&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c:-sBR2g$0",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Type 2 Diabetes is treated by<div>1) {{c1::Therapeutic lifestyle changes are still the first and foremost treatment}}</div><div><span>2)&nbsp;</span>{{c2::Oral and injectable hypoglycemic agents, +/- insulin}}</div><div><span>&nbsp;</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m9fsbZO%1w",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Sulfonylurias}} and {{c2::meglitinides}} increase {{c3::insulin secretion}} via {{c4::closing K+ channels in pancreatic beta islet cell membranes}}</div>",
+                "<div>2nd generation glipizide, glyburide, glimiprimide most common</div> <div><br></div><div>Severe hypoglycemic caused by an overdose and requires hospital admission for IV glucose</div> <div><br></div><div>Long half-life, use with caution in the elderly</div>"
+            ],
+            "flags": 0,
+            "guid": "yfM32Gqs^4",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Biguanides}} inhibit {{c2::hepatic gluconeogenesis}} and the action of {{c3::glucagon}} by {{c4::inhibiting mitochondiral glycerophosphate dehydrogenase&nbsp;}}</div>",
+                "Metformin is the only agent in this class on the market in the US<div><br></div><div><div>Preferred 1st line drug for any patient with Type 2 DM unless there is an immediate need for insulin</div></div><div><br></div><div><div>Can cause lactic acidosis, contraindicated in patients with renal dysfunction</div></div>"
+            ],
+            "flags": 0,
+            "guid": "k-..IJ3Mp7",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": []
         }
