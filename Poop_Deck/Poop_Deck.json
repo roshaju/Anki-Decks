@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "cc3f7d18-cb5b-11e9-9925-7085c26c9faf",
+    "crowdanki_uuid": "24b0d706-cb5c-11e9-98f9-7085c26c9faf",
     "deck_config_uuid": "cc3f7d19-cb5b-11e9-97e4-7085c26c9faf",
     "deck_configurations": [
         {
@@ -54,10 +54,8 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [
-        "taylor-swift-LOVER.jpg"
-    ],
-    "name": "Poop Deck",
+    "media_files": [],
+    "name": "Different name deck 1 ",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -108,11 +106,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is the Best Album of all time?&nbsp;<div><br></div><div>{{c1::<img src=\"taylor-swift-LOVER.jpg\">}}<br></div>",
+                "What's beethovens favorite fruit?<div><br></div><div>{{c1::baNANANA}}</div>",
                 ""
             ],
             "flags": 0,
-            "guid": "b.WO2nx5#g",
+            "guid": "JSI|!fOJQ2",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": []
         }
