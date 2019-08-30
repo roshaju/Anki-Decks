@@ -1,0 +1,3181 @@
+{
+    "__type__": "Deck",
+    "activeTags": [],
+    "children": [],
+    "crowdanki_uuid": "3258c890-cb5b-11e9-a393-7085c26c9faf",
+    "deck_config_uuid": "972b8887-c6bf-11e9-9c27-7085c26c9faf",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "972b8887-c6bf-11e9-9c27-7085c26c9faf",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    20
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 2,
+                "mult": 0.7
+            },
+            "maxTaken": 180,
+            "name": "Suppy's Graduating Intervals",
+            "new": {
+                "bury": false,
+                "delays": [
+                    15,
+                    1440,
+                    4320,
+                    10080
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    15,
+                    7,
+                    7
+                ],
+                "order": 0,
+                "perDay": 500,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 365,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "inactiveTags": [],
+    "media_files": [
+        "Helper T-cell differentiation.png",
+        "NLRP3-inflammasome-image.png",
+        "free radicals...png",
+        "paste-1280699118125057.jpg",
+        "paste-13610751361317.jpg",
+        "paste-15358803050497.jpg",
+        "paste-160352603996625.jpg",
+        "paste-160356898963921.jpg",
+        "paste-18163416695129.jpg",
+        "paste-216771294396592.jpg",
+        "paste-22595822944676.jpg",
+        "paste-227160820285441.jpg",
+        "paste-22720376996277.jpg",
+        "paste-22905060589569.jpg",
+        "paste-233487307112449.jpg",
+        "paste-28866475196879.jpg",
+        "paste-28870770164175.jpg",
+        "paste-319300753686973.jpg",
+        "paste-33779917783254.jpg",
+        "paste-34823594836319.jpg",
+        "paste-36962488549629.jpg",
+        "paste-38173669327156.jpg",
+        "paste-38379827757360.jpg",
+        "paste-39569533698396.jpg",
+        "paste-40029095198995.jpg",
+        "paste-40437117092029.jpg",
+        "paste-515353125847412.jpg",
+        "paste-515357420814708.jpg",
+        "paste-51668456570881.jpg",
+        "paste-52080773431531.jpg",
+        "paste-56547539419137.jpg",
+        "paste-56551834386433.jpg",
+        "paste-588638152819259.jpg",
+        "paste-588642447786555.jpg",
+        "paste-589651765100893.jpg",
+        "paste-60863981551617.jpg",
+        "paste-80234284057164.jpg",
+        "paste-851c3660d284ef8e62b592b098e8a47bb71ca575.jpg",
+        "paste-88721139433755.jpg",
+        "paste-91826400788982.jpg",
+        "paste-94308891885951.jpg",
+        "paste-94313186853247.jpg",
+        "paste-94334661689704.jpg",
+        "paste-94364726460755.jpg",
+        "paste-94369021428051.jpg",
+        "paste-94536525152733.jpg",
+        "paste-97126390432176.jpg",
+        "paste-aebc0b58037226bc1bd5a804dc28b9c90fdf2ac3.jpg",
+        "paste-b854e3ead5a701d91b617a21ec8e0744666b159c.jpg"
+    ],
+    "name": "Microbio::Immuno Ex 1",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "css": ".card {\n font-family: arial ;\n font-size: 26px;\n text-align: center;\n color: white;\n background-color: gray;\n}\n\n.cloze {\n font-weight: bold;\n color: turquoise;\n}",
+            "flds": [
+                {
+                    "font": "MS Shell Dlg 2",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-88141",
+            "sortf": 0,
+            "tags": [
+                "CSI_X4_TBI_SCI"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n<br>\n<br>\n<br>\n<div style=\"font-style:italic;font-size:20px;color:Green;\">\n\n\n{{Extra}}</div>\n\n",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "css": ".card {\n font-family: arial ;\n font-size: 26px;\n text-align: center;\n color: white;\n background-color: gray;\n}\n\n.cloze {\n font-weight: bold;\n color: turquoise;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n<br>\n<br>\n<br>\n<div style=\"font-style:italic;font-size:20px;color:Green;\">\n\n\n{{Extra}}</div>\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n<br>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>A&nbsp;<b>{{c2::Western}} blot</b>&nbsp;is used to analyze {{c1::protein}}</div><div><br /></div><div><br /></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xR0zmIW{]L",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BiochemLabs",
+                "Immuno_Ex1",
+                "round1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What type of&nbsp;<i>probe</i>&nbsp;is used to bind&nbsp;<u>protein</u>&nbsp;when using a&nbsp;<b>Western blot</b>?&nbsp;</div><div><br /></div><div>{{c1::Labeled antibody}}</div></div>",
+                "<div><i>binds protein that has been separated by gel electrophoresis and transferred to a membrane</i></div><div><img src=\"paste-18163416695129.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Hram,tJ0bP",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BiochemLabs",
+                "Immuno_Ex1",
+                "round1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>The&nbsp;<b>{{c1::Western}} blot</b>&nbsp;is the confirmatory test&nbsp;for HIV after a positive ELISA</div><div><br /></div><div><br /></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wkEi%?jK>$",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BiochemLabs",
+                "Immuno_Ex1",
+                "round1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Enzyme-linked immunosorbent assay (ELISA)}} is an&nbsp;<u>immunologic test</u>&nbsp;used to detect the presence of either a&nbsp;<i>specific</i>&nbsp;<b>antigen</b>&nbsp;or&nbsp;<b>antibody</b>&nbsp;in a patient's blood sample</div>",
+                "<i>major ELISA variations include direct, sandwich, and competitive; can have high sensitivity and specificity</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "jtO4Js}=Zy",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BiochemLabs",
+                "Immuno_Ex1",
+                "round1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>When using&nbsp;<b>ELISA</b>, detection involves the use of an {{c1::antibody}} linked to an {{c2::enzyme}}&nbsp;</div>",
+                "<div><i>added&nbsp;<b>substrate</b>&nbsp;then reacts with enzyme, producing a detectable signal (e.g. color change)</i></div><div><br></div><div><img src=\"paste-33779917783254.jpg\"></div><div><br></div><div>https://www.youtube.com/watch?v=RRbuz3VQ100<br></div>"
+            ],
+            "flags": 0,
+            "guid": "w{GRtC22FV",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BiochemLabs",
+                "Immuno_Ex1",
+                "round1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::LTB4}} is an arachidonic acid pathway metabolite that causes neutrophil chemotaxis.",
+                "<br /><div><img src=\"paste-233487307112449.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "r~ZR0}29|K",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "MSK",
+                "pharmacology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<b>T cells</b>&nbsp;and&nbsp;<b>B cells</b>?&nbsp;</div><div><br /></div><div>{{c1::Adaptive immunity}}</div>",
+                "<img src=\"paste-28870770164175.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "nNPV8G.2Hi",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<b>circulating antibodies</b>?&nbsp;</div><div><br /></div><div>{{c1::Adaptive immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "qxE)jlC@EN",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<b>macrophages</b>&nbsp;and&nbsp;<b>monocytes</b>?&nbsp;</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "qH24EG.Ul^",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<b>neutrophils</b>&nbsp;and&nbsp;<b>dendritic cells</b>?&nbsp;</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Nk_i_DmcA0",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<b>NK cells</b>?&nbsp;</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<div><i>even though NK cells are derived from lymphoid precursors, they are still considered part of innate immunity</i></div><img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "pJ6azg]vCL",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<b>complement</b>?&nbsp;</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "tZ|__}3r7]",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Is&nbsp;<u>innate immunity</u>&nbsp;<b>specific</b>&nbsp;or&nbsp;<b>nonspecific</b>?&nbsp;</div><div><br /></div><div>{{c1::Non-specific}}</div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "e-.:/SsJ^",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<u>innate immunity</u>&nbsp;have a&nbsp;<b>memory response</b>?</div><div><br /></div><div>{{c1::No}}</div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "e.aDy4j#9;",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive)&nbsp;<b>occurs rapidly</b>, over minutes to hours?</div><div><br /></div><div>{{c1::Innate immunity}}</div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "h..TeJ1ln1",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) has&nbsp;<b><i>limited</i>&nbsp;diversity</b>?</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "tvF`;8_D9a",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Is&nbsp;<u>adaptive immunity</u>&nbsp;<b>specific</b>&nbsp;or&nbsp;<b>nonspecific</b>?&nbsp;</div><div><br /></div><div>{{c1::Highly specific}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "b&7^JgV)V!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Does&nbsp;<u>adaptive immunity</u>&nbsp;have a&nbsp;<b>memory response</b>?</div><div><br /></div><div>{{c1::Yes}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "xX>9974.%Q",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive)&nbsp;<b>develops over long periods</b>?</div><div><br /></div><div>{{c1::Adaptive immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "HV;me12z7R",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) has&nbsp;<b><i>extensive</i>&nbsp;diversity</b>?</div><div><br /></div><div>{{c1::Adaptive immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "m:BkFNWI}3",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<i>physical</i>&nbsp;barriers, such as&nbsp;<b>skin</b>&nbsp;and&nbsp;<b>mucous membranes</b>?&nbsp;</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "m:UvkNXu}+",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<i>physiologic</i>&nbsp;barriers, such as&nbsp;<b>temperature</b>&nbsp;and&nbsp;<b>pH</b>?&nbsp;</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "M4@3vyv$4K",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) includes&nbsp;<i>chemical</i>&nbsp;barriers, such as&nbsp;<b>lysozyme</b>&nbsp;and&nbsp;<b>defensins</b>?&nbsp;</div><div><br /></div><div>{{c1::Innate immunity}}</div></div>",
+                "<img src=\"paste-28866475196879.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "e0RE}kplpA",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div><div>The&nbsp;<u>{{c2::idio}}-type</u>&nbsp;of an antibody is determined by the&nbsp;<b>{{c1::Fab}} region</b>&nbsp;(Fc or Fab)&nbsp;</div></div></div></div>",
+                "<div><i><b>f</b>ragment,&nbsp;<b>a</b>ntigen&nbsp;<b>b</b>inding; determines what antigen can be bound</i>&nbsp;</div><div><img src=\"paste-34823594836319.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "G+QCI`P>rH",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div><div>The&nbsp;<u>{{c2::iso}}-type</u>&nbsp;of an antibody is determined by the&nbsp;<b>{{c1::Fc}} region</b>&nbsp;(Fc or Fab)&nbsp;</div></div></div></div>",
+                "<div><div><i><b>C</b>onstant&nbsp;region,&nbsp;<b>C</b>arboxy&nbsp;terminal; determines class (e.g. IgG, IgM, etc.)</i>&nbsp;</div></div><div><img src=\"paste-34823594836319.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "f&H|JxV-t)",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div>The&nbsp;<u>{{c1::heavy}}&nbsp;chain</u>&nbsp;contributes to the&nbsp;<b>Fab</b>&nbsp;<i>and</i>&nbsp;<b>Fc</b>&nbsp;<b>region</b>&nbsp;of an antibody</div></div></div>",
+                "<img src=\"paste-34823594836319.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "m&cKlPB-#2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div>The&nbsp;<u>{{c1::light}} chain</u>&nbsp;<i>only</i>&nbsp;contributes to the&nbsp;<b>Fab region</b>&nbsp;of an antibody</div></div></div>",
+                "<img src=\"paste-34823594836319.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "xZ<E%ndGSA",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>primary&nbsp;lymphoid organ</u>&nbsp;is the site for&nbsp;<b>immune cell production</b>?&nbsp;</div><div><br /></div><div>{{c1::Bone marrow}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h_uR3,S|HL",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EXPANSION",
+                "Immuno_Ex1",
+                "NBME120",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div>Which&nbsp;<u>primary&nbsp;lymphoid organ</u>&nbsp;is the site of&nbsp;<b>T-cell differentiation</b>&nbsp;and&nbsp;<b>maturation</b>?&nbsp;</div><div><br /></div><div>{{c1::Thymus}}</div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ODiOK{Q<7L",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The lymph node&nbsp;<u>{{c2::paracortex}}</u>&nbsp;contains&nbsp;{{c1::<b>high endothelial venules</b>&nbsp;(HEV)}}, through which&nbsp;<b>T</b>&nbsp;and&nbsp;<b>B cells enter from the blood</b>&nbsp;</div>",
+                "<div><i>homing receptors on lymphocytes, such as L selectins, bind to addressins present on HEVs&nbsp;</i></div><div><img src=\"paste-80234284057164.jpg\"></div><div><br></div><div>Histologically, the endothelial cells at these sites are plump and cuboidal in shape rather than the flattened endothelial cells observed in other sites. These regions develop under the influence of cytokines released during antigen processing and presentation and the subsequent activation of lymphocytes. Evidence for this is that animals raised in a germ-free environment (essentially without any foreign antigen stimulus) fail to develop HEV.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c1#!xBJ9iK",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The {{c1::thymus}} is an encapsulated&nbsp;<u>lymphoid organ</u>&nbsp;located in the <b>anterosuperior mediastinum</b></div>",
+                "<img src=\"paste-88721139433755.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "eaJ<U/T*(!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The<b>&nbsp;{{c1::cortex}}</b>&nbsp;of the&nbsp;<u>thymus</u>&nbsp;is&nbsp;<b>dense</b>&nbsp;and comprised of&nbsp;<b><i>{{c2::immature}}</i>&nbsp;T cells</b></div>",
+                "<img src=\"paste-13610751361317.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "kf``+Hid{*",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Memory B}} cells</b>&nbsp;are mature,&nbsp;<u>differentiated B cells</u>&nbsp;characterized by&nbsp;<b>surface IgG</b>,&nbsp;<b>IgA</b>, or&nbsp;<b>IgE</b></div>",
+                "<img src=\"paste-91826400788982.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Pcw#u7iXH`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::<b>Major histocompatibility complexes</b>&nbsp;(MHCs)}}&nbsp;<u>present antigen fragments</u>&nbsp;to&nbsp;<b>T cells</b>&nbsp;and <b>bind T-cell receptors</b> (TCRs)&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Dzxwvxv#HK",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b style=\"font-weight: bold; \">Major histocompatibility complexes</b><b>&nbsp;</b>(MHCs) are encoded by {{c1::HLA}} genes&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lQWmH<TyI4",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>MHC class</u>&nbsp;is associated with the gene products of&nbsp;<b>HLA-A</b>,&nbsp;<b>HLA-B</b>, and&nbsp;<b>HLA-C</b>?&nbsp;</div><div><br /></div><div>{{c1::MHC I}}</div>",
+                "<div><i>\"MHC&nbsp;<b>1</b>&nbsp;loci have&nbsp;<b>1</b>&nbsp;letter\"</i>&nbsp;</div><div><img src=\"paste-94369021428051.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Gw(e*F|flf",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>MHC class</u>&nbsp;is&nbsp;expressed on&nbsp;<b><u>all</u>&nbsp;nucleated cells</b>&nbsp;and&nbsp;<b>platelets</b>?&nbsp;</div><div><br /></div><div>{{c1::MHC I}}&nbsp;</div>",
+                "<div><i>not expressed on RBCs</i>&nbsp;</div><div><img src=\"paste-94364726460755.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "sb~`G`a{`3",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>MHC {{c2::I}}</b>&nbsp;binds to the&nbsp;<u>T-cell receptor</u>&nbsp;(TCR) and&nbsp;<b>CD-{{c1::8}}</b>&nbsp;</div>",
+                "<div><u style=\"font-style: italic; \">rule of 8</u><i>: MHC&nbsp;</i><b style=\"font-style: italic; \">II</b><i>&nbsp;* CD</i><b style=\"font-style: italic; \">4</b><i>&nbsp;=&nbsp;</i><b style=\"font-style: italic; \">8</b><i>; MHC&nbsp;</i><b style=\"font-style: italic; \">I</b><i>&nbsp;* CD</i><b style=\"font-style: italic; \">8</b><i>&nbsp;=&nbsp;</i><b style=\"font-style: italic; \">8</b>&nbsp;</div><div><img src=\"paste-94364726460755.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "NwnUs+OE*c",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>MHC class</u>&nbsp;is formed by&nbsp;<b>1 long chain</b>&nbsp;and&nbsp;<b>1 short chain</b>?&nbsp;</div><div><br /></div><div>{{c1::MHC I}}</div>",
+                "<img src=\"paste-94313186853247.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "VFQTpI]W/",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>MHC class</u>&nbsp;has a&nbsp;<i><b>smaller</b></i>&nbsp;<b>peptide binding groove</b>&nbsp;(8 - 10 AA)?&nbsp;</div><div><br /></div><div>{{c1::MHC I}}</div></div>",
+                "<img src=\"paste-97126390432176.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Pkb8H<~]xu",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<u>protein</u>&nbsp;is associated with&nbsp;<b>MHC I</b>?&nbsp;</div><div><br /></div><div>{{c1::β<sub>2</sub>-microglobulin}}</div>",
+                "<img src=\"paste-94308891885951.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "L!/y*7NRZ/",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>MHC class</u>&nbsp;is associated with the gene products of&nbsp;<b>HLA-DP</b>,&nbsp;<b>HLA-DQ</b>, and&nbsp;<b>HLA-DR</b>?&nbsp;</div><div><br /></div><div>{{c1::MHC II}}</div></div>",
+                "<div><div><i>\"MHC&nbsp;<b>2</b>&nbsp;loci have&nbsp;<b>2</b>&nbsp;letters\"</i>&nbsp;</div></div><div><img src=\"paste-94364726460755.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "NN:jct{a:;",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>MHC class</u>&nbsp;is&nbsp;expressed on&nbsp;<b>antigen presenting cells (APCs)</b>,&nbsp;<i>only</i>?&nbsp;</div><div><br /></div><div>{{c1::MHC II}}&nbsp;</div></div>",
+                "<div><i>- e.g. B cells, macrophages, dendritic cells</i></div><div><i><br /></i></div><div><i>- <b>Bare lymphocyte syndrome </b>is caused by defective expression of MHCII on APC surfaces</i></div><div><img src=\"paste-94364726460755.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Ag_ziliw5G",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Uworld",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><b>MHC {{c2::II}}</b>&nbsp;binds to the&nbsp;<u>T-cell receptor</u>&nbsp;(TCR) and&nbsp;<b>CD-{{c1::4}}</b>&nbsp;</div></div>",
+                "<div><div><u style=\"font-style: italic; \">rule of 8</u><i>: MHC&nbsp;</i><b style=\"font-style: italic; \">II</b><i>&nbsp;* CD</i><b style=\"font-style: italic; \">4</b><i>&nbsp;=&nbsp;</i><b style=\"font-style: italic; \">8</b><i>; MHC&nbsp;</i><b style=\"font-style: italic; \">I</b><i>&nbsp;* CD</i><b style=\"font-style: italic; \">8</b><i>&nbsp;=&nbsp;</i><b style=\"font-style: italic; \">8</b>&nbsp;</div></div><div><img src=\"paste-94364726460755.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "e9Rf6cQVw9",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>MHC class</u>&nbsp;is formed by&nbsp;<b>2 equal length chains</b>?&nbsp;</div><div><br /></div><div>{{c1::MHC II}}</div></div>",
+                "<img src=\"paste-94334661689704.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "J=AR{e%cm5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>MHC class</u>&nbsp;has a&nbsp;<i><b>larger</b></i>&nbsp;<b>peptide binding groove</b>&nbsp;(13 - 17 AA)?&nbsp;</div><div><br /></div><div>{{c1::MHC II}}</div>",
+                "<img src=\"paste-97126390432176.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "l1dhCS,kCU",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What&nbsp;<u>protein</u>&nbsp;is associated with&nbsp;<b>MHC II during synesthesis</b>?&nbsp;</div><div><br></div><div>{{c1::Invariant chain}}</div></div>",
+                "<img src=\"paste-94364726460755.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "B*[Zz&r0M`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>How many&nbsp;<u>classes</u>&nbsp;of&nbsp;<b>MHC I</b>&nbsp;are expressed on a single cell?</div><div><br /></div><div>{{c1::Six}}</div></div>",
+                "<i>three from each parent (<b>codominant expression</b>); the same is true for MHC II</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "IS!KuBVG4W",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>CD marker(s)</u>&nbsp;(CD4, CD8) does the<b>&nbsp;T-cell</b>&nbsp;express in the&nbsp;<b>thymic cortex</b>?&nbsp;</div><div><br /></div><div>{{c1::Both CD4&nbsp;<i>and</i>&nbsp;CD8}}</div>",
+                "<div><i>also expresses the&nbsp;<b>T-cell receptor</b>&nbsp;(TCR) and&nbsp;<b>CD3</b></i>&nbsp;</div><div><img src=\"paste-94536525152733.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "kjjxSfG6H]",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>CD marker(s)</u>&nbsp;(CD4, CD8) does the<b>&nbsp;T-cell</b>&nbsp;express in the&nbsp;<b>thymic medulla</b>?&nbsp;</div><div><br /></div><div>{{c1::Either CD4&nbsp;<i>or</i>&nbsp;CD8}}</div></div>",
+                "<div><i>also expresses the </i><b style=\"font-style: italic; \">T-cell receptor</b><i>&nbsp;(TCR) and </i><b style=\"font-style: italic; \">CD3</b>&nbsp;</div><img src=\"paste-94536525152733.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "s!^&_}a2?(",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<u>selection</u>&nbsp;allows&nbsp;<i>survival</i>&nbsp;of T cells expressing TCRs<b>&nbsp;capable of binding self-MHC</b>&nbsp;on cortical epithelial cells?&nbsp;</div><div><br /></div><div>{{c1::Positive selection}}&nbsp;</div>",
+                "<img src=\"paste-94536525152733.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "K5]!8Oo!).",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Where does&nbsp;<u>positive selection</u>&nbsp;of&nbsp;<b>T cells</b>&nbsp;occur?&nbsp;</div><div><br /></div><div>{{c1::Thymic cortex}}</div>",
+                "<img src=\"paste-94536525152733.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "ihAY:7;UY)",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<u>selection</u>&nbsp;causes T cells expressing TCRs with<b>&nbsp;high affinity for self antigens</b>&nbsp;on cortical epithelial cells to either undergo <u>apoptosis</u>&nbsp;or become <u>regulatory T cells</u></div><div><br /></div><div>{{c1::Negative selection}}&nbsp;</div>",
+                "<i>these antigens are&nbsp;<b>tissue-restricted self-antigens</b>;&nbsp;</i><div><img src=\"paste-94536525152733.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "sbDka<wS;V",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "fa2018",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Where does&nbsp;<u>negative selection</u>&nbsp;of&nbsp;<b>T cells</b>&nbsp;occur?&nbsp;</div><div><br /></div><div>{{c1::Thymic medulla}}</div>",
+                "<img src=\"paste-94536525152733.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "FEau)2&x;6",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What <u>non-nucleated cell</u>&nbsp;expresses <b>MHC class I</b>?&nbsp;<div><br /></div><div>{{c1::Platelets}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "olp-N(hizC",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>MHC {{c2::I}}</b>&nbsp;presents&nbsp;<u>{{c1::endogenously}}</u>&nbsp;synthesized antigens to&nbsp;<b>CD8<sup>+</sup>&nbsp;cytotoxic T cells</b></div>",
+                "<img src=\"paste-22595822944676.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "G`]2qq/>G(",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Antigen loading</u>&nbsp;onto&nbsp;<b>MHC I</b>&nbsp;occurs in the&nbsp;<b>RER</b>&nbsp;after breakdown of <i>endogenous antigen</i> by the {{c1::proteasome}} in the cytosol, and delivery to the RER&nbsp;via {{c2::TAP (transporter associated with antigen processing)}}</div>",
+                "<br /><div>endogenous antigens are tagged by ubiquitin ligases for proteasomal degradation, then the cytosolic peptides are taken into the rough ER via the TAP whereupon they are loaded into nascent MHC1 molecules</div><div><br /></div><div><img src=\"paste-22595822944676.jpg\" /></div><div><img src=\"paste-22905060589569.jpg\" /></div><div><br /></div>"
+            ],
+            "flags": 0,
+            "guid": "G<%tAw[J6,",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Uworld",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>MHC {{c2::II}}</b>&nbsp;presents&nbsp;<u>{{c1::exogenously}}</u>&nbsp;synthesized antigens to&nbsp;<b>CD4<sup>+</sup>&nbsp;cytotoxic T cells</b>&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c_3*BWSV?P",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Antigen loading</u>&nbsp;onto&nbsp;<b>MHC II</b>&nbsp;occurs following&nbsp;<i>release</i>&nbsp;of the&nbsp;<b>{{c2::invariant chain}}</b>&nbsp;in an&nbsp;{{c1::<u>acidified</u>&nbsp;<b>endosome</b>}}</div>",
+                "<img src=\"paste-22720376996277.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "M,sd0=D;Dd",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<u>first signal</u>&nbsp;for&nbsp;<b>T-cell activation</b>&nbsp;is binding between the&nbsp;<b>{{c1::TCR}}</b>&nbsp;and&nbsp;<b>{{c1::MHC/peptide complex}}</b>&nbsp;</div>",
+                "<div><i>e.g. antigen is presented on MHC II and recognized by TCR on CD4<sup>+</sup>&nbsp;T cell</i>&nbsp;</div><div><img src=\"paste-160352603996625.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "IzUP|4s*>m",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<u>second signal</u>&nbsp;for&nbsp;<b>T-cell activation</b>&nbsp;is a&nbsp;<i>costimulatory</i>&nbsp;<i>signal</i>&nbsp;via interaction between&nbsp;<b>{{c1::B7}}</b>&nbsp;(APC) and&nbsp;<b>{{c1::CD28}}</b>&nbsp;(T cell)&nbsp;</div>",
+                "<div><i><u>note</u>: B7 is also known as&nbsp;</i><b style=\"font-style: italic; \">CD80/86</b>&nbsp;</div><div><img src=\"paste-160356898963921.jpg\"></div><div><br></div><div><img src=\"paste-b854e3ead5a701d91b617a21ec8e0744666b159c.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "daf%2W~egC",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Differentiation of&nbsp;<u>helper T cells</u>&nbsp;to&nbsp;<b>{{c2::Th<sub>2</sub>}}</b>&nbsp;is&nbsp;<i>inhibited</i>&nbsp;by&nbsp;{{c1::<b>IFN-γ</b>&nbsp;(from Th1 cells)}}</div></div>",
+                "<img src=\"Helper T-cell differentiation.png\" />"
+            ],
+            "flags": 0,
+            "guid": "kC/rY+`gj.",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div><div>Differentiation of&nbsp;<u>helper T cells</u>&nbsp;to&nbsp;<b>{{c2::Th<sub>1</sub>}}</b>&nbsp;is&nbsp;<i>induced</i>&nbsp;by&nbsp;<b>{{c1::IFN-</b><b>γ</b><b>}}</b>&nbsp;and&nbsp;<b>{{c1::IL-12}}</b></div></div></div></div>",
+                "<img src=\"Helper T-cell differentiation.png\" />"
+            ],
+            "flags": 0,
+            "guid": "E5HQivg5+o",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<u>antibody digestion</u>&nbsp;results in&nbsp;<b>2 monovalent Fab regions</b>&nbsp;and&nbsp;<b>1 Fc</b>&nbsp;<b>region</b>?&nbsp;</div><div><br /></div><div>{{c1::Papain cleavage}}</div>",
+                "<div><i>cannot agglutinate antigen due to lack of bivalence</i>&nbsp;</div><div><img src=\"paste-36962488549629.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "f~f*~=5gH*",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Ig{{c2::M}}</b>&nbsp;exists as a&nbsp;<u>{{c1::pentamer}}</u>&nbsp;held by a<b>&nbsp;J chain</b>&nbsp;when&nbsp;<b>secreted</b></div>",
+                "<img src=\"paste-38173669327156.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "I5r;(J)Bj6",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>How many&nbsp;<u>identical antigens</u>&nbsp;can a&nbsp;<i>single</i>&nbsp;<b>IgM molecule bind</b>?</div><div><br></div><div>{{c1::5}}</div>",
+                "<i>Not 10 because IgM has no hinge region and therefore no flexability, this results in steric hinderance&nbsp;</i><div><img src=\"paste-38173669327156.jpg\"></div>"
+            ],
+            "flags": 0,
+            "guid": "fX&%+pbgel",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<b>IgM&nbsp;</b>fix complement?</div><div><br /></div><div>{{c1::Yes}}</div>",
+                "<img src=\"paste-39569533698396.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "FJ;Y$kWxBF",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>immunoglobulin</u>&nbsp;is&nbsp;<b>produced&nbsp;</b><i style=\"font-weight: bold; \">first</i>&nbsp;in response to an infection?</div><div><br /></div><div>{{c1::IgM}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eB)dgqEUdA",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u>&nbsp;is the main antibody produced during the&nbsp;<b><i>primary</i>&nbsp;response</b>&nbsp;to antigen?&nbsp;</div><div><br /></div><div>{{c1::IgM}}</div>",
+                "<img src=\"paste-38379827757360.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "yz3kP5r#si",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div>The&nbsp;<b>{{c1::avidity}}</b>&nbsp;of an antibody refers to the&nbsp;<b>number of sites available</b>&nbsp;to bind epitopes&nbsp;</div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KElb578KT>",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>immunoglobulin</u>&nbsp;has the&nbsp;<i>highest</i>&nbsp;<b>avidity</b>?&nbsp;</div><div><br></div><div>{{c1::IgM}}&nbsp;</div></div>",
+                "In biochemistry, <b>avidity</b> refers to the accumulated strength of <i>multiple</i> affinities of individual non-covalent binding interactions, such as between a protein receptor and its ligand, and is commonly referred to as functional affinity."
+            ],
+            "flags": 0,
+            "guid": "fQ+7Qb#H]R",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u>&nbsp;has the&nbsp;<i>highest</i>&nbsp;<b>affinity</b>?&nbsp;</div><div><br></div><div>{{c1::IgG}}&nbsp;</div>",
+                "Try to think about it as though you were measuring the intensity with which Velcro sticks to something fuzzy. The affinity is the strength with which one Velcro spike attaches to the object. The avidity is how strongly the whole piece of Velcro is capable of grabbing on"
+            ],
+            "flags": 0,
+            "guid": "pcS*y~(</Z",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>immunoglobulin</u>&nbsp;is the main antibody produced during the&nbsp;<b><i>secondary&nbsp;</i>response</b>&nbsp;to antigen?&nbsp;</div><div><br /></div><div>{{c1::IgG}}</div></div>",
+                "<img src=\"paste-38379827757360.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "ho[GmPQMnY",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the&nbsp;<u>most abundant</u>&nbsp;<b>immunoglobulin isotype</b>&nbsp;in<b>&nbsp;<i>serum</i></b>?</div><div><br /></div><div>{{c1::IgG}}</div>",
+                "<img src=\"paste-40029095198995.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "zD02~wf)Cj",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<b>IgG</b>&nbsp;fix complement?</div><div><br /></div><div>{{c1::Yes}}</div>",
+                "<img src=\"paste-39569533698396.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "m-YSCM@?Ch",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<b>IgG</b>&nbsp;cross the placenta?&nbsp;</div><div><br /></div><div>{{c1::Yes}}</div>",
+                "<div><i>provides infants with passive immunity</i>&nbsp;</div><div><img src=\"paste-39569533698396.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "C}{|qKv`u<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin(s)</u>&nbsp;<b>fix complement</b>?&nbsp;</div><div><br /></div><div>{{c1::IgM and IgG}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yq<[~->?p3",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin(s)</u>&nbsp;<b>cross the placenta</b>?&nbsp;</div><div><br /></div><div>{{c1::IgG}}</div>",
+                "<i>provides infants with passive immunity</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "q-ss>)YXTq",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>immunoglobulin</u>&nbsp;<b>opsonizes bacteria</b>?&nbsp;</div><div><br /></div><div>{{c1::IgG}}</div></div>",
+                "<div><i>also neutralizes bacterial toxins and viruses</i>&nbsp;<i>&nbsp;</i></div><div><i><img src=\"paste-39569533698396.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "Bs^;Ag;CXQ",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u>&nbsp;is the&nbsp;<b>most&nbsp;<i>produced</i>&nbsp;antibody overall</b>?&nbsp;</div><div><br /></div><div>{{c1::IgA}}</div>",
+                "<i>however, has lower&nbsp;<u>serum</u>&nbsp;concentration than IgG</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "b7U$r=vF2F",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><b>IgA&nbsp;</b>exists as a&nbsp;<u>{{c1::monomer}}</u>&nbsp;in&nbsp;<b>circulation</b>&nbsp;</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fI2#Nxs{VL",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><b>Ig{{c2::A}}</b>&nbsp;exists as a&nbsp;<u>{{c1::dimer}}</u>&nbsp;held by a<b>&nbsp;J chain</b>&nbsp;when&nbsp;<b>secreted</b></div></div>",
+                "<img src=\"paste-40437117092029.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "bg%d:^)$d/",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>IgA</b>&nbsp;crosses epithelial cells by {{c1::transcytosis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j8BnD>)q&,",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u>&nbsp;is produced in the&nbsp;<b>GI tract</b>&nbsp;and&nbsp;<b>protects against gut infections</b>?&nbsp;</div><div><br /></div><div>{{c1::IgA}} &nbsp;</div>",
+                "<i>e.g. Giardia</i>&nbsp;<div><br /></div><div><img src=\"paste-56551834386433.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "A?7yK}hv_K",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "Uworld",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u>&nbsp;is released into&nbsp;<b>breast milk</b>&nbsp;(colostrum)?&nbsp;</div><div><br /></div><div>{{c1::IgA}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y;C-il=jz.",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u>&nbsp;is released into&nbsp;<b>secretions</b>&nbsp;(tears, saliva, mucus)?&nbsp;</div><div><br /></div><div>{{c1::IgA}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fX+Mh8z!;l",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<b>IgA</b>&nbsp;fix complement?</div><div><br /></div><div>{{c1::No}}</div>",
+                "<img src=\"paste-39569533698396.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "u3r>:quXK(",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<b>IgA</b>&nbsp;cross the placenta?&nbsp;</div><div><br /></div><div>{{c1::No}}</div>",
+                "<img src=\"paste-39569533698396.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "i+f/~wz,$^",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>IgA</b>&nbsp;is transported through the mucosa via&nbsp;<u>binding</u>&nbsp;between the&nbsp;<b>{{c1::J chain}}</b>&nbsp;of IgA and the&nbsp;<b>{{c2::polymeric Ig}} receptor</b>&nbsp;on epithelial cells</div>",
+                "<div>IgA dimers bind to pIgR found on basolateral surface of intestinal epithelial cells and undergoes transcytosis</div><div><br /></div><div><img src=\"paste-56547539419137.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "vimW.D3^aV",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "Uworld",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>When&nbsp;<b>IgA</b>&nbsp;is released into the&nbsp;<u>mucosa</u>, the&nbsp;<b>poly Ig receptor</b>&nbsp;becomes the&nbsp;<b>{{c1::secretory component}}</b>, which&nbsp;<i>protects</i>&nbsp;IgA from luminal proteases</div>",
+                "<div>As linked IgA dimer is released into intestinal lumen, a portion of pIgR remains attached (secretory component), which forms the complete secretory IgA molecule (protected from luminal enzymes by the secretory component)</div><div><br /></div><div>thus <b>oral vaccines</b>&nbsp;will induce <b>GI tract immunity</b></div><div><b><br /></b></div><div><b><img src=\"paste-56547539419137.jpg\" /></b></div>"
+            ],
+            "flags": 0,
+            "guid": "OD7Yt_eVCw",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "Uworld",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>IgE</b>&nbsp;<i>cross-links</i>&nbsp;when exposed to&nbsp;<u>allergen</u>, mediating&nbsp;<b>type {{c1::I}} hypersensitivity reactions</b>&nbsp;</div>",
+                "<div>- When multiple bound IgE on mast cells / basophils cross links a multivalent antigen, this pulls the FceRI (high affinity IgE receptor) together&nbsp;</div><div><br /></div><div>- clumping of many FceRI induces signalling that leads to degranulation</div><div><br /></div><div><img src=\"paste-1280699118125057.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "QNs/.j&Jmc",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "Uworld",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u>&nbsp;contributes to&nbsp;<b>immunity to worms</b>&nbsp;by&nbsp;<b>activating eosinophils</b>?</div><div><br /></div><div>{{c1::IgE}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NMIO}sRq^i",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What is the&nbsp;<u>least abundant</u>&nbsp;<b>immunoglobulin isotype</b>&nbsp;in<b>&nbsp;<i>serum</i></b>?</div><div><br /></div><div>{{c1::IgE}}&nbsp;</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rz:`KUGQo0",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin(s)</u>&nbsp;can be secreted by&nbsp;<b>plasma cells</b>?&nbsp;</div><div><br></div><div>{{c1::IgA, IgG, IgM or IgE (one type per plasma cell)}}</div>",
+                "<img src=\"paste-39569533698396.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "qz,:H&8f1!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immune cell</u>&nbsp;is a&nbsp;<b>lymphocyte&nbsp;</b>member of the&nbsp;<b>innate immune system</b>?&nbsp;</div><div><br /></div><div>{{c1::Natural killer (NK) cells}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x0n_oHgXW}",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunoglobulin</u><b>&nbsp;</b><i>typically</i>&nbsp;mediates&nbsp;<b>antibody-dependent cellular cytotoxicity</b>&nbsp;(ADCC)?</div><div><br></div><div>{{c1::IgG}}&nbsp;</div>",
+                "<i><b>IgE</b>&nbsp;can mediate ADCC when the target is a <b>parasitic</b> <b>worm</b></i>&nbsp;<div><br></div><div>The <b>antibody-dependent cellular cytotoxicity</b> (<b>ADCC</b>), also referred to as antibody-dependent cell-mediated cytotoxicity, is a mechanism of cell-mediated immune defense whereby an effector cell of the immune system actively lyses a target cell, whose membrane-surface antigens have been bound by specific antibodies.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ix/gV+;Q=$",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Maternal IgG crossing the placenta</b>&nbsp;is an example of&nbsp;{{c1::<u>passive</u>}} immunization</div>",
+                "<img src=\"paste-216771294396592.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "BD2T{|NVIL",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What part of an antigen should be&nbsp;<u>preserved</u>&nbsp;to&nbsp;<b>elicit an immune response</b>&nbsp;when given as an&nbsp;<b>inactivated/killed vaccine</b>?&nbsp;</div><div><br /></div><div>{{c1::Epitope}}&nbsp;</div>",
+                "<i>i.e. the precise region on the immunogen that interacts with the antibody</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "osyH|nh&A3",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the&nbsp;<u>first</u>&nbsp;type of&nbsp;<b>immunoglobulin</b>&nbsp;produced in a&nbsp;<b>neonate</b>?&nbsp;</div><div><br /></div><div>{{c1::IgM}}</div>",
+                "<img src=\"paste-52080773431531.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "M6Y0AHrt^E",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>By&nbsp;<b>age 1</b>, the&nbsp;<u>total IgA level</u>&nbsp;is approximately {{c1::20}}% of&nbsp;<b>adult</b>&nbsp;<b>levels</b>&nbsp;</div>",
+                "<div><i>hence why breastfeeding is very important</i>&nbsp;</div><div><img src=\"paste-52080773431531.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "vayE(0/QYD",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>A&nbsp;<b>{{c1::hapten}}</b>&nbsp;is a&nbsp;<u>small antigen</u>&nbsp;that may&nbsp;<b>conjugate with larger proteins</b>&nbsp;to elicit an immune response</div>",
+                "<i>e.g. penicillin may act as a hapten and bind to RBCs, causing immune hemolytic anemia</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "v9S//.v*mE",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Immuno_Ex1",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>If&nbsp;<b>O<sub>2</sub></b>&nbsp;<i>accepts</i>&nbsp;<u>one</u>&nbsp;electron, it forms&nbsp;{{c1::superoxide (O<sub>2</sub><sup>-</sup>)}}&nbsp;</div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p=#mU)uj~~",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter1Pathoma",
+                "PathomaPathology",
+                "pathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<u>mitochondrial enzyme</u>&nbsp;reduces&nbsp;<b>superoxide</b>&nbsp;(<b>O<sub>2</sub></b><sup>-</sup>) to&nbsp;<b>H<sub>2</sub>O<sub>2</sub></b>?&nbsp;</div><div><br /></div><div>{{c1::Superoxide dismutase}}</div>",
+                "<img src=\"free radicals...png\" />"
+            ],
+            "flags": 0,
+            "guid": "gfL8ap+/>U",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter1Pathoma",
+                "PathomaPathology",
+                "pathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::<b>Toll-like receptors</b>&nbsp;(TLRs)}}&nbsp;on cells of the&nbsp;<u>immune system</u>&nbsp;are activated by<b>&nbsp;</b>{{c2::<b>pathogen-associated molecular patterns</b>&nbsp;(PAMPs)}}&nbsp;that are commonly shared by microbes&nbsp;</div>",
+                "<i>examples of PAMPs include LPS (gram negative bacteria), flagellin (bacteria) and nucleic acids (viruses)</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "GMj&b)Vp]r",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Are&nbsp;<b>toll-like receptors</b>&nbsp;(TLRs) found on cells of the&nbsp;<u>innate</u>&nbsp;or&nbsp;<u>adaptive</u>&nbsp;immune system?</div><div><br /></div><div>{{c1::Both :)}}</div>",
+                "<i>i.e. both macrophages, dendritic cells, etc. AND lymphocytes</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "zA-}@c.P/U",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Toll-like receptor</b>&nbsp;(TLR)&nbsp;<i>activation</i>&nbsp;results in&nbsp;<u>upregulation</u>&nbsp;of {{c1::<b>NF-κB</b>}}, a&nbsp;<b>nuclear</b>&nbsp;<b>transcription</b>&nbsp;<b>factor</b>&nbsp;that activates immune response genes&nbsp;</div><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M{8elM}0Tf",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Complement</b>&nbsp;may be activated via the&nbsp;<u>{{c2::classic}} pathway</u>,&nbsp;which is mediated by&nbsp;<b>{{c1::IgM}}</b>&nbsp;and&nbsp;<b>{{c1::IgG}}</b>&nbsp;</div>",
+                "<div><i>\"<b>GM&nbsp;</b>makes&nbsp;<b>classic</b>&nbsp;cars\"</i>&nbsp;</div><div><img src=\"paste-515357420814708.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Hso;~,bsgu",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What&nbsp;<u>complement protein</u>&nbsp;does the&nbsp;<b>classical pathway</b>&nbsp;of activation begin with?&nbsp;</div><div><br /></div><div>{{c1::C1}}&nbsp;</div></div>",
+                "<div><i>C1 activated by IgM or IgG bound to antigen</i>&nbsp;</div><div><img src=\"paste-515353125847412.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "etZ98WIhVp",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Complement</b>&nbsp;may be activated via the&nbsp;<u>{{c1::alternative}} pathway</u>, which occurs&nbsp;<i><b>spontaneously</b></i>&nbsp;or when&nbsp;<b>microbrial</b>&nbsp;<b>products</b>&nbsp;<b>activate</b>&nbsp;<b>complement</b></div>",
+                "<img src=\"paste-515353125847412.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "b(9Uw`&H)E",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<u>complement protein</u>&nbsp;does the&nbsp;<b>alternative pathway</b>&nbsp;of activation begin with?&nbsp;</div><div><br /></div><div>{{c1::C3}}&nbsp;</div>",
+                "<div><i>C3 activated spontaneously or by microbial products</i>&nbsp;</div><div><img src=\"paste-515353125847412.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "PSBne.L-3=",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Complement</b>&nbsp;may be activated via the&nbsp;<u>{{c2::lectin}} pathway</u>, which is mediated by&nbsp;<b>{{c1::mannose}}</b>&nbsp;on microbial surfaces &nbsp;</div>",
+                "<div><i>complement may also be activated by other sugars on the microbe surface</i>&nbsp;</div><div><img src=\"paste-515353125847412.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "fu[*)>n-rg",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What&nbsp;<u>complement protein</u>&nbsp;does the&nbsp;<b>lectin pathway</b>&nbsp;of activation begin with?&nbsp;</div><div><br /></div><div>{{c1::C1-like complex}}&nbsp;</div></div>",
+                "<img src=\"paste-515353125847412.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Dt,u63O[Rc",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><i>All</i>&nbsp;pathways of&nbsp;<u>complement activation</u>&nbsp;result in the production of&nbsp;<b><i>{{c1::C3 convertase}}</i></b>, which converts&nbsp;<b>C3</b>&nbsp;to&nbsp;<b>C3a</b>&nbsp;and&nbsp;<b>C3b</b></div>",
+                "<img src=\"paste-515353125847412.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "G#`r09KLs9",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which form of&nbsp;<i><b>C3 convertase</b></i>&nbsp;is produced via the&nbsp;<u>alternative</u>&nbsp;complement&nbsp;pathway?&nbsp;</div><div><br /></div><div>{{c1::C3bBb}}</div></div>",
+                "<img src=\"paste-515353125847412.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "gS]VaG&ciB",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><i>All</i>&nbsp;pathways of&nbsp;<u>complement activation</u>&nbsp;result in the production of&nbsp;<b><i>{{c1::C5 convertase}}</i></b>, which converts&nbsp;<b>C5</b>&nbsp;to&nbsp;<b>C5a</b>&nbsp;and&nbsp;<b>C5b</b></div>",
+                "<img src=\"paste-515353125847412.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "CtEzy:gxC!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which form of&nbsp;<i><b>C5 convertase</b></i>&nbsp;is produced via the&nbsp;<u>lectin</u>&nbsp;and&nbsp;<u>classic</u>&nbsp;complement&nbsp;pathways?&nbsp;</div><div><br /></div><div>{{c1::C4b2b3b}}</div></div>",
+                "<img src=\"paste-515353125847412.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "h5j&%~b~=g",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which form of&nbsp;<i><b>C5 convertase</b></i>&nbsp;is produced via the&nbsp;<u>alternative</u>&nbsp;complement&nbsp;pathway?&nbsp;</div><div><br /></div><div>{{c1::C3bBb3b}}</div></div>",
+                "<img src=\"paste-515353125847412.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "T5{4&iE)}",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>complement proteins</u>&nbsp;are part of the&nbsp;<b>membrane attack complex</b>&nbsp;(MAC)?</div><div><br /></div><div>{{c1::C5b-C9}}&nbsp;</div>",
+                "<div><i>lyses microbes by creating a hole in the cell membrane</i>&nbsp;</div><div><img src=\"paste-515353125847412.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "m>FB]B)}ie",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which&nbsp;<u>complement protein</u>&nbsp;is a&nbsp;<b>neutrophil chemotactic</b>?</div><div><br></div><div>{{c1::C5a}}&nbsp;</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h:u9k/f#L$",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>complement protein</u>&nbsp;is an&nbsp;<b>opsonin</b>&nbsp;for phagocytosis?</div><div><br /></div><div>{{c1::C3b}}</div><div><div><br /></div><div><b><br /></b></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Nq0o-tBg{i",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>During leukocyte&nbsp;<u>rolling</u>,&nbsp;<b>{{c1::selectin}}</b>&nbsp;\"speed bumps\" are&nbsp;<i>upregulated</i>&nbsp;on&nbsp;<b>{{c2::endothelial}} cells</b></div>",
+                "<img src=\"paste-589651765100893.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "x5nJ>7VJFf",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::E}}-selectin</b>&nbsp;expression is&nbsp;<i>induced</i>&nbsp;by&nbsp;<b>{{c1::IL-1}}</b>&nbsp;and&nbsp;<b>{{c1::TNF}}</b>&nbsp;</div><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": ")BE/WPJ|r",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::Selectins}}</b>&nbsp;on&nbsp;<u>endothelial cells</u>&nbsp;bind&nbsp;{{c1::<b>Sialyl-Lewis<sup>X</sup></b>}}&nbsp;on&nbsp;<u>leukocytes</u>, resulting in&nbsp;<b>rolling</b>&nbsp;of leukocytes along the vessel wall &nbsp;</div>",
+                "<div><i>a similar interaction also occurs between&nbsp;</i><b style=\"font-style: italic; \">GlyCAM-1</b><i>&nbsp;(endothelium) and&nbsp;</i><b style=\"font-style: italic; \">CD34</b>&nbsp;<i>(leukocytes)</i>&nbsp;</div><div><img src=\"paste-589651765100893.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "nD34U4=_+b",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::ICAM-1}}</b>&nbsp;and&nbsp;<b>{{c1::VCAM-1}}</b>&nbsp;are&nbsp;<u>cellular adhesion molecules</u>&nbsp;that are&nbsp;<i>upregulated</i>&nbsp;on&nbsp;<b>endothelium</b>&nbsp;during leukocyte adhesion&nbsp;</div>",
+                "<div><i>also referred to as&nbsp;<b>CD54</b>&nbsp;(ICAM-1) and&nbsp;<b>CD106</b>&nbsp;(VCAM-1)</i>&nbsp;</div><div><img src=\"paste-589651765100893.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "A=|vQGUW.]",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c2::<b>Cellular adhesion molecules&nbsp;</b>(CAMs)}}&nbsp;on&nbsp;<u>endothelial cells</u>&nbsp;bind&nbsp;<b>{{c1::integrins}}</b>&nbsp;on&nbsp;<u>leukocytes</u>, resulting in firm&nbsp;<b>adhesion</b>&nbsp;to the vessel wall&nbsp;</div>",
+                "<div><i>specifically,&nbsp;<b>ICAM-1</b>&nbsp;binds to&nbsp;<b>CD11/18 integrins</b>&nbsp;and&nbsp;<b>VCAM-1</b>&nbsp;binds to&nbsp;<b>VLA-4 integrin</b></i>&nbsp;</div><div><img src=\"paste-589651765100893.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "ewx<?}4SFw",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Integrin</b>&nbsp;expression is&nbsp;<i>upregulated</i>&nbsp;on leukocytes by&nbsp;<b>{{c1::C5a}}</b>&nbsp;and&nbsp;{{c2::<b>LTB</b><sub style=\"font-weight: bold; \">4</sub>}}&nbsp;</div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uy/nIa%>cA",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Neutrophil</b>&nbsp;<u>chemotactants</u>&nbsp;include&nbsp;<b>bacterial products</b>,&nbsp;<b>{{c1::IL-8}}</b>,&nbsp;<b>{{c2::C5a}}</b>, and&nbsp;{{c3::<b>LTB<sub>4</sub></b>}}&nbsp;</div>",
+                "<i>other chemotactants include&nbsp;</i><b style=\"font-style: italic; \">kallikrein</b><i>&nbsp;and&nbsp;</i><b style=\"font-style: italic; \">platelet-activating factor</b>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "rL!?MO`e9e",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Destruction</u>&nbsp;of&nbsp;<b>phagocytosed</b>&nbsp;<b>material</b>&nbsp;occurs through&nbsp;{{c2::<b>respiratory</b>&nbsp;(<b>oxidative</b>)&nbsp;<b>burst</b>}}, which utilizes&nbsp;{{c1::<b>O<sub>2</sub></b>}}&nbsp;as a substrate</div>",
+                "<img src=\"paste-588642447786555.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "bXhdGt@LYF",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>O<sub>2</sub></b>&nbsp;is converted to&nbsp;{{c2::<b>superoxide</b>&nbsp;(<b>O<sub>2</sub><sup>-</sup></b>)}}&nbsp;by the enzyme&nbsp;<i style=\"font-weight: bold; \">{{c1::NADPH oxidase}}</i>&nbsp;(oxidative burst)</div>",
+                "<img src=\"paste-588638152819259.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "jrK1VW;YCs",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>O</b><sub style=\"font-weight: bold; \">2</sub><span style=\"font-weight: bold\"><sup>-</sup></span>&nbsp;is converted to&nbsp;{{c1::<b>H</b><sub style=\"font-weight: bold; \">2</sub><b>O</b><sub style=\"font-weight: bold; \">2</sub>}}&nbsp;by the enzyme&nbsp;<b><i>superoxide dismutase</i></b>&nbsp;(oxidative burst)</div>",
+                "<img src=\"paste-588638152819259.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Du7d0Hu[:?",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>H</b><sub style=\"font-weight: bold; \">2</sub><b>O</b><sub style=\"font-weight: bold; \">2</sub>&nbsp;is converted to&nbsp;{{c1::<b>HClO</b><sup><b>-</b></sup>&nbsp;(hypochlorite)}}&nbsp;by the enzyme&nbsp;<i><b>{{c2::myeloperoxidase}}</b>&nbsp;</i>(oxidative burst)</div>",
+                "<div><i>HClO<sup>-</sup>&nbsp;(hypochlorite) may also be referred to as bleach</i>&nbsp;</div><img src=\"paste-588638152819259.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "i>I2B(4o~!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>immunodeficiency</u>&nbsp;is characterized by&nbsp;<i>inability</i>&nbsp;to&nbsp;<b>generate HClO</b><sup style=\"font-weight: bold; \">-</sup>&nbsp;(<b>hypochlorite</b>) from <b>H<sub>2</sub>O<sub>2</sub></b>?&nbsp;</div><div><br /></div><div>{{c1::Myeloperoxidase deficiency}}</div><div><br /></div><div><b><i><br /></i></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w%5z(1lb|2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Lactoferrin}}</b>&nbsp;is a protein found in&nbsp;<b>secretory fluids</b>&nbsp;and<i>&nbsp;</i><b>neutrophils</b>&nbsp;that&nbsp;<u>inhibits microbrial growth</u>&nbsp;via<b>&nbsp;{{c2::iron chelation}}</b>&nbsp;</div><div><br /></div><div><br /></div>",
+                "Almost all pathogens have an absolute requirement for iron, thus iron restriction inhibits growth of most pathogens."
+            ],
+            "flags": 0,
+            "guid": "u~4fA7+d]e",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaPathology",
+                "inflammation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>DiGeorge syndrome</b>&nbsp;is a developmental&nbsp;<u>failure</u>&nbsp;to develop the&nbsp;<b>{{c1::3rd}}</b>&nbsp;and&nbsp;<b>{{c1::4th}}</b>&nbsp;<b>pharyngeal pouches</b>&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s=[tERb.q:",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaInflammation",
+                "immunodeficiency"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>DiGeorge syndrome</b>&nbsp;is characterized by {{c1::<u>decreased</u>}} number of&nbsp;<b>T cells</b>&nbsp;</div>",
+                "<i>thus have recurrent&nbsp;<b>viral</b>&nbsp;and&nbsp;<b>fungal</b>&nbsp;infections</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "B)8,^kEZ4R",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "PathomaInflammation",
+                "immunodeficiency"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>complement proteins</u>&nbsp;are&nbsp;<i>decreased</i>&nbsp;in&nbsp;<b>C1 esterase inhibitor deficiency</b>?&nbsp;</div><div><br /></div><div>{{c1::C4 and C2}}</div>",
+                "C1-inhibitor regulates the C1 complex, thus unregulated C1 complex consumes lots of C4 and C2 to make C3 convertase (C2b4b)<div><br /></div><div><img src=\"paste-15358803050497.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Hl}^Ob(dJ<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Chapter2Pathoma",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "PathomaInflammation",
+                "fa2018",
+                "immunodeficiency"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>complement</u>&nbsp;deficiencies result in increased risk for&nbsp;<b><i>Neisseria</i>&nbsp;infection</b>?&nbsp;</div><div><br /></div><div>{{c1::Terminal Complement (C5-C9) Deficiencies}}</div>",
+                "- MAC is the main defense against neisseria"
+            ],
+            "flags": 0,
+            "guid": "qM`<t~l8ex",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Chapter2Pathoma",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "PathomaInflammation",
+                "fa2018",
+                "immunodeficiency"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Early Complement Deficiencies (C1-C4) </b>are&nbsp;characterized by&nbsp;<u>increased</u>&nbsp;risk of&nbsp;<b>severe</b>, recurrent&nbsp;<b>pyogenic</b>&nbsp;<b>{{c1::sinopulmonary</b>::<b>location</b>}}&nbsp;infections&nbsp;</div>",
+                "<i>- specifically, increased risk of pneumococcal and h. flu pneumonia</i><div><i><br /></i></div><div><i>- this begins in <b>infancy</b></i></div>"
+            ],
+            "flags": 0,
+            "guid": "r;QeI<[<7P",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Chapter2Pathoma",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "PathomaInflammation",
+                "fa2018",
+                "immunodeficiency"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Deficiency</u>&nbsp;of&nbsp;<i>early</i>&nbsp;{{c1::<b>complement</b>}}&nbsp;<b>proteins</b>&nbsp;are associated with&nbsp;<b>SLE</b></div>",
+                "<i>e.g. C1q, C4, and&nbsp;<b>C2</b>&nbsp;(due to impaired ability to clear Ag/Ab complexes)</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "M!x%)`3)E?",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Chapter2Pathoma",
+                "Immuno_Ex1",
+                "autoimmune_disorders"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which <u>immune cell</u>&nbsp;has the cell surface protein <b>CD28</b>?&nbsp;<div><br /></div><div>{{c1::T cells}}</div>",
+                "<img src=\"paste-319300753686973.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "zq_wu?d97)",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which&nbsp;<u>immune cell</u>&nbsp;has the cell surface protein <b>CD16</b>&nbsp;and&nbsp;<b>CD56</b>?&nbsp;<div><br /></div><div>{{c1::NK cells}}</div>",
+                "<img src=\"paste-51668456570881.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "MGnm~xx%`a",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Each <b>B cell</b> produces light chains that are either&nbsp;{{c1::kappa}} or {{c1::lambda}}",
+                "- this is typically produced in a ratio of 3:1 in a given sample of tissue<br /><div><br /></div><div><img src=\"paste-227160820285441.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "k?qoKvu9OC",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "PathomaNeoplasia",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tumor cells can <u>evade apoptosis / immune surveillance </u>by downregulating expression of {{c1::<b>MHC class I</b>}} or alternative splicing of the {{c2::<b>Fas</b>}} <b>receptor</b>",
+                "<div>- Thus&nbsp;Immunodeficiency (both primary and secondary) increases risk for cancer; alternative splicing of the Fas receptor splices out transmembrane domain converting it to a soluble form not expressed on cell surface</div><div><br /></div><div>- this is an example of the cancer hallmark:&nbsp;<u>evasion of apoptosis</u></div>"
+            ],
+            "flags": 0,
+            "guid": "tCx[97k8X=",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "PathomaNeoplasia",
+                "Uworld",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>IFN-y</u> is important for activating the <b>{{c1::respiratory burst}}</b>&nbsp;in phagocytes</div><div><br /></div>",
+                "<div>The <b>respiratory burst</b>&nbsp;is important because it allows phagocytes the ability to <u>kill </u>ingested microbes</div><img src=\"paste-60863981551617.jpg\" /><br /><div><i>Steps 1 &amp; 2 are the Respiratory Burst, step 3 converts the product to HClO- (the most potent antibacterial - H2O2 is still antibacterial), this distinguishes CGD from a Myeloperoxidase Deficiency (nitro blue tetrazolium test)</i></div>"
+            ],
+            "flags": 0,
+            "guid": "z!f~AO_UmB",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "InflamImmunoPharm"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A <b>direct ELISA</b> tests for an {{c1::antigen}}, whereas the <b>indirect ELISA</b> tests for an {{c2::antibody against an antigen}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IfwP.KCbF!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) is&nbsp;<b>microbial resistance not heritable</b>?</div><div><br /></div><div>{{c1::Adaptive immunity}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QJL.gqvJOd",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) does&nbsp;<b>microbial resistance persist through generations</b>?</div><div><br /></div><div>{{c1::Innate immunity}}</div>",
+                "This does NOT change within a organism's lifetime"
+            ],
+            "flags": 0,
+            "guid": "d}{AZu(GHf",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which type of&nbsp;<u>immunity</u>&nbsp;(innate or adaptive) utilizes C-Reactive Protein and Complement?</div><div><br></div><div>{{c1::Innate immunity}}</div>",
+                "The <b>complement system</b> is a part of the immune system that enhances (complements) the ability of antibodies and phagocytic cells to clear microbes and damaged cells from an organism, promote inflammation, and attack the pathogen's cell membrane.<div><br></div><div><b>C-reactive protein</b> (<b>CRP</b>) is an annular (ring-shaped), pentameric protein found in blood plasma, whose circulating concentrations rise in response to inflammation.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "H-H7Vfv@1j",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "LPS, bacterial flagellin, and viral nucleic acids are detected by the innate immune system via {{c1::<b>Pattern-Recognition</b>}} <b>Receptors</b>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o2Q}/PD{t2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Differentiation of&nbsp;<u>helper T cells</u>&nbsp;to&nbsp;<b>{{c2::Th<sub>17</sub>}}</b>&nbsp;is&nbsp;<i>inhibited</i>&nbsp;by&nbsp;{{c1::<b>IFN-y</b>}} and {{c1::<b>IL-4</b>}}&nbsp;(from Th1 and Th2 cells)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i9wwZQ1uX",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What&nbsp;<b>acute phase reactant</b>&nbsp;is&nbsp;<u>upregulated</u>&nbsp;during inflammation to opsonize targets, fixing complement and facilitate phagocytosis?<div><br /></div><div>{{c1::C-reactive protein}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Csht}#GTYM",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Immuno_Ex1",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What&nbsp;<b>acute phase reactant</b>&nbsp;can be measured clinically as a nonspecific sign of ongoing inflammation?<div><br /></div><div>{{c1::C-reactive protein}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E]D/PX_E#<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The <b>{{c1::inflammasome}}</b> is a cytoplasmic protein complex that recognizes products of dead cells, microbial products, and crystals",
+                "<div><div>- inflammasome leads to increased IL-1B / IL-18 production which leads to inflammatory response (neutrophilic recruitment and invasion)</div><div><br /></div><div><i><img src=\"NLRP3-inflammasome-image.png\" /></i></div></div>"
+            ],
+            "flags": 0,
+            "guid": "bG.Jo^bMOF",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Activation of the <b>inflammasome</b>&nbsp;leads to increased production of {{c1::IL-1B}} and IL-18",
+                "the inflammasome cleaves pro-IL-1B/18 to their active forms<br /><div><br /></div><div><i><img src=\"NLRP3-inflammasome-image.png\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "zS=6lWyIY(",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>C3bBb is naturally unstable and dissociates. {{c1::Properdin}}<span>&nbsp;</span><span>binds to C3bBb and stabilizes&nbsp;</span><span>it.&nbsp;</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ys]-6x)I{>",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::C1 inhibitor (C1INH)}} is a major regulator of classic pathway activation. {{c1::C1INH}} </div><div>binds to {{c2::C1r}} and {{c2::C1s}} causing them to dissociate from {{c2::C1q}}.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I}]hWx/v0C",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Decay&nbsp;<span>accelerating factor (DAF, CD55) acts to dissociate</span><span>{{c1::C4b2b (C3 convertase)}}&nbsp;</span><span>resulting in loss of enzymatic activity and inhibition of the {{c2::classical}} and {{c2::lectin}}&nbsp;</span><span>pathways.</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lH`c;6OTc&",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Factor I}}&nbsp;<span>with co</span><span>-</span><span>factor help from&nbsp;</span>{{c2::CD46&nbsp;}}&nbsp;<span>cleaves&nbsp;</span>{{c3::C4b}}&nbsp;<span>following the dissociation of&nbsp;</span>{{c3::C4b2b}}&nbsp;<span>by DAF.</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cXb^30v[ms",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Factor H}} competes with {{c2::Factor B}} for binding to surface bound {{c2::C3b}}.&nbsp;<span>Additionally;&nbsp;</span>{{c1::Factor H}}<span>&nbsp;can disassociate&nbsp;</span>{{c3::C3bBb}}<span>&nbsp;complexes.</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pE<S;)5u=y",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Anaphylatoxin inactivator}} or {{c2::serum carboxypeptidase B}} removes the {{c3::terminal arginine residues}} from {{c4::anaphylatoxins (C3a, C4a, and C5a)}} resulting in their inactivation.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P/10|i>J88",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Vitronectin (S protein)}} binds to the C567 complex preventing insertion of the MAC into the membrane, thus preventing cytolysis",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eXE-v|!*2O",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::CD59}} binds {{c2::C5b-8 complexes}} and prevents {{c2::C9}} polymerization",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wF.9z<WV7!",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Type I Hereditary angioedema}} is caused by deficiency in {{c2::C1 esterase inhibitor.}}&nbsp;Leads to {{c3::spontaneous edema formation in various tissues}} – can lead to {{c4::asphyxiation and death if in larynx.}}",
+                "<img src=\"paste-851c3660d284ef8e62b592b098e8a47bb71ca575.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "h1Ty<l6$R^",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::HLA-1}} molecules are presented by {{c2::everyone}} while {{c1::HLA-2}} molecules are only presented by {{c2::antigen presenting cells }}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vD>DA>D1wG",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::HLA-1}} molecules are a {{c2::monomers (with B2 micoglobulin)}} while {{c1::HLA-2}} molecules are {{c2::dimers&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BFAZeg0iO6",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c3::CD1}} functions similarly to {{c1::HLA-2}} with a structure similar to {{c1::HLA-1}}; it presents {{c2::lipid antigens}} and may activate {{c4::CD4+}}, {{c4::CD8+}} or {{c4::NK cells}}",
+                "<img src=\"paste-aebc0b58037226bc1bd5a804dc28b9c90fdf2ac3.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "i6Qgm#c_kw",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Precursor T cells that express neither CD4 nor CD8 and are called {{c1::double negative (DN) cells}}",
+                "Located in the thymus&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "K::zMWErI",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c3::Double negative (DN) cells}} begin to express the genes for {{c1::RAG-1 and RAG-2 (recombinase-activating genes 1 and 2)}} which are responsible for {{c2::randomly rearranging the genes that encode the alpha, beta and gamma chains of the T cell antigen receptor (TCR).}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A{oSqo*1aJ",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::The Double Negative T cell}} that productively rearrange the {{c2::B chain}} will express it on its surface with an invariant molecule {{c3::pre-Talpha}} along with {{c3::CD3}} and {{c3::zeta}}. Together they make up the {{c4::pre-T cell receptor}} and the cell is now called a pre-T cell.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qmY6Q(Qdf7",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>DiGeorge syndrome</b>&nbsp;is a developmental&nbsp;<u>failure</u>&nbsp;to develop the {{c1::thymus}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g8-5dIc.YF",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Negative co-stimulatory interactions of T cells include the binding of accessory molecules {{c1::PD-L1 (on APC)}} to {{c2::PD-1 (on T cell)}} and {{c3::B7 (on APC)}} to {{c4::CTLA-4 (on T cell).}}",
+                "PD-L1/PD-1 binding strongly inhibits T cells and induces Treg differentiation. This interaction is essential for maintaining peripheral tolerance and for limiting the immune response."
+            ],
+            "flags": 0,
+            "guid": "Ch&|zY6$5+",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::CD3}} is a chaperone for the {{c2::TCR}} – transporting newly synthesized {{c2::TCR molecules}} to the cell surface. It also functions as a {{c3::cellular signaling molecule via transmembrane and cytoplasmic domains}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y<vg[7GtsL",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Activation of a {{c1::CD4+ T helper cell}} includes the transcription of {{c2::IL-2 and IL-2 receptor genes}}. {{c2::IL-2}} is an {{c3::autocrine growth factor for T cells}}",
+                "About 48 hours following the initial recognition event of TCR binding HLA class II + exogenously processed antigen, the T cells become enlarged lymphoblasts, enter G1 phase of the cell cycle and begin to undergo repeated rounds of cell division. This proliferation (entering the cell cycle) eventually leads to differentiation."
+            ],
+            "flags": 0,
+            "guid": "o~8WTxU>A*",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Upon initial activation, it is thought that all T helper cells can be classified as {{c1::T-helper-0 (Th0)}}. These are a precursor to the {{c2::Th1}}, {{c2::Th2}}, and {{c2::Th17}} phenotypes and produce cytokines - {{c3::IL-2}}, {{c4::IL-4}}, and {{c5::IFN-gamma}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cuLR@TN~ZL",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Antigen stimulation of Th0 CD4+ T cells in the presence of specific cytokines {{c1::IFN-gamma}} and {{c2::IL-12}} drive T cells toward the {{c3::Th1 subset.}}",
+                "Initially, the source of IL-12 is from the APC and IFN-gamma is initially from natural killer cells, gamma-delta TCR+ T cells or from dendritic cells."
+            ],
+            "flags": 0,
+            "guid": "HVe1G~>v=x",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Activated Th0 cell will convert to a {{c1::Th1 cell}}&nbsp; and produce {{c2::IFN-gamma}} and {{c3::IL-2}}. This is known as a {{c4::type 1 immune response}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w`y=P44`39",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cytokines of&nbsp;type 1 immune response activate<div>1. {{c1::Natural killer cells}}<br>2. {{c2::Cytotoxic T cells}}<br>3. {{c3::Macrophages to become more phagocytically active}}<br>4. {{c4::Other Th1 cells to proliferate and become more active}}<br>5. {{c5::B cells to undergo the isotype switch and produce certain</div>subclasses of IgG (usually IgG3)<br><div></div>}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xP5%&R#v62",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When Th0 CD4+ T cells are stimulated with antigen in the presence of {{c1::IL-4,}} and {{c3::IL-10}} {{c2::Th2 cells}} develop.",
+                "The initial source of IL-4 early in driving the CD4+ Th0 cell to a Th2 phenotype is usually the mast cell certain types of dendritic cells or certain NK cell subsets."
+            ],
+            "flags": 0,
+            "guid": "E@k8Ydc_r<",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T-helper-2 (Th2) - produce {{c1::IL-4}}, {{c2::IL-5}}, {{c3::IL-10}} and {{c4::IL-13.}}<div><br></div><div><br></div>",
+                "The cytokines influence an isotype switch in B cells to IgG1, IgG2, IgG4, IgA and IgE and assist in the activation of other Th2 cells and recruitment of granulocytes such as eosinophils and basophils."
+            ],
+            "flags": 0,
+            "guid": "zPF_g;07B+",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "IL-4, IL-5, IL-10 and IL-13&nbsp;influence {{c1::antibody-mediated or “humoral” immune responses}} – a.k.a., {{c2::type 2 immune responses.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b&1i^~2.pk",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When Th0 CD4+ T cells are stimulated with antigen in the presence of {{c1::IL-6,}} {{c1::IL-1B}} and {{c1::IL-21}}, {{c2::Th17 cells}} develop",
+                "The initial source of Il-1 and IL-6 in driving the CD4+ Th0 cell to a Th17 phenotype are APCs"
+            ],
+            "flags": 0,
+            "guid": "e}Zqoh$S~O",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T-helper-17 (Th17) - produce {{c1::IL-17}}, {{c2::IL-21}}, and {{c3::IL-22}}",
+                "Additionally IL-21 produced by Th17 cells acts in a positive feedback loop to stimulate the differentiation of Th0 cells to Th17 cells.<div><br></div><div>Th17 cells produce cytokine IL-17 which is found in autoimmune diseases including, rheumatoid arthritis, multiple sclerosis, and psoriasis and is important in gut inflammation.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "L`>dqfz+vH",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T-regulatory (Tregs) – produce {{c1::TGF-B}}, {{c2::IL-10}} and {{c3::IL-4.}}&nbsp;They function to {{c4::regulate the autoimmune response and limit damaging host responses to foreign antigens.}}",
+                "Tregs specific for self-antigens can develop in the thymus (natural Tregs) or Tregs specific for self- or foreign- antigens can develop outside the thymus (induced Tregs)."
+            ],
+            "flags": 0,
+            "guid": "tGvenS,6[i",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::RIG-I-like receptors (RLRs)}} are a family of receptors that are critical for {{c2::immune responses to viruses}}. This family of receptors binds to {{c3::double stranded RNA}} from RNA viruses resulting in the production of {{c4::type I interferons.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IfD]ZRDcZ,",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Scavenger receptors}} recognize anionic polymers and acetylated low density lipoproteins expressed by certain {{c3::pathogens}} as well as {{c2::old and dying host cells.}}",
+                "Recognition and binding of these ligands by scavenger receptors on a phagocyte, leads to their removal."
+            ],
+            "flags": 0,
+            "guid": "fq)STw6-.X",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Phosphatidyl serine (PS)}} is presented on apoptic cells to {{c2::scavenger receptors}} on macrophages to and induce {{c3::phagocytosis}}",
+                "PS is a phospholipid on the inner leaf of the plasma membrane. When a host cell undergoes programmed cell death – “apoptosis”, PS becomes exposed on the surface of the cell and can be bound by macrophages that have PS receptors (PSR) which triggers the phagocyte to engulf the cell undergoing apoptosis."
+            ],
+            "flags": 0,
+            "guid": "G)eUY7fN_Y",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "There are two cellular systems involved in the process of phagocytosis– {{c1::the myeloid granulocyte system}} and the {{c2::mononuclear system}}. The cellular components of either system can be considered \"professional phagocytes\".",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F*A4WpC^qb",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Basophils (granules stain with basic dyes) are found in the {{c1::circulation (normally ~1% or less of all leukocytes)}} but the tissue based version is the {{c2::mast cell}}. Mostly, these cells kill pathogens {{c3::extracellularly}} by {{c3::releasing granule contents onto the surface of a pathogen without phagocytosis.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h^B;)%#[Gj",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "eosinophils (granules stain with acid dyes, e.g. eosin) – are found in the circulation (normally ~1-2% of all leukocytes) and like basophils appear to mostly kill pathogens {{c1::extracellularl}}y by {{c2::releasing granule contents on the surface of a pathogen without phagocytosis.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c0Nw<1a{Eh",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Foreign-derived substances such as {{c1::bacterial lipopolysaccharides}}, {{c2::n-formyl methionyl peptides}} (or {{c3::f-Met-Leu-Phe}}), and {{c4::certain bacterial cell wall components}} exert {{c5::potent chemotactic influence}}&nbsp;",
+                "Both lipopolysaccharide and f-Met-Leu-Phe are unique to bacteria. This provides a simple specific signal for the presence of bacteria towards which phagocytes will move. These substances fall into the category of pathogen-associated molecular patterns (PAMPs)."
+            ],
+            "flags": 0,
+            "guid": "A[}BYisZd;",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Host molecules that are chiefly responsible for opsonization include<br><br>1. {{c1::Complement component 3b (C3b)}}<br>2. {{c2::The Fc region of certain classes of antibody, especially IgG1 and IgG3}}<br>3. {{c3::Fragments of acute phase proteins, for example C-reactive protein}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x*.bfcp?@r",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Two enzymatic pathways produce nitric oxide (NO) via oxidation of {{c1::L-arginine}} - the {{c2::constitutive NO synthase (cNOS}}) and the {{c3::inducible NO synthase (iNOS)}}.",
+                "Phagocytes have both enzymes, but predominantly use the iNOS to kill ingested pathogens, tumor cells, etc.."
+            ],
+            "flags": 0,
+            "guid": "O)(1fEcg=!",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "iNOS is “inducible” in the presence of {{c1::Tumor necrosis factor-alpha (TNFa)}}, {{c2::gIFN}}&nbsp;and some microbial products such as {{c3::LPS}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lf9XX4__73",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The products of iNOS and, in particular, NO, inhibit {{c1::iron-sulfur-dependent enzymes}}, {{c2::damages DNA}}, {{c3::membrane phospholipids}}, etc. of many pathogens",
+                "NO also mediates a variety of biological reactions for the host. iNOS is under strict regulatory control by cytokines. It can also damage host components as we have seen above in the superoxide pathway."
+            ],
+            "flags": 0,
+            "guid": "LLRs](,n|$",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nitric oxide (iNOS pathway) and super oxide anion (respiratory burst pathway) may interact to form a highly active molecule called {{c1::peroxynitrite.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zMz$rior-I",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c3::C-reactive protein}} is synthesized only in the liver in response to {{c1::IL-1}} and {{c2::IL-6}}",
+                "Cleavage of CRP by enzymes from neutrophils produces peptides that opsonize, enhance complement fixation, and promote chemotaxis. Elevated CRP has also been shown to be a reliable marker of unstable coronary artery disease – an inflammatory disease."
+            ],
+            "flags": 0,
+            "guid": "MS.TFQ$Z(8",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A read-out of the induction of acute phase proteins is the {{c1::erythrocyte sedimentation rate (ESR).}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h~)6b~cQ@a",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tight binding (a.k.a. “arrest” or “firm adhesion”) – is initiated under the influence of {{c1::chemokines}}.",
+                "Chemokines can be either cell bound on endothelial cells or secreted locally by inflammatory cells. Classical examples are the neutrophil chemoattractant IL-8 and the macrophage chemokine called macrophage inflammatory protein-1 (MIP-1). Other chemoattractant molecules contribute significantly to this process (e.g. C5a, C3a, bacterial products, etc.)."
+            ],
+            "flags": 0,
+            "guid": "s^v[[#W`-:",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The adhesion molecules involved in homing of effector lymphocytes have been termed {{c1::vascular addressins}}&nbsp;because they direct extravasation of different populations of lymphocytes to {{c2::particular lymphoid}} and even {{c2::non-lymphoid organs}}",
+                "&nbsp;– that is, to the correct vascular “address”."
+            ],
+            "flags": 0,
+            "guid": "K-vY!0qkB<",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T lymphocytes and other mononuclear cells possessing the receptor {{c1::LPAM-1 (aka integrin alpha 4 beta 7)}} will bind to {{c2::MAdCAM-1 ligand}} on {{c3::endothelial cells lining the vasculature that feeds a mucosal site.}}",
+                "This directs such T cells to specifically home into and extravasate at mucosal sites (ie. MALT). Presumably, this ensures that during the activation of effector cells during a primary response and memory cells during a secondary response, a lymphocyte will home to the site where it is most likely to encounter the antigen it recognizes."
+            ],
+            "flags": 0,
+            "guid": "r4KZldhkW;",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Unlike effector lymphocytes which are known to specifically traffic or home to specific sites, naïve lymphocytes tend to {{c1::randomly migrate amongst the secondary lymphoid tissue}} using adhesion molecules found on {{c2::all HEVs}}",
+                "Presumably, this is done in an attempt to increase the possibility that the lymphocyte will encounter its antigen in the lymph nodes or spleen."
+            ],
+            "flags": 0,
+            "guid": "GI,F(eryJ",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::matrix metalloproteinases}} can regulate the action of cytokines and growth factors by converting them from {{c2::latent to active}} form or in some cases {{c3::degrading cytokines so that they become inactive.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nbTZa5[8GC",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        }
+    ]
+}
