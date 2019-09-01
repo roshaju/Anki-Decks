@@ -1,5 +1,6 @@
 {
     "__type__": "Deck",
+    "activeTags": [],
     "children": [],
     "crowdanki_uuid": "972b8886-c6bf-11e9-9d5a-7085c26c9faf",
     "deck_config_uuid": "972b8887-c6bf-11e9-9c27-7085c26c9faf",
@@ -34,8 +35,8 @@
                     7,
                     7
                 ],
-                "order": 1,
-                "perDay": 200,
+                "order": 0,
+                "perDay": 500,
                 "separate": true
             },
             "replayq": true,
@@ -56,34 +57,64 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
+    "inactiveTags": [],
     "media_files": [
         "Arsenic.png",
+        "Craniopharyngioma development.png",
         "Screen Shot 2017-03-06 at 6.45.13 PM.png",
         "Screen Shot 2017-03-12 at 5.30.04 PM.png",
+        "Screen Shot 2017-05-01 at 3.37.12 PM.png",
+        "Screen Shot 2017-05-01 at 3.53.37 PM.png",
+        "Screen Shot 2017-05-01 at 3.54.52 PM.png",
+        "Screen Shot 2017-05-01 at 3.58.08 PM.png",
+        "Screen Shot 2017-05-01 at 4.10.52 PM.png",
+        "Screen Shot 2017-05-01 at 4.21.09 PM.png",
+        "Screen Shot 2017-05-01 at 4.24.52 PM.png",
+        "Screen Shot 2017-05-01 at 4.27.06 PM.png",
+        "Screen Shot 2017-05-01 at 5.43.20 PM.png",
+        "Screen Shot 2017-05-01 at 5.48.24 PM.png",
+        "Screen Shot 2017-05-01 at 6.06.47 PM.png",
         "Water deprivation testing.png",
+        "basophilic-stippling-4-bovine-4-regen-anemia-arrows.png",
         "cm poison t.png",
         "paste-10101763080548.jpg",
+        "paste-109367047225866.jpg",
         "paste-111054969372905.jpg",
+        "paste-122303488721219.jpg",
+        "paste-122432337740099.jpg",
+        "paste-124987843280897.jpg",
         "paste-1275304639201281.jpg",
+        "paste-130043019788861.jpg",
         "paste-1319035996209153.jpg",
+        "paste-14040248090625.jpg",
+        "paste-154034707103745.jpg",
+        "paste-159729833738241.jpg",
+        "paste-164303973908481.jpg",
+        "paste-164308268875777.jpg",
         "paste-195068824649729.jpg",
+        "paste-20143396618241.jpg",
         "paste-20422569492481.jpg",
+        "paste-20491288969217.jpg",
         "paste-21453361643871.jpg",
+        "paste-21513491186253.jpg",
         "paste-223200860439003.jpg",
         "paste-223394133967317.jpg",
         "paste-225507257876957.jpg",
-        "paste-236188841541633.jpg",
         "paste-242983479803905.jpg",
         "paste-252234839359848.jpg",
+        "paste-25799868547411.jpg",
+        "paste-25825638351024.jpg",
         "paste-269397528674520.jpg",
         "paste-29283087024713.jpg",
         "paste-319305048654269.jpg",
         "paste-328281530302637.jpg",
+        "paste-32933809226028.jpg",
         "paste-333972361969780.jpg",
         "paste-334071146217473.jpg",
         "paste-334096916021512.jpg",
         "paste-33986076213395.jpg",
         "paste-33990371180691.jpg",
+        "paste-350954662658049.jpg",
         "paste-351001907298305.jpg",
         "paste-359274014310858.jpg",
         "paste-373902672920830.jpg",
@@ -93,12 +124,18 @@
         "paste-396897927823858.jpg",
         "paste-396902222791154.jpg",
         "paste-397821345792562.jpg",
+        "paste-40235253629211.jpg",
+        "paste-412995465248769.jpg",
+        "paste-412999760216065.jpg",
         "paste-42563125903361.jpg",
+        "paste-42799349104890.jpg",
         "paste-436166813811307.jpg",
         "paste-436192583614686.jpg",
         "paste-44525925957633.jpg",
         "paste-44538810859521.jpg",
         "paste-450292961247579.jpg",
+        "paste-460575112954346.jpg",
+        "paste-460669602234836.jpg",
         "paste-468138550362113.jpg",
         "paste-468245924545003.jpg",
         "paste-474701260390401.jpg",
@@ -106,11 +143,26 @@
         "paste-482792978776600.jpg",
         "paste-489385753575766.jpg",
         "paste-489746530828827.jpg",
+        "paste-490695718601070.jpg",
+        "paste-490700013568366.jpg",
+        "paste-490923351867676.jpg",
+        "paste-491236884480556.jpg",
+        "paste-496584118763793.jpg",
+        "paste-496721557717585.jpg",
+        "paste-501922763112705.jpg",
+        "paste-501927058080001.jpg",
+        "paste-501944237949283.jpg",
+        "paste-501948532916579.jpg",
         "paste-514395348140033.jpg",
+        "paste-539301863489537.jpg",
         "paste-554115205693441.jpg",
+        "paste-602180184702977.jpg",
+        "paste-60352880443393.jpg",
         "paste-60687887892872.jpg",
         "paste-696712414887970.jpg",
-        "paste-71163313128050.jpg",
+        "paste-71446780968961.jpg",
+        "paste-73735998537729.jpg",
+        "paste-76914274336769.jpg",
         "paste-783058437407268.jpg",
         "paste-783079912243748.jpg",
         "paste-783114271982115.jpg",
@@ -123,12 +175,14 @@
         "paste-7ac82ae5f5c8c5f6bac3b6fda520b53cb8f7d8a1.jpg",
         "paste-86917253169688.jpg",
         "paste-9328668966913.jpg",
+        "paste-950f026f1e7f4d916679a4957a9b7d44a0cde7e7.jpg",
         "paste-96666828931334.jpg",
+        "paste-c0005392d156d6956949674fc700100b1dbde0a5.jpg",
         "paste-c73aff3d3ec9c12a17e1f4da9b17224eed59850c.jpg",
         "paste-d4cd51f5ded4012bc6e6266b097fc2f4c96161c6.jpg"
     ],
     "mid": "1542737394172",
-    "name": "CSI Exam 1",
+    "name": "CSI::CSI Exam 1",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -179,6 +233,54 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "css": ".card {\n\tfont-family: \"Open Sans\", Arial, sans-serif;\n\tfont-size: 26px;\n\tcolor: #f2f2f2;\n          text-align: center;\n\tbackground-color: gray;}\n\n.cloze {\n\tfont-weight: bold;\n\tcolor: cyan;}\n\n.extra {\n\tfont-size: 20px;\n        font-family: \"Open Sans\", Arial;\n\tcolor: white;\n\ttext-align: center; }\n\n.tags {\n\tcolor: #d4cfc9;\n\tfont-size: 60%;\n\ttext-align: left;\n        text-transform: uppercase;\n        font-family: \"Open Sans\", Arial;\n\t}\n\n.tags:hover {\n\tcolor: #d4cfc9;\n\tcursor: default;}",
+            "flds": [
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-b85c8",
+            "sortf": 0,
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "fa2018",
+                "immunology"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<div class=card>{{cloze:Text}}</div>\n<br>\n<br>\n<div class=extra>{{Extra}}</div>\n\n<!--<div class=tags>{{Tags}}</div>-->",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div class=card>{{cloze:Text}}</div>"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "css": ".card {\n font-family: arial ;\n font-size: 26px;\n text-align: center;\n color: white;\n background-color: gray;\n}\n\n.cloze {\n font-weight: bold;\n color: turquoise;\n}",
             "flds": [
@@ -222,6 +324,25 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the embryonic origin of the <b>anterior pituitary</b>?&nbsp;<div><br /></div><div>{{c1::Oral ectoderm, specifically from Rathke's pouch}}</div>",
+                "<img src=\"Craniopharyngioma development.png\" />"
+            ],
+            "flags": 0,
+            "guid": "I~9B(:ciL-",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld",
+                "fa2018"
+            ]
+        },
         {
             "__type__": "Note",
             "data": "",
@@ -446,6 +567,195 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which <b>thyroid hormone</b>&nbsp;(T<sub>3</sub>&nbsp;or T<sub>4</sub>) is <i>more active</i>?<div><br /></div><div>{{c1::T<sub>3</sub>}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gi^51X;QK&",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the main&nbsp;<b>thyroid hormone</b>&nbsp;(T<sub>3</sub>&nbsp;or T<sub>4</sub>) that is&nbsp;<i>secreted</i>?&nbsp;</div><div><br /></div><div>{{c1::T<sub>4</sub>}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O&vcUWKB(A",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>High levels of&nbsp;<b>{{c1::I<sup>-</sup>}}</b>&nbsp;inhibit&nbsp;<b>{{c2::organification}}</b>&nbsp;of&nbsp;<b>I<sub>2</sub></b>, and therefore inhibit synthesis of&nbsp;<u>thyroid hormones</u>&nbsp;(<b>{{c3::Wolff-Chaikoff}} effect</b>)</div>",
+                "<div><i>inhibition occurs via <u>transient</u> inhibition of <b>thyroid peroxidase</b>; can be manipulated to <u>protect</u>&nbsp;the thyroid when:</i></div><div><i><br /></i></div><div><i>- patients are being given <u>radiography techniques that use I<sup>131</sup></u>&nbsp;(give <b>potassium iodine</b> beforehand to inhibit the incorporation of further iodine in thyroid)</i></div><div><i><br /></i></div><div><i>-concern for&nbsp;<u>nuclear emergency prophylaxis</u></i></div><div><i><br /></i></div><img src=\"paste-460575112954346.jpg\" /><img src=\"paste-460669602234836.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "kpA.R7[^Sb",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In the <b>circulation</b>, most of the&nbsp;<b>T</b><sub style=\"font-weight: bold; \">3</sub>&nbsp;and&nbsp;<b>T</b><sub style=\"font-weight: bold; \">4</sub>&nbsp;is bound to&nbsp;{{c1::<b>thyroxine-binding globulin</b>&nbsp;(TBG)}}</div>",
+                "<i>only free thyroid hormones are active, thus TBG provides of a&nbsp;<u>large reservoir</u>&nbsp;of circulating thyroid hormones that can be added to the pool of free thyroid hormone</i><div><br></div><div>Increased TBG increases T4 and T3 without actual hyperthyroidism<i><br></i></div><div><i><br></i></div><div>Must check free T4 in order to better reflect biologic activity and clinical relevance<i><br></i></div>"
+            ],
+            "flags": 0,
+            "guid": "bUwyh6Z4KN",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which thyroid hormone (T<sub>4</sub>&nbsp;or T<sub>3</sub>) binds to&nbsp;<b>nuclear receptor</b>&nbsp;with&nbsp;<i>greater affinity</i>?</div><div><br /></div><div>{{c1::T<sub>3</sub>}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F(JW.dnJLp",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Thyroid-stimulating hormone (TSH) </b>secretion is&nbsp;<i>decreased</i>&nbsp;in response to&nbsp;{{c1::free T<sub>3</sub>/T<sub>4</sub>}}</div>",
+                "<div><i>the anterior lobe contains thyroid deiodinase and thus may convert free T<sub>4</sub>&nbsp;to free T<sub>3</sub></i></div><div><i><sub><img src=\"paste-490695718601070.jpg\" /></sub></i></div>"
+            ],
+            "flags": 0,
+            "guid": "QpRN7j2sJF",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In addition to TSH, the&nbsp;<b>TSH receptor</b>&nbsp;on thyroid glands may be activated by&nbsp;<b>{{c1::Thyrotropin receptor antibodies (TRAb)}}</b>&nbsp;(Graves disease)</div>",
+                "<i>thyroid-stimulating immunoglobulins are antibodies to the TSH receptor</i><div><i><br /></i></div><div><i><img src=\"paste-164308268875777.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "E:y_(NH?AL",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the result when&nbsp;<b>thyroid-stimulating immunoglobulins</b>&nbsp;bind to TSH receptors of the thyroid gland?</div><div><br /></div><div>{{c1::They stimulate secretion of T<sub>3</sub>&nbsp;and T<sub>4</sub>}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wt_J2P;IK6",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>thyroid disorder</u>&nbsp;is associated with high concentrations of&nbsp;<b>Thyrotropin receptor antibodies (TRAb)</b>?</div><div><br /></div><div>{{c1::Graves disease}}</div>",
+                "<br /><div><br /></div><div><img src=\"paste-164303973908481.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "fq-bNXWO?V",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the level of&nbsp;<u>TSH</u>&nbsp;in a patient with&nbsp;<b>Graves disease</b>&nbsp;(increased, decreased, or normal)?&nbsp;</div><div><br /></div><div>{{c1::Decreased}}</div>",
+                "<div><i>secondary to&nbsp;<u>high circulating levels of thyroid hormones</u>, which&nbsp;inhibit TSH secretion&nbsp;by negative feedback</i></div><img src=\"paste-490700013568366.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "n6f:!j5]tu",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What effect does&nbsp;<u>excessive I</u><sup>-</sup><u>&nbsp;intake&nbsp;</u>&nbsp;have on&nbsp;<b>thyroid hormone secretion</b>?</div><div><br /></div><div>{{c1::Decreases secretion (Wolff-Chaikoff effect)}}</div>",
+                "<img src=\"paste-490923351867676.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Km@Nge[Rt~",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Once&nbsp;<b>T</b><sub style=\"font-weight: bold; \">3</sub>&nbsp;is produced inside its target cell, it enters the&nbsp;<b>{{c1::nucleus}}</b>&nbsp;and binds to a&nbsp;<b>{{c1::nuclear}} receptor</b></div>",
+                "<img src=\"paste-491236884480556.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "suBuUrnVz5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>Thyroid&nbsp;hormones&nbsp;<i>increase</i>&nbsp;<b>cardiac</b>&nbsp;<b>output</b>&nbsp;</div><div>by&nbsp;<u>inducing&nbsp;synthesis</u>&nbsp;(upregulation) of&nbsp;{{c1::<b>β</b><sub style=\"font-weight: bold; \">1</sub>&nbsp;<b>adrenergic</b>}}&nbsp;<b>receptors</b>&nbsp;in the heart</div>",
                 "<i>β<sub>1</sub> receptors mediate the effects on the SNS to increase HR, contractility, SV, CO</i><div><i><br /></i></div><div><i>thus B1 blockers can be used to alleviate adrenergic symptoms in a thyroid storm</i></div>"
             ],
@@ -465,15 +775,573 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Constipation, polyuria, polydipsia, lethargy, and hyporeflexia are signs of which&nbsp;<b>calcium imbalance</b>?&nbsp;</div><div><br /></div><div>{{c1::Hypercalcemia}}&nbsp;</div>",
-                ""
+                "<div>The&nbsp;<i>most common</i>&nbsp;cause of&nbsp;<b>hyperthyroidism</b>&nbsp;is {{c1::Graves disease}}</div>",
+                "<i>other causes include thyroid neoplasm, excessive TSH or TRH secretion, or administration of excessive exogenous thyroid hormone</i>"
             ],
             "flags": 0,
-            "guid": "tx&kcMgW.0",
+            "guid": "L7OgR?OFNg",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "CostanzoEndocrine",
                 "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What are the levels of&nbsp;<b>TSH</b>&nbsp;in&nbsp;<b>hyperthyroidism</b>&nbsp;due to&nbsp;<b>Graves disease</b>&nbsp;or&nbsp;<b>thyroid neoplasm</b>? Why?</div><div><br /></div><div>{{c1::Decreased due to negative feedback from increased level of free T<sub>3</sub>}}</div>",
+                "<img src=\"paste-490700013568366.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Hq)N(.&QkV",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<i>most common</i>&nbsp;cause of&nbsp;<b>hypothyroidism</b>&nbsp;in thyroid first world countries is {{c1::autoimmune or Hashimoto thyroiditis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x23r.nY_e!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<b>zona {{c1::fasciculata}}</b>&nbsp;secretes <b>{{c2::glucocorticoids}}</b>, such as {{c2::cortisol}}</div>",
+                "<img src=\"paste-496584118763793.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Ek#j=sy$3V",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Can&nbsp;<b>glucocorticosteroids</b>&nbsp;still be produced if there is absence of&nbsp;<i>cholesterol desmolase</i>,&nbsp;<i>21β-hydroxylase</i>,&nbsp;<i>11β-hydroxylase</i>, or&nbsp;<i>3β-hydroxysteroid dehydrogenase</i>?&nbsp;</div><div><br></div><div>{{c1::No, a lack of any of these enzymes would block the synthesis of&nbsp;<u>both</u>&nbsp;corticosterone AND cortisol}}</div>",
+                "<div><i>death will ensue without appropriate hormone replacement therapy</i></div><div><i><img src=\"paste-496721557717585.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "nvU40a-/~=",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Glucocorticoid </b>(cortisol) <b>secretion</b>&nbsp;is&nbsp;<b>{{c1::pulsatile}}</b>&nbsp;and <b>{{c1::diurnal}}</b>&nbsp;(daily) in nature, oscillating with a <b>circadian rhythm</b></div>",
+                "<div><i>this is a result of the diurnal pattern of CRH and ACTH secretion; diurnal pattern may be lost by coma, blindness, or constant exposure to dark/light -- aldosterone follows a similar secretion pattern&nbsp;</i></div><div><img src=\"paste-501927058080001.jpg\" /><i>&nbsp;</i></div>"
+            ],
+            "flags": 0,
+            "guid": "x8i9BV;LWE",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Cortisol</b>&nbsp;levels are&nbsp;<i>highest</i>&nbsp;just before&nbsp;<b>{{c1::awakening}}</b>&nbsp;and&nbsp;<i>lowest</i>&nbsp;in the&nbsp;<b>{{c1::evening}}</b>&nbsp;</div>",
+                "<div><i>in a person that wakes in the morning and sleeps at night</i></div><img src=\"paste-501922763112705.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "K_!<S;`oOr",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>ACTH</b> increases steroid hormone synthesis via stimulation of the enzyme&nbsp;{{c1::<b>cholesterol</b> <b>desmolase</b>}}, thus increasing the conversion of <b>cholesterol</b> to <b>pregnenolone</b>&nbsp;</div>",
+                "<img src=\"paste-c0005392d156d6956949674fc700100b1dbde0a5.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "Jk;gjWLg9E",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Chronically <i>elevated</i> levels of <b>ACTH</b> cause {{c1::hypertrophy/hyperplasia}} of the <b>adrenal cortex</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "feE{jg/&W1",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>How does&nbsp;<b>cortisol</b>&nbsp;effect secretion of&nbsp;<b>CRH</b>&nbsp;from the hypothalamus?</div><div><br /></div><div>{{c1::inhibits secretion,&nbsp;<i>both&nbsp;</i>directly and indirectly}}</div>",
+                "<div><i>indirectly via effecting the hippocampal neurons which snyapse on the hypothalamus</i></div><div><i><img src=\"paste-501944237949283.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "uE;4K<[Q:c",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>How does&nbsp;<b>cortisol</b>&nbsp;effect secretion of&nbsp;<b>ACTH</b>&nbsp;from the hypothalamus?&nbsp;</div><div><br /></div><div>{{c1::Inhibits secretion,&nbsp;<i>directly</i>}}</div>",
+                "<img src=\"paste-501944237949283.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "vELwYgpnb5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Chronic&nbsp;<i>excess</i>&nbsp;levels of&nbsp;<b>cortisol</b>&nbsp;(glucocorticoid) result in decreased levels of&nbsp;<b>{{c1::CRH}}</b>&nbsp;and&nbsp;<b>{{c1::ACTH}}</b>&nbsp;via negative feedback</div>",
+                "<img src=\"paste-501948532916579.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "s`QIKsQw+T",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::Dexamethasone}}</b>&nbsp;is a synthetic&nbsp;<b>{{c1::glucocorticoid}}</b>&nbsp;that mimics the actions of cortisol, including <i>suppression of ACTH</i></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OEZlaGvk;=",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the result of the&nbsp;<b>dexamethasone suppression test</b>&nbsp;in a <i>normal</i> patient?</div><div><br /></div><div>{{c1::<u>Low-dose</u> dexamethasone inhibits ACTH secretion and consequently cortisol secretion}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q7r(c##8{D",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the result of a&nbsp;<b>dexamethasone suppression test</b>&nbsp;if&nbsp;the cause of&nbsp;<b>hypercortisolism</b>&nbsp;is an&nbsp;<b>ACTH-secreting tumor</b>&nbsp;of the <u>anterior pituitary</u>?</div><div><br /></div><div>{{c1::<i>LOW</i>&nbsp;dose of dexamethasone does not suppress cortisol secretion, but&nbsp;<i>HIGH</i>&nbsp;dose does}}</div>",
+                "<i>the tumors ACTH secretion is less sensitive to negative feedback</i>"
+            ],
+            "flags": 0,
+            "guid": "MNM5EX2}7{",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the result of a&nbsp;<b>dexamethasone suppression test</b>&nbsp;if&nbsp;the cause of&nbsp;<b>hypercortisolism</b>&nbsp;is an&nbsp;<b>adrenal cortical tumor</b>?</div><div><br /></div><div>{{c1::<u>neither</u> low&nbsp;<i>nor</i>&nbsp;high dose dexamethasone suppresses cortisol secretion}}&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L6P(#I&I,9",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Cortisol (glucocorticoids)&nbsp;<b>up-regulates</b>&nbsp;<b>{{c1::α<sub>1</sub>}}</b>&nbsp;<b>receptors</b>&nbsp;on arterioles, increasing their&nbsp;<b>sensitivity</b>&nbsp;to {{c2::catecholamines (i.e. norepinephrine and epinephrine)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NHqq]J%p3?",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Glucocorticoids</b>&nbsp;(e.g. cortisol) are essential in maintaining&nbsp;{{c1::<b>vascular</b>&nbsp;<b>responsiveness</b>}}&nbsp;to <b>catecholamines</b></div>",
+                "<i>via upregulatin of&nbsp;α<sub>1</sub>&nbsp;receptors on arterioles</i>"
+            ],
+            "flags": 0,
+            "guid": "E{N%hKiP0[",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Cortisol</b>&nbsp;results in an {{c1::increased}}&nbsp;<b>glomerular filtration rate (GFR)</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H`@<O>T~^,",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>{{c2::Addison}}&nbsp;disease</b>&nbsp;is most commonly caused by <b>{{c1::autoimmune destruction}} </b>of <u>all three zones</u> of the adrenal cortex, which&nbsp;causes acute <b>adrenal crisis</b>",
+                "<i><div></div></i><i><br />also known as&nbsp;<b>primary</b>&nbsp;<b>adrenocortical</b>&nbsp;<b>insufficiency</b>;&nbsp;primary defect of the adrenal cortex, not of the hypothalamus-hypophysial axis</i>"
+            ],
+            "flags": 0,
+            "guid": "r:j/;06.sZ",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which classes of steroid hormones are decreased in&nbsp;<b>Addison disease</b>?</div><div><br /></div><div>{{c1::all three (glucocorticoids, mineralocorticoids, and androgens)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t?b4$<k98B",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the level of&nbsp;<b>ACTH</b>&nbsp;in&nbsp;<b>Addison disease</b>? Why?</div><div><br /></div><div>{{c1::Increased; low cortisol levels stimulate ACTH secretion by negative feedback}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bNKAbwz*n",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One&nbsp;<u>clinical feature</u>&nbsp;of&nbsp;<b>Addison disease</b>&nbsp;is&nbsp;{{c1::hyperkalemia}} (K<sup>+</sup>&nbsp;levels)</div>",
+                "<i>due to decreased aldosterone levels</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "nFxb%[;g/E",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Addison disease</b>&nbsp;may present with <u>decreased</u>&nbsp;{{c1::<b>pubic/axillary hair</b>}} and&nbsp;{{c2::<b>libido</b>}} in females due to <u>decreased</u>&nbsp;levels of {{c3::androgens}}&nbsp;</div>",
+                "<i><br /></i>"
+            ],
+            "flags": 0,
+            "guid": "y&BjrxqX/6",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the<b>&nbsp;treatment</b>&nbsp;of&nbsp;<b>Addison disease</b>&nbsp;(primary adrenocortical insufficiency)?</div><div><br /></div><div>{{c1::Replacement of glucocorticoids and mineralocorticoids}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IIWxf])0A2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the level of&nbsp;<b>ACTH</b>&nbsp;in&nbsp;<b>secondary adrenocortical insufficiency</b>? Why?</div><div><br /></div><div>{{c1::Decreased; the disease is a result of decreased ACTH secretion}}</div>",
+                "<i>this is an important distinguishing feature from Addison disease and explains why secondary adrenocortical insufficiency does&nbsp;<u>not</u>&nbsp;present with hyperpigmentation</i>"
+            ],
+            "flags": 0,
+            "guid": "DLrTh#QaQ8",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Cushing&nbsp;</b><b>{{c1::disease}}</b>&nbsp;is the result of chronic <b>excess</b> <b>glucocorticoids</b> caused by&nbsp;{{c2::<i>hypersecretion of ACTH</i> from a <b>pituitary adenoma</b>}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IXrd`l?p4e",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Which classes of steroid hormones are <u>increased</u> in&nbsp;<b>Cushing syndrome/disease</b>?</div><div><br /></div><div>{{c1::glucocorticoids (cortisol) +/- androgens}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y((z(dWD-Z",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What is the level of&nbsp;<b>ACTH</b>&nbsp;in&nbsp;<b>Cushing <i>disease</i></b>? Why?</div></div><div><br /></div><div>{{c1::Increased because the disease is caused by an ACTH-secreting tumor}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uFkLmC~8}A",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>What would the result of a&nbsp;<b>dexamethasone suppression test</b>&nbsp;be in a patient with&nbsp;<b>Cushing&nbsp;</b><i style=\"font-weight: bold; \">disease</i>?&nbsp;</div><div><br /></div><div>{{c1::Cortisol response WOULD BE surpressed by&nbsp;<i>high</i>&nbsp;dose dexamethasone}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "edss|g8j(d",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the treatment for&nbsp;<b>Cushing&nbsp;</b><i style=\"font-weight: bold; \">disease</i>?</div><div><br /></div><div>{{c1::Removal of the ACTH-secreting tumor}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A3D~W;q$Dm",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Conn}} syndrome</b>, or&nbsp;<b>primary hyperaldosteronism</b>, is caused by an&nbsp;<b>{{c2::aldosterone-secreting tumor}}</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G%i2OLcq_E",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::21β-hydroxylase}} deficiency</b>&nbsp;is the <i>most common</i>&nbsp;cause of <b>congenital adrenal hyperplasia</b></div>",
+                "<i>belongs to a group of disorders&nbsp;characterized by&nbsp;</i><b style=\"font-style: italic; \">adrenogenital syndrome</b>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "B[!A_&9Oub",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the level of&nbsp;<b>ACTH</b>&nbsp;in&nbsp;<b>21β-hydroxylase deficiency</b>? Why?</div><div><br /></div><div>{{c1::Increased, due to decreased feedback inhibition from cortisol}}</div>",
+                "<i>leads to&nbsp;<b>adrenocortical hyperplasia</b></i>"
+            ],
+            "flags": 0,
+            "guid": "Ay!.SHo;xO",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<u>clinical features</u>&nbsp;are seen in&nbsp;<b>21β-hydroxylase deficiency&nbsp;</b>that are a result of&nbsp;<u>increased</u><b>&nbsp;androgen&nbsp;</b>levels&nbsp;in&nbsp;<b>females</b>?&nbsp;</div><div><br /></div><div>{{c1::Masculinization (<u>clitoral enlargement</u>, early appearance of pubic/axillary hair)}}</div>",
+                "<div><i>other clinical features are those of glucocorticoid and mineralocorticoid deficiency</i></div><div><i><img src=\"paste-496721557717585.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "uXGqu)4+On",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the treatment for&nbsp;<b>21β-hydroxylase deficiency</b>?</div><div><br /></div><div>{{c1::Replacement therapy of both glucocorticoids and mineralocorticoids}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H3Z0uG`Iy}",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<b>adrenal cortex deficiency</b>&nbsp;results in shunting towards the&nbsp;<b>androgen synthesis pathway</b>?</div><div><br /></div><div>{{c1::21β-hydroxylase deficiency}}</div>",
+                "<img src=\"paste-496721557717585.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "n(O2;~#2z.",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Pituitary adenoma</b>&nbsp;may present with&nbsp;<b>{{c1::bitemporal hemianopsia}}</b>&nbsp;due to compression of the&nbsp;<b>{{c2::optic chiasm}}</b>&nbsp;</div>",
+                "<div><i>tumor sits in sella turcica, which is adjacent to optic chiasm, these patients will present with a history of <b>clumsiness</b>&nbsp;and <b>visual changes</b></i></div><div><i><br /></i></div><div><i><img src=\"paste-21513491186253.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "I(IZ(.Pn*2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine",
+                "Uworld"
             ]
         },
         {
@@ -724,6 +1592,70 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Treatment of&nbsp;<b>SIADH</b>&nbsp;includes <b>water restriction</b> and&nbsp;<b>{{c1::demeclocycline}}</b>, which is a<b>&nbsp;tetracycline</b>",
+                "<i>other treatments include IV hypertonic saline and&nbsp;<b>conivaptan</b>/<b>tolvaptan</b>&nbsp;(ADH receptor antagonists)</i><div><i><br></i></div><div>Demeclocycline&nbsp;and&nbsp;lithium&nbsp;act on the collecting tubule cell to diminish its responsiveness to ADH, thereby increasing water excretion [1,38-40]. In patients with bipolar disorder who are treated with chronic lithium therapy, nephrogenic diabetes insipidus develops in up to 20 to 40 percent&nbsp;<i><br></i></div>"
+            ],
+            "flags": 0,
+            "guid": "mo3giD*u@7",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What demographic is most commonly associated with&nbsp;<b>Graves disease</b>?</div><div><br /></div><div>{{c1::Women of childbearing age; often presents <u>during stress</u> (e.g. childbirth)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "3yGv+-.[v",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<b>type</b>&nbsp;of&nbsp;<b>goiter</b>&nbsp;is associated with&nbsp;<b>Graves disease</b>?</div><div><br /></div><div>{{c1::Diffuse goiter}}</div><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nj$:ue/e!R",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><b>Graves disease&nbsp;</b>is associated with<b>&nbsp;{{c1::exopthalmos}}</b>&nbsp;which occurs due to activation of&nbsp;<b>retro-orbital {{c2::fibroblasts}}</b></div></div>",
+                "<div><div><i>- activated <b>T cells release cytokines (TNFa, IFN-y) </b>which activate fibroblasts (along with TRab to a lesser degree), causing increased secretions of <b>glycosaminoglycans</b></i></div></div><div><i><br /></i></div><div><i>- GAG deposition leads to osmotic muscle swelling, muscle inflammation, and increased adipocyte count --&gt; <b>eyes being pushed out</b>, dysfunction of extraocular muscles causes restricted extraocular movements and diplopia</i></div><div><i><br /></i></div><div><i><img src=\"paste-32933809226028.jpg\" /></i></div><div><i>visible appearance causes appearance of a \"<b>stare</b>\"&nbsp;</i></div><div><i><br /></i></div><div><i><img src=\"paste-20491288969217.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "mgKXP/shIz",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine",
+                "Uworld",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><b>{{c1::Thyroid storm (Thyrotoxicosis)}}</b>&nbsp;is a serious complication that occurs when&nbsp;<b>hyperthyroidism</b>&nbsp;is&nbsp;<u>untreatened</u>&nbsp;and&nbsp;</div><div><u>worsened</u>&nbsp;in the setting of&nbsp;<b>acute stress</b>&nbsp;(e.g. infection, trauma, surgery)</div>",
                 "patient has a preexisting hyperthyroid disease (grave's or toxic multinodular goiter)<div><br /></div><div>acute stress + hyperthyroidism leads to massive catecholamine surge --&gt; symptoms</div>"
             ],
@@ -823,6 +1755,150 @@
                 "CSI_Ex1",
                 "EndocrinePathology",
                 "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Hashimoto thyroiditis</b>&nbsp;is associated with&nbsp;<b>HLA-{{c1::DR5}}</b>&nbsp;and <b>HLA-{{c1::DR3}}</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tg^C];>GGn",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the most common cause of&nbsp;<b>hypothyroidism</b>&nbsp;in regions where iodine levels are adequate?</div><div><br /></div><div>{{c1::Hashimoto thyroiditis}}</div>",
+                "<i>other causes include:</i><div><i>-&nbsp;<b>iodine</b> <b>deficiency </b>(<b>Endemic Goiter </b>&nbsp;-&nbsp;especially in Southeast Asia and Africa)</i></div><div><i>-&nbsp;<b>Wolff-Chaikoff effect</b> (iodine excess)</i></div><div><i>- goitrogens (e.g. lithium, amiodarone)</i></div><div><i><br /></i></div><div><i>iodine deficiency shown below</i></div><div><i><img src=\"paste-154034707103745.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "Jvn^VII1iM",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><i>Initially</i>,&nbsp;<b>Hashimoto thyroiditis</b>&nbsp;presents as&nbsp;<b>{{c1::hyperthyroidism}}&nbsp;</b>due to thyrotoxicosis during follicular rupture&nbsp;</div>",
+                "<i>ultimately progresses to&nbsp;<b>hypothyroidism</b>&nbsp;(decreased T<sub>4</sub>, increased TSH)</i>"
+            ],
+            "flags": 0,
+            "guid": "f`#2S).UGR",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>two</u>&nbsp;antibodies are associated with&nbsp;<b>Hashimoto thyroiditis</b>?&nbsp;</div><div><br /></div><div>{{c1::Anti-thyroglobulin}} and {{c2::anti-thyroid peroxidase (anti-microsomal)}}&nbsp;</div>",
+                "<i>these are a&nbsp;<b>sign</b>&nbsp;of thyroid damage, not the&nbsp;<b>cause</b>&nbsp;of damage</i>"
+            ],
+            "flags": 0,
+            "guid": "B!]48ya%$g",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Does&nbsp;<b>Hashimoto thyroiditis</b>&nbsp;present with a&nbsp;<b>tender</b>&nbsp;or&nbsp;<b>nontender</b>&nbsp;thyroid?</div><div><br /></div><div>{{c1::Nontender}}</div>",
+                "<i>and mildly enlarged</i>"
+            ],
+            "flags": 0,
+            "guid": "q0e+Sti]~.",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Thyroid nodules</b> are more likely to be <b>{{c1::benign}}</b> than <b>{{c1::malignant}}</b>&nbsp;(benign or malignant)&nbsp;",
+                "US should be performed with consideration for FNA"
+            ],
+            "flags": 0,
+            "guid": "oSTU=$+?$X",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Thyroid nodules</b> may be studied using&nbsp;<b>{{c1::<sup>131</sup>I}}&nbsp;radioactive uptake studies</b>&nbsp;</div>",
+                "Radioactive iodine scan for “hot” or “cold” nodules<div><br></div><div>Overactive areas are “hot” and show up darker than normal tissue. Underactive areas are “cold” and show up lighter than normal tissue. <b><u>Malignancy associated with cold nodules&nbsp;</u></b><br></div>"
+            ],
+            "flags": 0,
+            "guid": "egFlCgQ.of",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Thyroid&nbsp;<b>{{c1::papillary}} carcinoma</b>&nbsp;may be lined by cells with clear, '<b>{{c2::Orphan Annie eye}}</b>' nuclei</div>",
+                "<div><i>nuclei with central clearing, sometimes described as \"ground glass\" nuclei</i></div><div><br></div><div>Treated with thyroidectomy, typically prognonsis is good.&nbsp;</div><div><br></div><div><img src=\"paste-40235253629211.jpg\"></div>"
+            ],
+            "flags": 0,
+            "guid": "s52xNgcoXV",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In addition to 'Orphan Annie eye' nuclei, thyroid&nbsp;<b>papillary carcinoma</b>&nbsp;may have cells with <b>intranuclear {{c1::grooves}} </b>and <b>inclusions</b></div>",
+                "<img src=\"paste-42799349104890.jpg\" /><div><img src=\"paste-60352880443393.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "u{.c!`C!,e",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine",
+                "Uworld"
             ]
         },
         {
@@ -1153,6 +2229,592 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<b>Cushing <i>syndrome</i></b>&nbsp;simply refers to an increase in serum <b>{{c1::cortisol}}</b><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b$y<Ks0mjw",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One clinical feature of&nbsp;<b>Cushing syndrome</b>&nbsp;is&nbsp;<b>muscle weakness</b>&nbsp;with&nbsp;<b>{{c1::thin}} extremities&nbsp;</b></div>",
+                "<span style=\"background-color: rgba(255, 255, 255, 0)\"><i>due to increased lipolysis/proteolysis</i></span><br />"
+            ],
+            "flags": 0,
+            "guid": "k?*NHIaz*l",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Clinical features of&nbsp;<b>{{c2::Cushing syndrome}}</b>&nbsp;include moon facies, buffalo hump, and truncal obesity due to&nbsp;<b>increased {{c1::fat storage}}</b>, secondary to excess&nbsp;<b>{{c1::insulin}}</b>&nbsp;</div>",
+                "<i>increased gluconeogenesis causes hyperglycemia, leading to insulin release and thus fat storage</i>"
+            ],
+            "flags": 0,
+            "guid": "l$om#k)uNi",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One clinical feature of&nbsp;<b>Cushing syndrome</b>&nbsp;is&nbsp;<b>{{c2::abdominal striae}}</b>&nbsp;which is a result of <u>impaired</u>&nbsp;<b>{{c1::collagen}} synthesis</b>, allowing blood vessels to rupture easily</div>",
+                "<i>due to decreased fibroblast activity</i>"
+            ],
+            "flags": 0,
+            "guid": "g||w&6-p[N",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One clinical feature of&nbsp;<b>Cushing syndrome</b>&nbsp;is&nbsp;<b>{{c1::hypertension}}</b>, which is a result of an upregulation of&nbsp;<b>{{c2::alpha<sub>1</sub>-adrenergic}}&nbsp;receptors</b>, causing increased sensitivity of blood vessels to catecholamines&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FYopY]ueG7",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One clinical feature of&nbsp;<b>Cushing syndrome</b>&nbsp;is&nbsp;<b>{{c1::osteoporosis}}</b>, which is a result of&nbsp;<u>decreased</u>&nbsp;<b>{{c2::osteoblast}} activity</b>&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QyTgoePw6:",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One clinical feature of&nbsp;<b>Cushing syndrome</b>&nbsp;is&nbsp;<b>{{c1::immune suppression}}</b>, which is a result of inhibition of phospholipase A<sub>2</sub>, IL-2, and histamine</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P2jj1#$s>W",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One&nbsp;<i>positive</i>&nbsp;<b>screening test</b>&nbsp;for&nbsp;<b>Cushing syndrome</b>&nbsp;is an&nbsp;<u>increased</u>&nbsp;free {{c1::cortisol}} on 24-hour urinalysis&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x()Q-|2ggo",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One&nbsp;<i>positive</i>&nbsp;<b>screening test</b>&nbsp;for&nbsp;<b>Cushing syndrome</b>&nbsp;is&nbsp;<b>no {{c1::cortisol suppression}}</b>&nbsp;with overnight&nbsp;<u>low-dose</u>&nbsp;dexamethasone test (1mg)&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A<!$jP,8h$",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the state of the&nbsp;<b>adrenal glands</b>&nbsp;in&nbsp;<u>Cushing syndrome</u>&nbsp;due to&nbsp;<b>exogenous corticosteroids</b>&nbsp;(hyperplasia, atrophy; one, both)?&nbsp;</div><div><br /></div><div>{{c1::<u>Atrophy</u>&nbsp;of&nbsp;<u>both</u>&nbsp;adrenal glands}}</div>",
+                "<i>due to inhibition of ACTH&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "FzolB+95p]",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the state of the&nbsp;<b>adrenal glands</b>&nbsp;in&nbsp;<u>Cushing syndrome</u>&nbsp;due to&nbsp;<b>primary adrenal adenoma</b>,&nbsp;<b>hyperplasia</b>, or&nbsp;<b>carcinoma</b>&nbsp;(hyperplasia, atrophy; one, both)?</div><div><br /></div><div>{{c1::<u>Atrophy</u>&nbsp;of the&nbsp;<u>uninvolved</u>&nbsp;gland;&nbsp;<u>hyperplasia</u>&nbsp;of the&nbsp;<u>involved</u>&nbsp;gland}}</div>",
+                "<i>Thus can also present with pseudohyperaldosteronism</i>"
+            ],
+            "flags": 0,
+            "guid": "idH6O9`r8*",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the state of the&nbsp;<b>adrenal glands</b>&nbsp;in&nbsp;<u>Cushing syndrome</u>&nbsp;due to&nbsp;<b>ACTH secreting pituitary adenoma</b>&nbsp;(hyperplasia, atrophy; one, both)?</div><div><br /></div><div>{{c1::<u>Hyperplasia</u>&nbsp;of&nbsp;<u>both</u>&nbsp;adrenal glands}}</div>",
+                "<i>an ACTH secreting pituitary adenoma is also known as&nbsp;<b>Cushing disease</b>&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "Ibx$t-b*6t",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the state of the&nbsp;<b>adrenal glands</b>&nbsp;in&nbsp;<u>Cushing syndrome</u>&nbsp;due to a&nbsp;<b>paraneoplastic (ectopic) ACTH secretion</b>&nbsp;(hyperplasia, atrophy; one, both)?</div><div><br /></div><div>{{c1::<u>Hyperplasia</u>&nbsp;of&nbsp;<u>both</u>&nbsp;adrenal glands}}</div>",
+                "<i>examples include&nbsp;<b>small cell lung carcinoma</b>&nbsp;and&nbsp;<b>bronchial carcinoids</b>&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "26Kb|+k+;",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the differential diagnosis(2) in a&nbsp;<b>Cushing syndrome&nbsp;</b>patient with&nbsp;<b>suppressed ACTH</b>?</div><div><br /></div><div>{{c1::<div>&nbsp;1. Exogenous glucocorticoids</div><div>&nbsp;2. Adrenal adenoma (or carcinoma, hyperplasia)</div>}}</div>",
+                "<div><i>ACTH-independent Cushing syndrome; MRI to confirm tumor</i></div><div><i><img src=\"paste-122303488721219.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "d,or}-@<77",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>If a patient with&nbsp;<b>ACTH-dependent Cushing syndrome</b>&nbsp;has&nbsp;<u>adequate cortisol suppression</u>&nbsp;following a&nbsp;<b>high-dose dexamethasone suppression test</b>&nbsp;(8mg), the most likely cause of their syndrome is&nbsp;<b>{{c1::Cushing disease}}</b></div>",
+                "<div><i>ACTH-secreting pituitary adenoma is less sensitive, but still responds, to negative feedback</i>&nbsp;</div><div><img src=\"paste-122432337740099.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "A35M%t&CW+",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>If a patient with&nbsp;<b>ACTH-dependent Cushing syndrome</b>&nbsp;has&nbsp;<u>no cortisol suppression</u>&nbsp;following a&nbsp;<b>high-dose dexamethasone suppression test</b>&nbsp;(8mg), the most likely cause of their syndrome is&nbsp;<b>{{c1::ectopic ACTH secretion}}</b></div></div>",
+                "<div><div><i>ectopic ACTH secretion has no response to negative feedback</i>&nbsp;</div></div><div><img src=\"paste-122432337740099.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "D&z2s:^-}$",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<u>two</u>&nbsp;tests may be used to differentiate between&nbsp;<b>Cushing disease</b>&nbsp;and&nbsp;<b>ectopic (paraneoplastic) ACTH secretion</b>?&nbsp;</div><div><i><br /></i></div><div>{{c1::<div>1. High-dose dexamethasone suppression test</div><div>2. CRH stimulation test</div>}}</div><div><br /></div>",
+                "<i>Cushing disease is an ACTH-secreting&nbsp;<u>pituitary</u>&nbsp;adenoma</i>"
+            ],
+            "flags": 0,
+            "guid": "J&WL/z]6n%",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><b>Hyperaldosteronism</b>&nbsp;presents as <b>{{c2::hypertension}}</b>&nbsp;(blood pressure) with <b>{{c1::hypernatremia}}</b>&nbsp;(Na<sup>+</sup>), <b>{{c3::hypokalemia}}</b>&nbsp;(K<sup>+</sup>), and <b>{{c4::metabolic alkalosis}}</b>&nbsp;(H<sup>+</sup>)&nbsp;</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j5eV8m-pn7",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::<b>Primary</b>}}&nbsp;<b>hyperaldosteronism&nbsp;</b>is characterized by&nbsp;<b>high aldosterone</b>&nbsp;and&nbsp;<b>{{c2::low}}</b>&nbsp;<b>renin</b>&nbsp;</div>",
+                "<i>This results in <b>resistant hypertension</b>;&nbsp;renin is downregulated via high blood pressure</i><div><i><br /></i></div><div><i><u>NO direct edema</u>&nbsp;due to <b>Aldosterone Escape mechanism</b> (Aldosterone upregulates ENaC, increased BV causes atria to release ANP to downregulate ENaC)</i></div>"
+            ],
+            "flags": 0,
+            "guid": "p#bfl[EEGq",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Secondary}}</b>&nbsp;<b>hyperaldosteronism&nbsp;</b>is characterized by&nbsp;<b>high aldosterone</b>&nbsp;and&nbsp;<b>{{c2::high}} renin</b></div>",
+                "<i>seen in patients with <b>renovascular</b> <b>hypertension</b>&nbsp;and <b>juxtaglomerular cell tumor</b> (due to independent activation of renin-angiotensin-aldosterone system), as well as causes of <b>edema&nbsp;</b>(cirrhosis, heart failure, nephrotic syndrome)</i><div><i><br /></i></div><div><i></i><i><u>EDEMA present</u> due to <b>NO</b>&nbsp;<b>Aldosterone Escape mechanism</b>&nbsp;(even if ANP is elevated, ATII is still increasing Na reabsorption via Na/H exchanger)</i></div>"
+            ],
+            "flags": 0,
+            "guid": "B/7r!SX!X!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Congenital adrenal {{c1::hyperplasia}}</b>&nbsp;occurs due loss of one of the four enzymes needed for <u>cortisol synthesis</u>",
+                "- Most commonly 21-hydroxylase deficiency (90%), most rarely 3B-HSD deficiency<br /><div><br /></div><div>- because there is a loss of cortisol, ACTH is released; and whatever enzyme is blocked, precursors will be shunted elsewhere</div><div><br /></div><div><img src=\"paste-20143396618241.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "u(U(8q&ku#",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Boards&Beyond",
+                "EXPANSION",
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Congenital adrenal hyperplasia</b>&nbsp;is a result of&nbsp;<u>decreased</u>&nbsp;levels of&nbsp;<b>{{c1::cortisol}}</b>, causing&nbsp;<u>increased</u>&nbsp;<b>{{c1::ACTH}}</b>&nbsp;secretion via negative feedback&nbsp;<br /><div><i><br /></i></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iEaPrZs27O",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Congenital adrenal hyperplasia</b>&nbsp;affects the adrenal glands on {{c1::both}}&nbsp;side(s) of the body (one or both)</div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iLYUIhj3@,",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Decreased&nbsp;<b>cortisol</b>&nbsp;production in&nbsp;<b>congenital adrenal hyperplasia</b>&nbsp;may cause&nbsp;life-threatening&nbsp;<b>{{c1::hypotension}}</b>&nbsp;due to decreased&nbsp;<b>{{c1::alpha<sub>1</sub>-adrenergic}}&nbsp;receptors</b></div><div><b><br /></b></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iznr5vZWJt",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which steroid synthesis&nbsp;<b>enzyme deficiency</b>&nbsp;results in&nbsp;<b>salt wasting</b>&nbsp;and&nbsp;<b>hyponatremia</b>&nbsp;due to lack of aldosterone?&nbsp;</div><div><br /></div><div>{{c1::21β-hydroxylase deficiency}}</div><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DytY=W?Kn[",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::Primary}} adrenal insufficiency</b>&nbsp;presents with&nbsp;<b>{{c1::low}} cortisol</b>&nbsp;and&nbsp;<b>{{c1::high}} ACTH</b>&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ked-8F!s-2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "One common cause of&nbsp;<b>acute</b>&nbsp;primary adrenal insufficiency is&nbsp;{{c1::<b>Waterhouse-Friderichsen</b>}}&nbsp;<b>syndrome</b>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fM<`,VfDVg",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Waterhouse-Friderichsen</b>&nbsp;<b>syndrome</b>&nbsp;is the <b>bilateral</b> {{c1::hemorrhagic}} <b>necrosis</b> of the {{c2::adrenal glands}}, causing the gland to look like a \"sack of blood\"</div>",
+                "<img src=\"paste-130043019788861.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "u5`+}[jZ*S",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Waterhouse-Friderichsen</b>&nbsp;<b>syndrome</b>&nbsp;classically follows after <b>DIC</b> in young children with&nbsp;<i>{{c1::N. meningitidis}}</i>&nbsp;infection",
+                "<br><i>lack of cortisol exacerbates hypotension, often leading to death&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "o(U@b&c#&5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Chronic</u>&nbsp;primary adrenal insufficiency, also known as&nbsp;<b>{{c1::Addison}}</b><b>&nbsp;disease</b>, is due to adrenal atrophy or destruction by disease</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "it`Djg3jX8",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One clinical feature of&nbsp;<b>Addison disease</b>&nbsp;is {{c1::hypotension}} (BP), due to lack of cortisol</div>",
+                "<i>also may have hypoglycemia, vomiting, and diarrhea</i>"
+            ],
+            "flags": 0,
+            "guid": "qed#o[2e@w",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Clinical features of&nbsp;<b>Addison disease</b>&nbsp;include <b>hyponatremia</b>, <b>hypovolemia</b>, <b>hypercalcemia </b>and <b>hyperkalemia</b>, due to lack of {{c1::mineralocorticoids}}&nbsp;</div>",
+                "&nbsp;Hypercalcemia occurs in occasional patients with Addisonian crisis [27,28]. Multiple factors appear to contribute to the hypercalcemia including increased bone resorption, volume contraction and increased proximal tubular calcium reabsorption, hemoconcentration, and perhaps increased binding of calcium to serum proteins."
+            ],
+            "flags": 0,
+            "guid": "BKJyutTjqO",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One clinical feature of&nbsp;<b>Addison disease</b>&nbsp;is <b>{{c1::hyperpigmentation}}</b>, due to increased levels of&nbsp;<b>{{c2::MSH}}</b>&nbsp;secondary to elevated ACTH&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Es=WhTPM/?",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::Pheochromocytoma}}&nbsp;</b>is the <u>most common</u> tumor of the <b>{{c1::adrenal medulla}}</b>&nbsp;in <b>adults</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J&+q#M_hP`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Patients with&nbsp;<b>pheochromocytoma</b>&nbsp;experience their symptoms&nbsp;<b>{{c1::episodically}}</b>, rather then continuously</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "emvc,}w&=e",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<u>five</u>&nbsp;<b>episodic hyperadrenergic symptoms</b>&nbsp;of a&nbsp;<b>{{c3::pheochromocytoma}}</b>&nbsp;are:&nbsp;</div><div>&nbsp;1. {{c1::Pressure (increased BP)}}</div><div>&nbsp;2. {{c1::Pain (headache)}}</div><div>&nbsp;3. {{c2::Perspiration}}</div><div>&nbsp;4. {{c2::Palpitations (tachycardia)}}</div><div>&nbsp;5. Pallor&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dsGX!7`-!3",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::Pheochromocytoma}}</b>&nbsp;is diagnosed by increased <b>serum</b> and <b>urine</b> levels of <b>catecholamines</b>, or their breakdown products&nbsp;<b>{{c1::metanephrines}}</b>&nbsp;and&nbsp;{{c1::<b>vanillylmandelic acid</b>&nbsp;(VMA)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hg0:`Qz5))",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Prior to removal of a&nbsp;<b>pheochromocytoma</b>, irreversible&nbsp;<b>{{c1::alpha-antagonists}}</b>, such as&nbsp;<b>{{c2::phenoxybenzamine}}</b>&nbsp;are administered, followed by&nbsp;<b>{{c1::beta-blockers}}</b></div>",
+                "<i>alpha-blockade must be achieved before giving beta-blockers to avoid hypertensive crisis</i>"
+            ],
+            "flags": 0,
+            "guid": "xM!K)eORv~",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which <b>steroid hormone enzyme deficiency</b> presents with <u>increased</u>&nbsp;<b>renin</b>&nbsp;activity?<div><br /></div><div>{{c1::21-hydroxylase}}</div>",
+                "<i>due to decreased mineralocorticoids&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "Q]r/mu?~Zm",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which steroid hormone enzyme deficiency (21- or 11β-hydroxylase) presents with&nbsp;<u>decreased</u>&nbsp;<b>renin</b>&nbsp;activity?<div><br></div><div>{{c1::11β-hydroxylase}}</div>",
+                "<i>due to increased 11-DOC which is a mineralocorticoid&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "HP@x?#e.=W",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The effects of <b>cortisol</b>&nbsp;may be remembered wit the mnemonic \"<b>A BIG FIB</b>\":&nbsp;<div><br /></div><div><b>A</b>:&nbsp;{{c1::increased Appetite}}</div><div><b>B</b>:&nbsp;{{c2::Blood pressure (increased, via alpha<sub>1</sub>)}}</div><div><div><b>I</b>:&nbsp;{{c3::Insulin resistance (increased)}}</div><div><b>G</b>:&nbsp;{{c4::Gluconeogenesis (increased)}}</div><div><b>F</b>:&nbsp;{{c5::Fibroblast activity (decreased)}}</div><div><b>I</b>:&nbsp;{{c6::Inflammatory/Immune response (decreased)}}</div><div><b>B</b>:&nbsp;{{c7::Bone formation (decreased)}}</div></div>",
+                "<i><br /></i>"
+            ],
+            "flags": 0,
+            "guid": "AGW^OzeH[-",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><i>Sketchy Pharmacology: Endocrine (diabetes)</i>&nbsp;</div><div><br></div><div><b>{{c2::Thiazolidinediones}}</b>&nbsp;cause increased <b>insulin</b> {{c1::sensitivity}}, therefore {{c3::<u>enhancing glucose uptake</u>&nbsp;in peripheral tissue}}s</div>",
                 "<div><i>This is particular for adipose tissue, essentially redirecting the excess glucose into your fat&nbsp;</i></div><div><i><br></i></div><div><div>These medications also reduce blood pressure, increase HDLs, decrease TGs</div></div><div><i><br></i></div><div><i><img src=\"paste-1319035996209153.jpg\"></i></div><div><i><br></i></div><div><i><img src=\"paste-223394133967317.jpg\"></i></div>"
             ],
@@ -1210,6 +2872,20 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<b>Graves disease&nbsp;</b>is&nbsp;associated with&nbsp;<b>HLA-{{c1::DR3}}</b>&nbsp;and&nbsp;<b>HLA-{{c1::B8}}</b>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DkHbVN&%g0",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><b>Vasopressin (ADH)</b>&nbsp;causes&nbsp;<u>water reabsorption</u>&nbsp;by the renal distal tubule and collecting ducts by activating&nbsp;{{c2::V<sub>2</sub>}}&nbsp;receptors&nbsp;</div>",
                 "<i>increased water reabsorption helps increase blood pressure</i>&nbsp;"
             ],
@@ -1260,6 +2936,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>The partial pressure of&nbsp;<u>carbon dioxide</u>&nbsp;in the&nbsp;<b>alveolar air</b>&nbsp;(P<sub>ACO2</sub>)&nbsp;and&nbsp;<b>arterial blood</b>&nbsp;(P<sub>aCO2</sub>)&nbsp;is&nbsp;<i>normally</i>&nbsp;approximately {{c1::40}} mmHg</div>",
+                "<img src=\"paste-109367047225866.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "o1G2SO2@;a",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRespiratory",
+                "RespiratoryPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><b>Methemoglobin</b>&nbsp;has an {{c1::<u>increased</u>}} affinity for&nbsp;<b>{{c2::cyanide}}</b>&nbsp;relative to hemoglobin</div>",
                 "<i>useful for treating cyanide poisoning</i>&nbsp;"
             ],
@@ -1289,6 +2980,21 @@
                 "EXPANSION",
                 "RespiratoryPhysiology",
                 "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What&nbsp;<u>clinical features</u>&nbsp;are seen in&nbsp;<b>21β-hydroxylase deficiency&nbsp;</b>that are a result of&nbsp;<u>increased</u><b> androgen </b>levels&nbsp;in <b>males</b>?&nbsp;<div><br /></div><div>{{c1::Precocious puberty}}</div>",
+                "<div><i>other clinical features are those of glucocorticoid and mineralocorticoid deficiency</i></div><div><i><img src=\"paste-496721557717585.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "C-v|<V.z(>",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "ReproductivePhysiology"
             ]
         },
         {
@@ -1334,23 +3040,6 @@
             ],
             "flags": 0,
             "guid": "k@7])0(r&{",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "CSI_Ex1",
-                "PathomaHeme",
-                "hematology",
-                "hemostasis"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Treatment&nbsp;for&nbsp;<i>disorders</i>&nbsp;of&nbsp;<b>fibrinolysis</b>&nbsp;is<div>&nbsp;<b>{{c1::aminocaproic acid}}</b>, which&nbsp;<u>blocks activation</u>&nbsp;of&nbsp;<b>{{c2::plasminogen}}</b>&nbsp;</div>",
-                "antidote for TPA"
-            ],
-            "flags": 0,
-            "guid": "rW9@T%t2Ol",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "CSI_Ex1",
@@ -1552,6 +3241,38 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "The normal <u>range</u> for <b>arterial pH</b> is {{c1::7.35}} to {{c1::7.45}}",
+                "<i>pH between 6.8 - 8.0 is compatible with life&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "nze<r*s?~n",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the normal&nbsp;<u>average</u>&nbsp;<b>arterial</b>&nbsp;<b>pH</b>?&nbsp;</div><div><br /></div><div>{{c1::7.4}}&nbsp;</div>",
+                "<i>normal range between 7.35 and 7.45</i>"
+            ],
+            "flags": 0,
+            "guid": "?ufMqw+FB",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>What&nbsp;<b>non-volatile acids</b>&nbsp;(2) are commonly elevated in&nbsp;<u>type 1 diabetes</u>?&nbsp;</div><div><br></div><div>{{c1::acetoacetic acid and β-hydroxybutyric acid (ketoacidosis)}}</div><div><br></div><div><br></div>",
                 ""
             ],
@@ -1568,19 +3289,255 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>The hyperfiltration in <b>diabetic glomerulonephropathy </b>can lead to&nbsp;<u>eosinophilic</u>&nbsp;<b>nodular</b>&nbsp;<b>glomerulosclerosis</b>, known as&nbsp;{{c1::Kimmelstiel-Wilson}}<b>&nbsp;</b>nodules</div>",
-                "<div>Hyperfiltration leads to glomerular hypertrophy and scarring (glomerulosclerosis)&nbsp;</div><div><br /></div><div><img src=\"paste-71163313128050.jpg\" /></div>"
+                "<div>What is the <i>normal</i> average blood <b>HCO<sub>3</sub><sup>-</sup>&nbsp;concentration</b> (mEq/L)?</div><div><br /></div><div>{{c1::24 mEq/L}}&nbsp;</div>",
+                ""
             ],
             "flags": 0,
-            "guid": "K=AR.In6k~",
+            "guid": "u2%l$?K+NT",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<b>plasma anion gap</b>&nbsp;represents&nbsp;<u>unmeasured ions</u>&nbsp;in serum and is equal to&nbsp;{{c1::[Na<sup>+</sup>] - ([HCO<sub>3</sub><sup>-</sup>] + [Cl<sup>-</sup>])}}</div>",
+                "<div><i>Na<sup>+</sup>,&nbsp;HCO<sub>3</sub><sup>-</sup>, and Cl<sup>-</sup>&nbsp;are measured; non-measured anions must exist to maintain electroneutrality</i>&nbsp;</div><div><img src=\"paste-25799868547411.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "sx8-W6C6*F",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The range of normal values for the&nbsp;<b>plasma anion gap</b>&nbsp;is {{c1::8}} to {{c1::16}} mEq/L</div>",
+                "<i>average ~ 11-12 mEq/L&nbsp;</i>"
+            ],
+            "flags": 0,
+            "guid": "M:BJ@#C&9A",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<b>plasma anion gap</b>&nbsp;is useful primarily in the&nbsp;<u>differential diagnosis</u>&nbsp;of&nbsp;<b>{{c1::metabolic acidosis}}</b>&nbsp;</div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t5fhQrbNYl",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>If the \"lost\" HCO<sub>3</sub><sup>-</sup>&nbsp;in&nbsp;<u>metabolic acidosis</u>&nbsp;is replaced by&nbsp;{{c2::<b>Cl<sup>-</sup></b>}}, the&nbsp;<i>anion gap</i>&nbsp;is {{c1::<b>normal</b>}}</div>",
+                "<i>e.g. diarrhea (HCO<sub>3</sub><sup>-</sup>&nbsp;lost in GI tract is exchanged for Cl<sup>-</sup>), renal tubular acidosis</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "h2e:Q;g@3`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>If the \"lost\" HCO<sub>3</sub><sup>-</sup>&nbsp;in&nbsp;<u>metabolic acidosis</u>&nbsp;is replaced by&nbsp;<b>{{c2::unmeasured ions}}</b>, the&nbsp;<i>anion gap</i>&nbsp;is {{c1::<b>increased</b>}}</div>",
+                "<i>e.g. diabetic ketoacidosis, lactic acidosis</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "jc#~ruu=>K",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div>Which&nbsp;<u>acid-base disturbance</u>&nbsp;is caused by&nbsp;<b>increased HCO</b><sub style=\"font-weight: bold; \">3</sub><sup style=\"font-weight: bold; \">-</sup>?&nbsp;</div><div><br /></div><div>{{c1::Metabolic alkalosis}}</div><div><br /></div><div><br /></div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "il]g>N2O9y",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div>The&nbsp;<i>primary disturbance</i>&nbsp;in&nbsp;<b>metabolic alkalosis</b>&nbsp;is a(n) {{c2::<u>increase</u>}} in&nbsp;{{c1::<b>HCO<sub>3</sub><sup>-</sup></b>}} OR a <u>{{c2::decrease}}</u> in&nbsp;{{c1::<b>H<sup>+</sup></b>}}</div></div></div>",
+                "<i><div>When seperated by urinary chloride levels:</div><div style=\"text-decoration: underline; \"></div></i><i><u><br /></u></i><u>Chloride responsive (low = &lt;10 mEq/L)</u><div><i>- <b>vomiting</b></i></div><div><i>- contraction alkalosis (ex diuretics)</i></div><div><i>- Cystic fibrosis (resembles loop diuretics)</i></div><div><i>- Milk-Alkali syndrome</i></div><div><i><br /></i></div><div><i></i><i><u>Chloride resistant (high = &gt;20 mEq/L)</u></i></div><div><i>- hypokalemia</i></div><div><i>- hyperaldosteronism / liddle / SAME</i></div><div><i>- Bartter and Gitelman syndromes</i></div><div><i><br /></i></div><div><i><img src=\"paste-412995465248769.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "rsZBGG{bLf",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "BGedit",
+                "CostanzoRenal",
                 "EXPANSION",
-                "PathomaRenal",
-                "RenalPathology",
-                "fa2018",
-                "nephrotic_syndrome"
+                "RenalPhysiology",
+                "Uworld",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div><u>Increased</u>&nbsp;HCO<sub>3</sub><sup>-&nbsp;</sup>causes a(n) {{c1::<u>increase</u>}} in&nbsp;<b>arterial</b>&nbsp;<b>pH</b>&nbsp;</div></div></div>",
+                "<i>i.e.&nbsp;metabolic alkalosis</i>"
+            ],
+            "flags": 0,
+            "guid": "Riy(${n$^e",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div><u>Increased</u>&nbsp;arterial pH&nbsp;(metabolic alkalosis) causes&nbsp;<i>compensatory</i>&nbsp;<b>{{c1::hypo}}-ventilation</b>&nbsp;with consequent&nbsp;{{c1::<u>increased</u>}}&nbsp;<b>P<sub>CO2</sub></b>&nbsp;</div><div><br /></div><div><br /></div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Bz]tcZL1|I",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div>The&nbsp;<u>arterial blood profile</u>&nbsp;seen in&nbsp;<i>compensated</i>&nbsp;<b>metabolic alkalosis</b>&nbsp;is:&nbsp;</div><div><br /></div><div><b>pH</b>: {{c1::increased}}</div><div><b>[HCO<sub>3</sub><sup>-</sup>]</b>:&nbsp;{{c1::increased}}</div><div><b>P<sub>CO2</sub></b>:&nbsp;{{c1::increased}}</div></div></div>",
+                "<img src=\"paste-25825638351024.jpg\" /><div><br /></div><div><img src=\"paste-76914274336769.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "E5,R!UG~sD",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoRenal",
+                "EXPANSION",
+                "RenalPhysiology",
+                "Uworld",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div><div><b><i>Metabolic</i>&nbsp;compensation&nbsp;</b>in response to&nbsp;<u>respiratory acidosis</u>&nbsp;or&nbsp;<u>alkalosis</u>&nbsp;is {{c1::delayed}} (timing)</div></div></div>",
+                "<i>thus, acute respiratory acid-base disturbances are not well compensated</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "rJ,:+4)#Zr",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoRenal",
+                "RenalPhysiology",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Winters formula</b>&nbsp;for&nbsp;<i>simple metabolic acidosis</i>&nbsp;states that:</div><div><br /></div><div>{{c2::P<sub>CO2</sub>}}&nbsp;=&nbsp;{{c1::1.5[HCO<sub>3</sub><sup>-</sup>] + 8 +/- 2}}</div><div><br /></div><div><br /></div>",
+                "<div>This is used to determine whether there is a <u>2* Respiratory Disorder</u></div><div>-&nbsp;&nbsp;If measured PCO2 &nbsp;<b>&gt;</b> predicted PCO2 --&gt; concomitant<b> respiratory acidosis</b></div><div>- If measured PCO2 <b>&lt;</b> predicted PCO2 --&gt; concomitant <b>respiratory alkalosis</b></div><div><b><br /></b></div><div><b><img src=\"paste-350954662658049.jpg\" /></b></div>"
+            ],
+            "flags": 0,
+            "guid": "dkQaO7dEx@",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoRenal",
+                "EXPANSION",
+                "RenalPhysiology",
+                "Uworld",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>If the measured P<sub>CO2</sub>&nbsp;{{c2::&gt;}} predicted P<sub>CO2</sub>&nbsp;using&nbsp;<b>Winters formula</b>, then the&nbsp;<u>metabolic acidosis</u>&nbsp;has a&nbsp;<i>concomitant</i>&nbsp;{{c1::respiratory acidosis}}&nbsp;</div>",
+                "<i>P<sub>CO2</sub>&nbsp;= 1.5[HCO<sub>3</sub><sup>-</sup>] + 8 +/- 2</i>&nbsp;<div><br /></div><div><img src=\"paste-350954662658049.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "E<N&Whi.[~",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoRenal",
+                "EXPANSION",
+                "RenalPhysiology",
+                "Uworld",
+                "acidbase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "If the P<sub>CO2</sub>&nbsp;{{c2::&lt;}} predicted P<sub>CO2</sub>&nbsp;using&nbsp;<b>Winters formula</b>, then the&nbsp;<u>metabolic acidosis</u>&nbsp;has a&nbsp;<i>concomitant</i>&nbsp;{{c1::respiratory alkalosis}}&nbsp;",
+                "<i>P<sub>CO2</sub>&nbsp;= 1.5[HCO<sub>3</sub><sup>-</sup>] + 8 +/- 2</i>&nbsp;<div><br /></div><div><img src=\"paste-350954662658049.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "n-v{yV8Qrn",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoRenal",
+                "EXPANSION",
+                "RenalPhysiology",
+                "Uworld",
+                "acidbase"
             ]
         },
         {
@@ -1617,6 +3574,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><div><div><div>How do serum&nbsp;<b>aldosterone&nbsp;</b>levels change in&nbsp;<b>syndrome of apparent mineralocorticoid excess</b>?&nbsp;</div><div><br /></div><div>{{c1::Decreased}}</div></div></div></div>",
+                "<i>helps distinguish from hyperaldosteronism</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "tg~XZ!_fCy",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "FArenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>Which&nbsp;<u>electrolyte disturbance</u>&nbsp;causes nausea, malaise, stupor, coma, and&nbsp;<b>seizures</b>?&nbsp;</div><div><br /></div><div>{{c1::Low Na<sup>+</sup>&nbsp;(hyponatremia)}}</div>",
                 "<img src=\"paste-252234839359848.jpg\" />"
             ],
@@ -1626,6 +3598,85 @@
             "tags": [
                 "FArenal",
                 "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Acidemia</b>&nbsp;is characterized by&nbsp;<u>arterial pH</u>&nbsp;&lt; {{c1::7.35}}</div><div><br /></div><div><b><br /></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JE?jA`_8_g",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "FArenal",
+                "RenalPhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<u>acid-base disorder</u>&nbsp;may be caused by&nbsp;<b>vomiting</b>?&nbsp;</div><div><br /></div><div>{{c1::Metabolic alkalosis}}</div><div><br /></div><div><b><br /></b></div>",
+                "<img src=\"paste-412995465248769.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "Nzd1*<MsTc",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "FArenal",
+                "RenalPhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>{{c1::Secondary}} hyperaldosteronism</b>&nbsp;is seen in patients with <b>juxtaglomerular</b>&nbsp;<b>cell</b> <b>tumor</b> due to <u>independent</u>&nbsp;activation of the RAAS&nbsp;",
+                "<div>- Results in severe hypertension that is <u>difficult to control</u></div><div><br /></div><div><div>- These secrete Renin, thus you also have ATII upregulation as well as Aldosterone (failure of aldosterone escape)</div></div><div><br /></div>"
+            ],
+            "flags": 0,
+            "guid": "k`_O[c+9#v",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>{{c1::Secondary}} hyperaldosteronism</b>&nbsp;is seen in patients with&nbsp;<b>renovascular</b>&nbsp;<b>hypertension</b>&nbsp;due to&nbsp;<u>independent</u>&nbsp;activation of the RAAS&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "phFtDn$G;Y",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "One&nbsp;<u>clinical feature</u>&nbsp;of&nbsp;<b>Addison disease</b>&nbsp;is&nbsp;{{c1::metabolic acidosis}} (H<sup>+</sup>&nbsp;levels)<div><br /></div>",
+                "<i>due to decreased aldosterone levels; specifically, normal anion gap metabolic acidosis</i>&nbsp;&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "BvK?+0<h^!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
             ]
         },
         {
@@ -1757,6 +3808,24 @@
                 "RBC",
                 "anemia",
                 "microcytic_anemia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The levels of&nbsp;<u>TBG</u>&nbsp;and&nbsp;<u>total thyroid hormone</u>&nbsp;are {{c1::<i>increased</i>}}&nbsp;with&nbsp;<b>{{c2::pregnancy}}</b>&nbsp;and&nbsp;<b>{{c3::oral contraceptive}} use</b>&nbsp;</div>",
+                "<i>- due to decreased TBG breakdown by the liver (secondary to increased&nbsp;estrogen, modifies TBG molecules and thus slows clearance from plasma)</i>;&nbsp;<i><u>increased</u>&nbsp;TBG is detected via&nbsp;<u>decreased</u>&nbsp;resin uptake (T<sub>3</sub>&nbsp;resin uptake test)</i><div><i><br /></i></div><div><i>- this results in <b>increased </b>total <b>T3/T4</b>; <u>free</u>&nbsp;T4 is initially mildly elevated but then decrease</i></div><div><i><b><br /></b></i></div><div><i><b><img src=\"paste-159729833738241.jpg\" /></b></i></div><div><i><b><br /></b></i></div><div><i><b><img src=\"paste-124987843280897.jpg\" /></b></i></div>"
+            ],
+            "flags": 0,
+            "guid": "icG$R(Zp/5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "fa2018"
             ]
         },
         {
@@ -2269,21 +4338,6 @@
                 "NeuroPathology",
                 "PathomaNeuro",
                 "meningitis"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div>Which&nbsp;<u>nervous system cell</u>&nbsp;is typically damaged by&nbsp;<b>Guillain-Barre syndrome</b>?&nbsp;</div><div><br /></div><div>{{c1::Schwann cells}}</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "OQH5xHjkUU",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "neurology",
-                "neuroscience"
             ]
         },
         {
@@ -3362,6 +5416,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><u>type II HSRs</u> can cause pathology by inducing cellular dysfunction, causing&nbsp;<i>abnormal</i><b>&nbsp;</b>{{c1::blockade}}&nbsp;or {{c1::activation/inactivation}}&nbsp;of downstream cellular processes &nbsp;</div>",
+                "<div><i>Ex. Myasthenia gravis, Graves disease, Pemphigus vulgaris</i></div><div><i><br /></i></div><div><i>In <b>pemphigus vulgaris</b>, autoantibodies against desmoglein-1 (αDsg1) / -3 (αDsg3)&nbsp;<b>inactivate </b>these proteins, resulting in <u>loss of cell-cell adhesion</u>&nbsp;</i></div><div><i><br /></i></div><div><i></i><i><u><img src=\"paste-602180184702977.jpg\" /></u></i></div>"
+            ],
+            "flags": 0,
+            "guid": "N2-1~WS=:0",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "fa2018",
+                "immunology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><b>Type {{c2::II}} diabetes mellitus</b>&nbsp;is associated with deposition of&nbsp;{{c1::<b>amylin</b>&nbsp;(islet amyloid polypeptide)}}&nbsp;in the&nbsp;<b>islets of the pancreas</b>&nbsp;</div>",
                 "<i>amylin is derived from&nbsp;<b>insulin</b></i>&nbsp;"
             ],
@@ -3700,24 +5771,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div><b>Basophilic stippling</b>&nbsp;in RBCs is a result of <u>aggregation</u>of&nbsp;{{c1::residual ribosomes}}<div><br></div><div>- seen with{{c2::&nbsp;<b style=\"font-style: italic;\">lead poisoning</b>}}<i>,&nbsp;</i>{{c3::sideroblastic}}&nbsp;<b style=\"font-style: italic;\">anemia</b><i>, and&nbsp;</i>{{c4::<b style=\"font-style: italic;\">myelodysplastic syndromes</b>}}</div></div>",
-                "<i><div></div></i><i>- due to inhibition of erythrocyte 5' nucleotidase, which prevents ability to degrade RNA resulting in ribosome aggregation</i><div><i><br></i></div><div><b>Sideroblastic anemia</b>, or sideroachrestic <b>anemia</b>, is a form of <b>anemia</b> in which the bone marrow produces ringed <b>sideroblasts</b> rather than healthy red blood cells (erythrocytes).<i><br></i></div><div><br></div><div><div><b>Myelodysplastic syndromes</b> (<b>MDS</b>) are a group of cancers in which immature blood cells in the bone marrow do not mature and therefore do not become healthy blood cells.<sup>[3]</sup> Early on, there are typically no symptoms.<sup>[3]</sup> Later symptoms may include feeling tired, shortness of breath, easy bleeding, or frequent infections.<sup>[3]</sup> Some types may develop into acute myeloid leukemia.<sup>[3]</sup></div></div><br>"
-            ],
-            "flags": 0,
-            "guid": "yI_)K0@.5}",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "BGedit",
-                "CSI_Ex1",
-                "EXPANSION",
-                "RBCpathology",
-                "Uworld"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "<div><b>Iron poisoning</b>&nbsp;causes&nbsp;<u>cell death</u>&nbsp;due to {{c1::peroxidation}} of&nbsp;<b>membrane lipids</b>&nbsp;</div>",
                 "<div><i>often occurs due to&nbsp;<b>accidental ingestion by children</b>&nbsp;(adult tablets may look like candy)</i>&nbsp;</div><div><img src=\"paste-333972361969780.jpg\" /></div>"
             ],
@@ -3886,7 +5939,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>What are the&nbsp;<u>treatments</u>&nbsp;(2) for&nbsp;<b>arsenic</b>&nbsp;and&nbsp;<b>mercury&nbsp;<i>poisoning</i></b>?</div><div><br /></div><div>{{c1::dimercaprol and succimer}}</div>",
+                "<div>What are the&nbsp;<u>treatments</u>&nbsp;(2) for {{c2::arsenic}}&nbsp;and {{c3::mercury}}<b>&nbsp;<i>poisoning</i></b>?</div><div><br></div><div>{{c1::dimercaprol and succimer}}</div>",
                 "<img src=\"paste-397821345792562.jpg\" />"
             ],
             "flags": 0,
@@ -3905,16 +5958,224 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div><b>Cyclophosphamide</b> can stimulate {{c1::<b>ADH</b>}} secretion, resulting in a euvolemic hyponatremia</div>",
-                "<br /><div><img src=\"paste-236188841541633.jpg\" /></div>"
+                "Thyroid hormones (T3/T4) play a role in development of what organ system?<div><br /></div><div>&nbsp;{{c1::CNS}}</div>",
+                "hence children with hypothyroidism will develop <b>cretinism</b> (form of congenital hypothyroidism with CNS defects)"
             ],
             "flags": 0,
-            "guid": "LKH[S(nD`j",
+            "guid": "kNul#)K{gL",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "BGadd",
                 "EXPANSION",
-                "NeoplasiaPharmacology"
+                "endocrine",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What form of thyroid hormone is predominately produced by the thyroid gland?<div><br /></div><div>{{c1::90% T4}}</div>",
+                "<div>Converted to T3 in peripheral tissues via 5'-deiodinase</div><div><img src=\"Screen Shot 2017-05-01 at 3.37.12 PM.png\" /></div><img src=\"Screen Shot 2017-05-01 at 3.53.37 PM.png\" />"
+            ],
+            "flags": 0,
+            "guid": "j9:!x4t2C!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What thyroid hormone is <b>more potent</b>?<div><br /></div><div>{{c1::T3 (10 x more potent than T4)}}</div>",
+                "<img src=\"Screen Shot 2017-05-01 at 3.54.52 PM.png\" /><img src=\"Screen Shot 2017-05-01 at 3.37.12 PM.png\" />"
+            ],
+            "flags": 0,
+            "guid": "K*|&#OO/ER",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Hashimoto's Thyroiditis}} is an autoimmune disorder that initially causes a hyperthyroidism that then becomes a hypothyroidism.<div><br /></div>",
+                "<i>Initially a hyperthyroidism while the thyroid is being damaged (releasing its contents), but burns out and becomes a <b>hypothyroidism</b></i><div><b><i><br /></i></b></div><div><b><i><img src=\"paste-14040248090625.jpg\" /><br /></i></b><div>Remember, Hurthle cells and lymphoid aggregates with <b>germinal centers </b>on histology</div></div>"
+            ],
+            "flags": 0,
+            "guid": "r`18yG1qs=",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Levothyroxine = {{c1::synthetic T4}}<div>Liothyronine =&nbsp;{{c2::synthetic T3}}<br /><div><br /></div></div>",
+                "<div>hence it stimulates nuclear receptors and results in increased gene expresion</div><div><br></div><div>T3 is the more bioactive hormone, however the goal is to administer exogenous T4 and have the peripheral tissues convert T4 to T3<br></div><img src=\"Screen Shot 2017-05-01 at 4.10.52 PM.png\"><img src=\"Screen Shot 2017-05-01 at 3.58.08 PM.png\">"
+            ],
+            "flags": 0,
+            "guid": "AOrogR(8/,",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<u>Levothyroxine</u> and <u>Liothyronine</u> are {{c1::thyroid replacement}} medications that are used to treat <i>hypothyroidism and myxedema</i><div><br /></div>",
+                "<img src=\"Screen Shot 2017-05-01 at 4.10.52 PM.png\">"
+            ],
+            "flags": 0,
+            "guid": "II;(j~I_fc",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Methimazole}} is a thioamide that works by inhibiting <u>Thyroid peroxidase</u>&nbsp;<b>ONLY</b>",
+                "<img src=\"Screen Shot 2017-05-01 at 3.37.12 PM.png\" /><img src=\"Screen Shot 2017-05-01 at 4.21.09 PM.png\" />"
+            ],
+            "flags": 0,
+            "guid": "DvsiUuZPt}",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Propylthiouracil}} and {{c2::methimazole}} are thioamides used to treat {{c3::hyperthyroidism}}.<div><br /></div>",
+                "<div>Methimazole is preffered, useful iin graves disease&nbsp;</div><div><br></div><img src=\"Screen Shot 2017-05-01 at 4.24.52 PM.png\"><img src=\"Screen Shot 2017-05-01 at 4.21.09 PM.png\">"
+            ],
+            "flags": 0,
+            "guid": "y_Xtl:C:CI",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Propylthiouracil}} is a thioamide indicated in the treatment of <b>thyroid storm (thyrotoxicosis)</b>",
+                "<div>- <b>Not</b> methimazole</div><div>- Also indicated are B-blockers, glucocorticoids</div><div><br></div><div>We suggest PTU for the acute treatment of life-threatening thyroid storm in an ICU setting, where it can be administered regularly every four hours. PTU, but not methimazole, blocks T4-to-T3 conversion, and T3 levels drop by approximately 45 percent within 24 hours after PTU but only 10 to 15 percent within 24 hours after methimazole [21,22]. (up to date)<br></div><img src=\"Screen Shot 2017-05-01 at 4.27.06 PM.png\">"
+            ],
+            "flags": 0,
+            "guid": "jg6w.1e2:X",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Radioactive (<i>I<sup>131</sup></i>)</b>&nbsp;<b>Iodine</b> is a <i>last</i> resort treatment of&nbsp;<u>Hyperthyroidism / Graves' disease</u> that works by {{c1::ablating}} the Thyroid",
+                "<div>competes with elemental iodine for uptake, and thus concentrates in the thyroid gland (small dose is used for imaging, large dose emits beta-decay in significant quantities to destroy thyroid tissue)</div><div><br /></div><div>Only used when treatment is refractory to other antithyroid drugs</div><img src=\"Screen Shot 2017-05-01 at 5.43.20 PM.png\" />"
+            ],
+            "flags": 0,
+            "guid": "C-mB__/%PA",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients who undergo radioactive iodine (I<sup>131</sup>) &nbsp;treatment can develop&nbsp;{{c1::hypothyroidism}}",
+                "<div>competes with elemental iodine for uptake, and thus concentrates in the thyroid gland&nbsp;</div><div><br /></div><div>This is why patients with Graves' who undergo thyroid ablation need to take thyroid medications for the rest of their life; hypothyroidism is easier to manage</div><div><br /></div><div><img src=\"Screen Shot 2017-05-01 at 5.48.24 PM.png\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "n%X%t&sIsJ",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What class of drugs are used to treat Thyrotoxicosis (thyroid storm) by blocking the <u>hyperadrenergic</u> symptoms?</div><div><br /></div><div>{{c1::Beta blockers}}</div>",
+                "<div>Recall that T3 increases Beta-1 receptors in the heart, so the use of beta-blockers makes sense</div><div><br /></div><div>In addition, <b>beta-blockers </b>can block 5'-deiodinase, blocking conversion of T4 to T3.</div><img src=\"Screen Shot 2017-05-01 at 6.06.47 PM.png\" />"
+            ],
+            "flags": 0,
+            "guid": "K(J%a[b_$u",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "endocrine",
+                "fa2018",
+                "pharmacology",
+                "thyroid"
             ]
         },
         {
@@ -4158,6 +6419,44 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<b>{{c1::Euthyroid sick}}&nbsp;syndrome&nbsp;</b>is an apparent alteration of thyroid hormone level with <u>normal thyroid gland function</u>&nbsp;seen in <b>{{c2::critically ill}} patients</b>",
+                "Aka Non-Thyroidal Illness Syndrome; seen in <b>cancer, pneumonia,</b>&nbsp;<b>cardiac disease, sepsis</b>"
+            ],
+            "flags": 0,
+            "guid": "u_ReP(>KC:",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "Boards&Beyond",
+                "EXPANSION",
+                "MedBullets",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Most commonly, patients with <b>euthyroid sick syndrome </b>will have:<div><br /></div><div>- serum TSH&nbsp;{{c1::normal}}</div><div>- total serum T4 {{c1::normal}}</div><div>- total serum T3 {{c1::↓}}</div><div>- reverse T3&nbsp;{{c1::↑}}</div>",
+                "Patients with <b>severe</b> Euthyroid Sick Syndrome may have&nbsp;<b>low</b>&nbsp;<u>free and total T4 levels AND TSH levels</u><br /><div><br /></div><div>this is because in critical illness there is <u>decreased activity</u> of <u>D1/D2</u>&nbsp;5-monodeiodinase activity (normally T4 --&gt; T3, and rT3 --&gt; T2), and <u>increased activity</u> of&nbsp;<u>D3</u>&nbsp;5' monodeiodinase (normally T4 --&gt; rT3)</div><div><br /></div><div><img src=\"paste-71446780968961.jpg\" /></div><div><img src=\"paste-73735998537729.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Drb2AL,*b5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "Boards&Beyond",
+                "EXPANSION",
+                "MedBullets",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>Which&nbsp;<b>thyroid imbalance</b>&nbsp;presents with&nbsp;<b>puffy facies </b>and <b>generalized nonpitting edema</b>?</div><div><br /></div><div>{{c1::Hypothyroidism}}</div>",
                 "This is known as Myxedema; TSH stimulates dermal fibroblasts to deposit GAGs in interstitial spaces; hyaluronic acid provides an osmotic stimulus to draw water into deposits and cause this presentation"
             ],
@@ -4176,15 +6475,49 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "The urinary cyanide-nitroprusside test is diagnostic for which renal disease?&nbsp;<div><br /></div><div>{{c1::Cystinuria}}</div>",
+                "<div>Which&nbsp;<b>thyroid imbalance</b>&nbsp;presents with <b>increased TSH </b>(if 1*) and <b>decreased free T3 / T4</b>?</div><div><br /></div><div>{{c1::Hypothyroidism}}</div>",
                 ""
             ],
             "flags": 0,
-            "guid": "G`~dVLWMrn",
+            "guid": "N,M:.N0!,G",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "BGadd",
-                "CSI_Ex1",
+                "Boards&Beyond",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<b>thyroid imbalance</b>&nbsp;presents with&nbsp;<b>decreased TSH&nbsp;</b>(if 1*) and&nbsp;<b>increased free T3 / T4</b>?</div><div><br /></div><div>{{c1::Hyperthyroidism}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sIzpgu!(4k",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "Boards&Beyond",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the most common cause of hyperthyroidism?<div><br /></div><div>{{c1::Graves disease}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F?7-3`mKH~",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "Boards&Beyond",
                 "EXPANSION",
                 "fa2018"
             ]
@@ -4210,7 +6543,7 @@
             "data": "",
             "fields": [
                 "<div><b>a-glucosidase&nbsp;inhibitors </b>are not recommended if {{c1::kidney}} function is impaired</div>",
-                ""
+                "Taken orally, they inhibit the upper gastrointestinal enzymes (alpha-glucosidases) that convert complex polysaccharide carbohydrates into monosaccharides in a dose-dependent fashion. These drugs slow absorption of glucose; the slower rise in postprandial blood glucose concentrations is potentially beneficial in both type 1 and type 2 diabetes.&nbsp;"
             ],
             "flags": 0,
             "guid": "jAR:Q.F*8|",
@@ -4379,6 +6712,24 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "The most important steps in working up a <b>metabolic alkalosis </b>are:<div><br /><div>- determining the patients {{c1::<b>volume statu</b>s}} for <u>saline responsiveness</u></div><div>- checking the<b> urine</b> {{c2::<b>chloride</b>}} levels</div></div>",
+                "- vomiting / nasogastric aspiration present with low urine chloride and volume loss (saline responsive)<div><br /></div><div>- prior diuretic use can lead to a low urine chloride state that is saline responsive, and current diuretic use can lead to a high urine chloride state when diuretic use is ongoing (also saline responsive)</div><div><br /></div><div>- mineralocorticoid excess state will result in a high urine chloride and hyper volemia that thus will not be saline responsive</div><div><br /></div><div><img src=\"paste-412999760216065.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "crPbLeG6@K",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "Boards&Beyond",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<b>Phencyclidine (PCP) </b>is a hallucinogen that works primarily as an <b>{{c1::NMDA}}</b>&nbsp;receptor <u>antagonist</u>",
                 "secondarily, inhibits the reuptake of NE, dopamine, serotonin; also stimulates sigma-opioid receptors"
             ],
@@ -4501,6 +6852,40 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<b>Glucagon</b>, <b>cortisol</b>, and <b>epinephrine</b> induce {{c1::<b>insulin</b> <b>resistance</b>}} leading to phosphorylation of {{c1::serine}} / {{c2::threonine}} residues of the <u>insulin receptor</u> and <u>IRS-1</u>",
+                "<div>This is via activation of&nbsp;<b>PKA,</b>&nbsp;a serine/threonine kinase; <b>TNF-a</b>&nbsp;does this in the same manner</div><div><br /></div><div><img src=\"paste-539301863489537.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "Aa9-d8w~T7",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "An <b>adrenal crisis </b>should be treated with <u>immediate</u>&nbsp;{{c1::glucocorticoid}} supplementation and aggresive fluid resuscitation",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A%P1M/}w;i",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Patients with diabetic ketoacidosis have {{c1::increased}} bicarbonate reuptake&nbsp;",
                 "alpha-intercalated cells in the kidney respond to metabolic acidosis by removing H+ from the blood into the urine, which stimulates bicarb reuptake<div><br /></div><div><img src=\"paste-21453361643871.jpg\" /></div>"
             ],
@@ -4555,34 +6940,6 @@
             ],
             "flags": 0,
             "guid": "lNX+!)/iCp",
-            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
-            "tags": [
-                "CSI_Ex1"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Recurrent Meningitis typically is caused by&nbsp;<br><div><span>{{c7::Parameningeal focus - infection}}</span><span>,&nbsp;</span>{{c6::epidermoid cyst}}<span>,&nbsp;</span>{{c5::craniopharyngioma}}<div>{{c4::CSF leak, often following trauma}}</div> <div>Pneumococcus most common</div> <div>{{c3::Mollaret’s – Recurrent HSV, epidermoid cyst?}}</div> <div>{{c2::Terminal compliment deficiencies with recurrent meningococcus}}</div> <div>{{c1::SLE, migraines}}</div></div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "lE$k-pa?{=",
-            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
-            "tags": [
-                "CSI_Ex1"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Usual Aseptic Culprits of Meningitis<div>{{c7::<div>Enteroviruses (Echo, coxsackie, polio, etc.)</div><div><span>}}</span></div><div><span>{{c6::</span><br></div><div>Herpes (HSV, VZV, EBV, CMV)<span>}}</span></div><div><span>{{c5::</span><br></div><div>Arboviruses (West Nile)<span>}}</span></div><div><span>{{c4::</span><br></div><div>Lyme disease<span>}}</span></div><div><span>{{c3::</span><br></div><div>Adenovirus<span>}}</span></div><div><span>{{c2::Lymphocytic choriomeningitis virus}}</span></div><div><span>{{c1::Possible spirochetes? (leptospira, neurosyphilis, borrelia, etc.)}}</span></div></div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "nY*&q%W66n",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "CSI_Ex1"
@@ -4753,7 +7110,7 @@
             "data": "",
             "fields": [
                 "Cardiac autnomic neuropathy symptoms caused by Diabetes include<div>1) {{c1::Orthostatic Hypotension}}</div><div>2) {{c2::Silent MI&nbsp;}}</div>",
-                ""
+                "Orthostatic hypotension results from a combination of central and peripheral cardiovascular sympathetic denervation. May be a result of neuropathy caused by diabetes&nbsp;"
             ],
             "flags": 0,
             "guid": "U$W>^&pYx",
@@ -4908,19 +7265,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>{{c4::Hyperosmolar Hyponatremia}} is caused by&nbsp;{{c1::Hyperglycemia}}, M{{c2::annitol infusions}} and {{c3::immunoglobulin preparations}}</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "O7OYFy!3*7",
-            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "{{c1::Exercise associated Hyponatremia}} is a {{c2::hypoosomlar hyponatremia}} caused by {{c3::replacement of isensible losses with free water.}}&nbsp;",
+                "{{c1::Exercise associated Hyponatremia}} is a {{c2::hypoosomlar hyponatremia}} caused by {{c3::replacement of insensible losses with free water.}}&nbsp;",
                 "Common in untrained runners&nbsp;"
             ],
             "flags": 0,
@@ -4980,7 +7325,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Short acting insulins are typically {{c1::taken before meals&nbsp;}}",
+                "Short acting insulins are typically taken {{c1::before meals}}",
                 ""
             ],
             "flags": 0,
@@ -5045,6 +7390,306 @@
             ],
             "flags": 0,
             "guid": "k-..IJ3Mp7",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The hyperfiltration in&nbsp;<b>diabetic glomerulonephropathy&nbsp;</b>can lead to eosinophilic {{c2::<b>nodular</b>&nbsp;<b>glomerulosclerosis</b>}}, known as {{c1::Kimmelstiel-Wilson<b>Â&nbsp;</b>nodules}}</div>",
+                "<div>Hyperfiltration leads to glomerular hypertrophy and scarring (glomerulosclerosis)</div> <div><br></div> <div><div><div><div><div><div><div><div><div><div>Jimmy Kimmel Nodules</div></div></div></div></div></div></div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "zN=f9u,Cg)",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Basophilic stippling</b>&nbsp;in RBCs is a result of&nbsp;<u>aggregation</u>of&nbsp;{{c1::residual ribosomes}}</div> <div>&nbsp;</div> <div>- seen with{{c2::&nbsp;<b><i>lead poisoning</i></b>}}<i>,&nbsp;</i>{{c3::sideroblastic}}&nbsp;<b><i>anemia</i></b><i>, and&nbsp;</i>{{c4::<b><i>myelodysplastic syndromes</i></b>}}</div>",
+                "<div><br></div> <div><i>- due to inhibition of erythrocyte 5' nucleotidase, which prevents ability to degrade RNA resulting in ribosome aggregation&nbsp;</i></div> <div>&nbsp;</div> <div><b>Sideroblastic anemia</b>, or sideroachrestic&nbsp;<b>anemia</b>, is a form of&nbsp;<b>anemia</b>&nbsp;in which the bone marrow produces ringed&nbsp;<b>sideroblasts</b>&nbsp;rather than healthy red blood cells (erythrocytes).</div> <div>&nbsp;</div> <div><b>Myelodysplastic syndromes</b>&nbsp;(<b>MDS</b>) are a group of cancers in which immature blood cells in the bone marrow do not mature and therefore do not become healthy blood cells.<sup>[3]</sup>&nbsp;Early on, there are typically no symptoms.<sup>[3]</sup>&nbsp;Later symptoms may include feeling tired, shortness of breath, easy bleeding, or frequent infections.<sup>[3]</sup>&nbsp;Some types may develop into acute myeloid leukemia.<sup>[3]</sup></div><div><sup><br></sup></div><div><sup><br></sup></div><div><img src=\"basophilic-stippling-4-bovine-4-regen-anemia-arrows.png\"><br></div> <div>&nbsp;</div> <div>&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "i3eZc4hp35",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c4::Hyperosmolar Hyponatremia}} is caused by&nbsp;{{c1::Hyperglycemia}}, {{c5::Mannitol infusions}} and {{c3::immunoglobulin preparations}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "edGg!_x9H#",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "For every 1g/dL drop in serum {{c1::albumin}} you must increase anion gap by {{c2::2.5&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l|~2SAd{p*",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Each 1 mEq/L rise in HCO3 from {{c2::24}}, will result in a rise in PaCO2 by {{c1::0.7 mm Hg}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NAg`;%K!-_",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In respiratory acidosis&nbsp; {{c3:: &lt; 2 days}}, For each {{c1::10 mm Hg}} increase in PaCO2, thereis a {{c2::1 mEq/L}} rise in HCO3",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Dco57$n5U",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In chronic respiratory acidosis {{c3::&gt; 3 days}}, For each {{c1::10}} mm Hg increases in PaCO2,there is an expected {{c2::4 mEq/L}} increase in HCO3",
+                "Kidneys compensate more"
+            ],
+            "flags": 0,
+            "guid": "s9,6U=2/[F",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In Primary Alkalosis compensation {{c1::&lt; 2 days}} For each {{c2::10 mm Hg}} decrease in PaCO2, there is a {{c3::2 mEq/L}} decrease in HCO3",
+                "Therefore, if HCO3 is higher than expected, there is an additional metabolic alkalosis present.<br><br>If HCO3 is lower than expected, there is an additional metabolic acidosis present."
+            ],
+            "flags": 0,
+            "guid": "f{t|k>)8LD",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In Primary Alkalosis, Chronic compensation {{c1::&gt; 3 days}} For each {{c2::10 mm Hg}} decrease in PaCO2, there is a {{c3::4 mEq/L}} decrease in HCO3",
+                "Therefore, if HCO3 is higher than expected,there is an additional metabolic alkalosis present.<br><br><div>If HCO3 is lower than expected, there is an additional metabolic acidosis present.</div>"
+            ],
+            "flags": 0,
+            "guid": "KFs[C!%o>@",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Delta AG/Delta HCO3- = {{c1::1-2}} normally",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iRKb=AP<-7",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "If Delta/Delta is {{c1::&lt;}} 1, there is an additional<br>{{c2::non anion gap metabolic acidosis}} present.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v3$am+<vt+",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "If Delta/Delta is {{c1::&gt; 2}}, there is an additional {{c2::metabolic alkalosis}} present.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hGP!`89ai8",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T3 functions “6 B’s”<br><br>{{c6::Brain maturation}}<br>{{c5::Bone growth}}<br>{{c4::B adrenergic effects}}<br>{{c3::Basal metabolic rate}}<br>{{c2::Blood sugar elevation}}<br>{{c1::Break down lipids}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ir%g25M*uU",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Very Low TSH with high T4 is characteristic of {{c1::Thyrotoxicosis&nbsp;}}",
+                "Just a synonym for hyperthyroidism&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "^evG@Dg{R",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Subclinical Hypothyroidism}} patients are often {{c2::assymptomatic}} and will have {{c3::slightly elevated TSH}} levels that slowly drifts up with {{c4::age}} and {{c4::weight gain&nbsp;}}<br>",
+                "Patients may go on to have a persistent hypothyroid state<br>requiring treatment; Around 4% per year when TSH is &gt;6mU/L"
+            ],
+            "flags": 0,
+            "guid": "ed=1rf62R|",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Subacute thyroidits}} is an acute inflammatory state of the thyroid, often after a {{c2::viral syndrome}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oguXe(7u&;",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Subacute thyroidits is common in {{c1::30-50yo women}} and is characterized by {{c2::fever}} and {{c2::neck pain over the thyroid gland}}",
+                "Completely resolves in 90% of patients for thosewho don’t resolve anti inflammatories or steroid tapers are sometimes used<div><br></div><div>May be symptomatically thyrotoxic initially, then fluctuate down to a hypothyroid and eventually a euthyroid state<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dsw?,r!kC+",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Treatment of Myxedema Coma includes<br><br><div>1) {{c1::Administration of IV levothyroxine}}<br>2) {{c2::Determine cortisol level and administer steroids}}<br>3) {{c3::Gradual warming with warming blankets}}<br>4) {{c4::Continue IV antibiotics for sepsis due to cellulitis}}</div>",
+                "Patients with central hypothyroidism may have associated hypopituitarism and secondary adrenal insufficiency. In addition, patients with autoimmune-mediated primary hypothyroidism may have concomitant primary adrenal insufficiency. Also, pituitary corticotropin (ACTH) secretion may be blunted in severe hypothyroidism, resulting in subnormal cortisol response to stress<div><br></div><div>In any critically ill, comatose patient, empiric administration of antibiotics should be considered until appropriate cultures are proven negative.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ja2AW6c|&s",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Post partum Thyroidits is characterized by {{c2::excess T4 to T3 conversion}}. It usually self resolves in {{c1::8-12 months}}.",
+                "Majority of women are euthyroid following resolution<div><br></div><div><img src=\"paste-950f026f1e7f4d916679a4957a9b7d44a0cde7e7.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "QX!1dZW[_B",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Cosyntropin}} is used in a {{c2::ACTH}} stimulation test and stimulates the release of {{c3::cortisol&nbsp;}}",
+                "In Addison’s disease cortisol is low at all intervals<br><br>In secondary adrenal insufficiency patients have a delayed but<br>normal response"
+            ],
+            "flags": 0,
+            "guid": "gF4kMA}QS=",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Traditional treatment for 21 B-hydroxylase deficiency is {{c1::dexamethasone}} and&nbsp;Antiandrogen therapy such as {{c2::spironolactone}} or {{c3::flutamide}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jAG-%`?O&^",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients with Cushing’s disease usually have UFC levels between {{c1::50}} and {{c1::200ug}} per 24h",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gi$&*1G=(O",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients with cortisol secreting adrenal tumors usually have UFC levels {{c1::&gt;200ug}} per 24h with low {{c2::ACTH}} and {{c2::DHEA}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JJdhhW[8ou",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Treatment of&nbsp;<b>Conn syndrome (</b><b>primary hyperaldosteronism)</b>&nbsp;consists of administration of an&nbsp;{{c1::<u>aldosterone</u>&nbsp;<u>antagonist}}</u>, such as&nbsp;<b>{{c2::spironolactone}}</b>, followed by removal of the aldosterone-secreting tumor",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F=sRW[Y.{e",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A {{c2::Clonidine suppression}} test may be used to diagnose {{c1::pheeochromocytoma}}&nbsp;<br><br>",
+                "Measure metanepherine and normetanepherine levels before 0.3mg clonadine<br>p.o. and 3h after<div><br></div><div>Normal persons should have a decrease in catecholamines into the normal range<br></div>"
+            ],
+            "flags": 0,
+            "guid": "oh6U|;8+Ic",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": []
         }
