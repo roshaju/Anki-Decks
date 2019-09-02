@@ -59,7 +59,9 @@
     "extendRev": 50,
     "inactiveTags": [],
     "media_files": [
+        "5E570824-FFFF-45A0-8EC8-DEAD6787EE87.jpg",
         "Arsenic.png",
+        "Continuous vs Pulsatile GnRH.png",
         "Craniopharyngioma development.png",
         "Screen Shot 2017-03-06 at 6.45.13 PM.png",
         "Screen Shot 2017-03-12 at 5.30.04 PM.png",
@@ -101,9 +103,12 @@
         "paste-223394133967317.jpg",
         "paste-225507257876957.jpg",
         "paste-242983479803905.jpg",
+        "paste-243928372609281.jpg",
         "paste-252234839359848.jpg",
+        "paste-25529285607425.jpg",
         "paste-25799868547411.jpg",
         "paste-25825638351024.jpg",
+        "paste-262886358253920.jpg",
         "paste-269397528674520.jpg",
         "paste-29283087024713.jpg",
         "paste-319305048654269.jpg",
@@ -134,6 +139,7 @@
         "paste-44525925957633.jpg",
         "paste-44538810859521.jpg",
         "paste-450292961247579.jpg",
+        "paste-458577953161405.jpg",
         "paste-460575112954346.jpg",
         "paste-460669602234836.jpg",
         "paste-468138550362113.jpg",
@@ -173,6 +179,7 @@
         "paste-783827236553253.jpg",
         "paste-783844416422437.jpg",
         "paste-7ac82ae5f5c8c5f6bac3b6fda520b53cb8f7d8a1.jpg",
+        "paste-7f9414f3a8ab16fddf1a9b532295ac981be21afe.jpg",
         "paste-86917253169688.jpg",
         "paste-9328668966913.jpg",
         "paste-950f026f1e7f4d916679a4957a9b7d44a0cde7e7.jpg",
@@ -328,6 +335,99 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>The&nbsp;<b>{{c2::posterior}} pituitary</b>&nbsp;is a collection of nerve axons whose&nbsp;<b>cell bodies</b>&nbsp;are located in&nbsp;<b>{{c1::hypothalamic nuclei}}</b></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l|>*E0S<Gr",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::Hypothalamic}}</b>&nbsp;<b>hormones</b>&nbsp;<i>stimulate</i> or <i>inhibit</i> the release of&nbsp;<b>{{c1::anterior pituitary}}</b>&nbsp;<b>hormones</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rgS8i?!RFo",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Six</u> major hormones are secreted by the <b>anterior</b> <b>lobe</b> of the pituitary:&nbsp;</div><div>{{c1::<div>&nbsp;1. FSH</div><div>&nbsp;2. LH</div><div>&nbsp;3. ACTH</div><div>&nbsp;4. TSH</div><div>&nbsp;5. Prolactin</div><div>&nbsp;6. Growth hormone</div>}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DC[8%#Wn^Y",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c2::Growth hormone}}</b>&nbsp;is synthesized in the&nbsp;<b>{{c1::somatotrophs}}</b>&nbsp;of the&nbsp;<b>anterior lobe</b>&nbsp;of the pituitary gland</div><div><div><div><i><br /></i></div></div></div>",
+                "<i>thus, it is also called somatotropin or somatotropic hormone</i>"
+            ],
+            "flags": 0,
+            "guid": "b=Ze!?yVrf",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<i>direct</i>&nbsp;action does&nbsp;<b>growth hormone</b>&nbsp;have on production of&nbsp;<b>insulin-like growth factor&nbsp;</b>(IGF)?</div><div><br /></div><div>{{c1::Increased}}</div><div><i><br /></i></div>",
+                "<i>Increased IGF aids in increased <b>lean body mass</b>, increased organ size, and increased <b>linear</b> <b>growth</b></i>"
+            ],
+            "flags": 0,
+            "guid": "xjI)2wR&qI",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Growth hormone/IGF-1</b>&nbsp;alters <i>cartilage</i> metabolism to increase&nbsp;<b>{{c1::linear}}</b>&nbsp;growth&nbsp;</div>",
+                "<i>- Via an increase of protein synthesis in chondrocytes (stimulates chondrocytes in growth plates)</i><div><i><br /></i></div><div><i>- in contrast to estrogen, IGF-1 does not accelerate epiphyseal closure</i></div>"
+            ],
+            "flags": 0,
+            "guid": "s&S3Z^6P!4",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the embryonic origin of the <b>anterior pituitary</b>?&nbsp;<div><br /></div><div>{{c1::Oral ectoderm, specifically from Rathke's pouch}}</div>",
                 "<img src=\"Craniopharyngioma development.png\" />"
             ],
@@ -341,6 +441,36 @@
                 "EndocrinePhysiology",
                 "Uworld",
                 "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Prolactin</b>&nbsp;<i>{{c2::inhibits}}</i>&nbsp;ovulation and spermatogenesis by decreasing synthesis and release of&nbsp;<b>{{c1::GnRH}}</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kt(QBxdL)$",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Both&nbsp;<b>ADH</b>&nbsp;and&nbsp;<b>oxytocin</b>&nbsp;are&nbsp;<b>neuropeptides</b>,</div><div>&nbsp;<i>synthesized</i>&nbsp;in&nbsp;hypothalamic&nbsp;neurons and&nbsp;<i>secreted</i>&nbsp;from nerve terminals in the {{c1::posterior pituitary}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J:/J$^6@$4",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
             ]
         },
         {
@@ -567,6 +697,69 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<b>{{c2::Oxytocin}}</b> causes <b>{{c1::ejection of milk}}</b> from the breast when stimulated by suckling<div><br /></div>",
+                "<i>via stimulating contraction of myoepithelial cells lining the milk ducts</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "eji#>&=P+u",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Oxytocin</b>&nbsp;is <i>secreted</i> in response to&nbsp;<b>{{c1::dilation of the cervix}}</b>&nbsp;during <b>labor</b> or <b>orgasm</b></div>",
+                "<img src=\"paste-458577953161405.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "qJc,q|RR&X",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Oxytocin</b>&nbsp;causes powerful rhythmic contractions of <b>{{c1::uterine smooth}} muscle</b></div>",
+                "<i>during pregnancy, oxytocin receptors in the uterus are up-regulated as parturition approaches</i>"
+            ],
+            "flags": 0,
+            "guid": "DmGyG*@seU",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Oxytocin}}</b>&nbsp;is a hormone that&nbsp;may be used to&nbsp;<i>induce</i>&nbsp;<b>{{c2::labor}}</b>&nbsp;and&nbsp;<i>reduce</i>&nbsp;<b>{{c3::postpartum bleeding}}</b></div>",
+                "<i>synthetic analog is known as <b>Pitocin</b>,&nbsp;both actions occur due to <b>uterine contraction</b></i>"
+            ],
+            "flags": 0,
+            "guid": "Ja}jZMC7f|",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CostanzoEndocrine",
+                "EXPANSION",
+                "EndocrinePhysiology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which <b>thyroid hormone</b>&nbsp;(T<sub>3</sub>&nbsp;or T<sub>4</sub>) is <i>more active</i>?<div><br /></div><div>{{c1::T<sub>3</sub>}}</div>",
                 ""
             ],
@@ -635,6 +828,21 @@
             ],
             "flags": 0,
             "guid": "F(JW.dnJLp",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c3::Thyrotropin-releasing hormone (TRH)}}</b>&nbsp;acts on&nbsp;<b>thyrotrophs</b>&nbsp;of the&nbsp;<i>anterior pituitary</i>&nbsp;to stimulate the secretion of&nbsp;<b>{{c2::thyroid-stimulating hormone (TSH)}}</b></div>",
+                "<div><i>the other action of TRH is to stimulate prolactin secretion</i></div><div><i><img src=\"paste-490695718601070.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "c9>oxoaisF",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "CostanzoEndocrine",
@@ -1330,6 +1538,53 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>{{c1::Primary hyperparathyroidism}}</b>&nbsp;is characterized by <b>hypercalcemia</b>, <b>hypophosphatemia</b>, and <u>increased</u> circulating levels of <b>PTH</b></div>",
+                "<i>hypercalcemia and hypophosphatemia are results of elevated PTH levels</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "FY^lV^X5^a",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CostanzoEndocrine",
+                "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Pituitary&nbsp;</b>{{c1::<b>adenoma</b>}}&nbsp;is a <i>benign</i>&nbsp;tumor of the <b>anterior pituitary cells</b>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NfStS^T)SI",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Pituitary adenomas</b>&nbsp;may be&nbsp;<b>{{c1::functional}}</b>&nbsp;(hormone producing) or&nbsp;<b>{{c1::nonfunctional}}</b>&nbsp;(silent)</div>",
+                "If functioning, results in hyper----emia of whatever the hormone cell tumor produces (ex lactotroph --&gt; hyperprolactinemia)"
+            ],
+            "flags": 0,
+            "guid": "uoYNGoE~n`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div><b>Pituitary adenoma</b>&nbsp;may present with&nbsp;<b>{{c1::bitemporal hemianopsia}}</b>&nbsp;due to compression of the&nbsp;<b>{{c2::optic chiasm}}</b>&nbsp;</div>",
                 "<div><i>tumor sits in sella turcica, which is adjacent to optic chiasm, these patients will present with a history of <b>clumsiness</b>&nbsp;and <b>visual changes</b></i></div><div><i><br /></i></div><div><i><img src=\"paste-21513491186253.jpg\" /></i></div>"
             ],
@@ -1342,6 +1597,192 @@
                 "EndocrinePathology",
                 "PathomaEndocrine",
                 "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Pituitary adenoma</b>&nbsp;may present with&nbsp;<b>{{c1::hypopituitarism}}</b>&nbsp;due to compression of normal pituitary tissue</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ECUZQgz(|2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the&nbsp;<u>most common</u>&nbsp;type of&nbsp;<i>functional</i>&nbsp;<b>pituitary adenoma</b>?&nbsp;</div><div><br /></div><div>{{c1::Prolactinoma}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mWx7zn7u[k",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In <u>females</u>,&nbsp;<b>prolactinoma</b>&nbsp;presents as&nbsp;<b>{{c1::galactorrhea}}</b>&nbsp;and&nbsp;<b>{{c2::amenorrhea}}</b>&nbsp;</div>",
+                "<i>due to increased lactogenesis and decreased GnRH</i>"
+            ],
+            "flags": 0,
+            "guid": "u67jeDY@KL",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In <u>males</u>,&nbsp;<b>prolactinoma</b>&nbsp;presents as&nbsp;<b>headache</b>,&nbsp;<b>decreased&nbsp;{{c1::libido}},</b>&nbsp;and <b>infertility</b></div>",
+                "<i>due to inhibition of GnRH release and mass effect; no galactorrhea</i><div><i><br /></i></div><div><i>HOWEVER, men with prolactinomas are more likely to present at an advanced stage with mass-effect symptoms<br /></i><div><i><br /></i></div><div><i><img src=\"paste-25529285607425.jpg\" /></i></div></div>"
+            ],
+            "flags": 0,
+            "guid": "iN?D~`Mr`<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One possible cause of&nbsp;<b>hypopituitarism</b>&nbsp;is a&nbsp;<b>{{c1::pituitary apoplexy}}</b>, which is a&nbsp;<b>sudden</b>&nbsp;<b>{{c2::hemorrhage}}</b>&nbsp;of the pituitary gland, often in the presence of an existing adenoma</div>",
+                "This is a medical emergency, need icu admission and neurosurgeon consult&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "cd+[#rpno;",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Hypopituitarism</b>&nbsp;may be caused by&nbsp;<b>{{c1::Sheehan}} syndrome</b>, which is a&nbsp;<b>{{c2::pregnancy}}-related {{c3::infarction}}</b>&nbsp;of the pituitary gland&nbsp;</div>",
+                "- pregnancy induced growth of pituitary (estrogen stimulates hyperplasia of lactotrophs), as well as the minimal vascularity of the pituitary gland, make the pituitary susceptible to hypoperfusion<div><br /></div><div>- therefore, heavy postpartum bleeding will manifest with hypoperfusion of the kidney</div>"
+            ],
+            "flags": 0,
+            "guid": "E#IYII)@PV",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "EndocrinePathology",
+                "PathomaEndocrine",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Pregnancy-related infarction of the pituitary gland (<b>Sheehan syndrome</b>) often occurs following&nbsp;<b>{{c1::postpartum bleeding}}</b></div>",
+                "<i>blood loss increases risk of infarction</i>"
+            ],
+            "flags": 0,
+            "guid": "gTZ2*F){;d",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Symptoms of&nbsp;<b>Sheehan syndrome</b>&nbsp;include poor<b>&nbsp;{{c1::lactation}}</b>, loss of&nbsp;<b>{{c1::pubic hair}}</b>, and&nbsp;<b>fatigue</b></div>",
+                "<i>also may have&nbsp;</i><b style=\"font-style: italic; \">absent menstruation</b><i>&nbsp;and&nbsp;</i><b style=\"font-style: italic; \">cold intolerance</b>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "vdgwinG_%j",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Hypopituitarism</b>&nbsp;may be caused by&nbsp;<b>{{c1::empty sella}} syndrome</b>, which may occur due to trauma or congenital defect of the&nbsp;sella</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H>a_)4CQy`",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Empty sella syndrome</b>&nbsp;occurs due to atrophy or compression, and ultimately destruction of the&nbsp;<b>{{c1::pituitary}} gland</b></div>",
+                "<i>for example, herniation of the arachnoid and CSF into the sella</i>"
+            ],
+            "flags": 0,
+            "guid": "f0FxR?78oy",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Empty sella syndrome</b>&nbsp;is characterized by {{c1::absence}} of the&nbsp;<b>pituitary gland</b>&nbsp;on imaging</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l!{E#;I=$=",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What demographic is more commonly affected by&nbsp;<b>empty sella syndrome</b>?&nbsp;</div><div><br /></div><div>{{c1::Obese women}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v?=e7}N4~0",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
             ]
         },
         {
@@ -1905,6 +2346,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>What is the&nbsp;<u>most common</u> cause of <b>primary&nbsp;hyperparathyroidism</b>?</div><div><br /></div><div>{{c1::parathyroid adenoma (&gt;80%)}}</div>",
+                "<i>other causes include sporadic hyperplasia and parathyroid carcinoma</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "xlS-qqr7/f",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<b>Type {{c1::1}} diabetes mellitus</b>&nbsp;is characterized by&nbsp;<b>insulin</b>&nbsp;<b>deficiency</b>&nbsp;",
                 ""
             ],
@@ -2457,7 +2913,7 @@
             "data": "",
             "fields": [
                 "<div>What&nbsp;<u>two</u>&nbsp;tests may be used to differentiate between&nbsp;<b>Cushing disease</b>&nbsp;and&nbsp;<b>ectopic (paraneoplastic) ACTH secretion</b>?&nbsp;</div><div><i><br /></i></div><div>{{c1::<div>1. High-dose dexamethasone suppression test</div><div>2. CRH stimulation test</div>}}</div><div><br /></div>",
-                "<i>Cushing disease is an ACTH-secreting&nbsp;<u>pituitary</u>&nbsp;adenoma</i>"
+                "<i>Cushing disease is an ACTH-secreting&nbsp;<u>pituitary</u>&nbsp;adenoma</i><div><i><br></i></div><div>The concept underlying the use of the CRH test in the differential diagnosis of ACTH-dependent Cushing's syndrome is that pituitary tumors causing Cushing's disease usually respond to CRH, whereas ectopic ACTH-secreting tumors usually do not&nbsp;<i><br></i></div><div><br></div><div><img src=\"5E570824-FFFF-45A0-8EC8-DEAD6787EE87.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "J&WL/z]6n%",
@@ -2634,7 +3090,7 @@
             "data": "",
             "fields": [
                 "<b>Waterhouse-Friderichsen</b>&nbsp;<b>syndrome</b>&nbsp;classically follows after <b>DIC</b> in young children with&nbsp;<i>{{c1::N. meningitidis}}</i>&nbsp;infection",
-                "<br><i>lack of cortisol exacerbates hypotension, often leading to death&nbsp;</i>"
+                "<br><i>lack of cortisol exacerbates hypotension, often leading to death&nbsp;</i><div><i><br></i></div><div><b>Waterhouse–Friderichsen syndrome</b> (<b>WFS</b>) is defined as adrenal gland failure due to bleeding into the adrenal glands, commonly caused by severe bacterial infection.<i><br></i></div><div><br></div><div>Meningococcemia, like many other gram-negative blood infections, can cause disseminated intravascular coagulation (DIC), which is the inappropriate clotting of blood within the vessels.<br></div>"
             ],
             "flags": 0,
             "guid": "o(U@b&c#&5",
@@ -2662,7 +3118,7 @@
             "data": "",
             "fields": [
                 "<div>One clinical feature of&nbsp;<b>Addison disease</b>&nbsp;is {{c1::hypotension}} (BP), due to lack of cortisol</div>",
-                "<i>also may have hypoglycemia, vomiting, and diarrhea</i>"
+                "<i>also may have hypoglycemia, vomiting, and diarrhea</i><div><i><br></i></div><div><p>Hypertension - The pathogenesis of hypertension in Cushing's syndrome is multifactorial and not fully understood; however, the following factors may be important []:</p>\n<p>●Increased peripheral vascular sensitivity to adrenergic agonists [].</p>\n<p></p>\n<p>●Increased hepatic production of renin substrate (angiotensinogen); based on this observation, one consensus paper suggests that angiotensin-converting enzyme (ACE) inhibitors should be considered the first-line treatment of hypertension in Cushing's syndrome patients [].</p>\n<p></p>\n<p>●Activation of renal tubular type 1 (mineralocorticoid) receptors by cortisol (this mechanism applies mainly to patients with severe hypercortisolism, which is usually due to ectopic ACTH secretion) [].</p></div>"
             ],
             "flags": 0,
             "guid": "qed#o[2e@w",
@@ -2788,13 +3244,55 @@
             "data": "",
             "fields": [
                 "Which steroid hormone enzyme deficiency (21- or 11β-hydroxylase) presents with&nbsp;<u>decreased</u>&nbsp;<b>renin</b>&nbsp;activity?<div><br></div><div>{{c1::11β-hydroxylase}}</div>",
-                "<i>due to increased 11-DOC which is a mineralocorticoid&nbsp;</i>"
+                "<i>due to increased 11-DOC which is a mineralocorticoid&nbsp;</i><div><i><br></i></div><div><i><img src=\"paste-7f9414f3a8ab16fddf1a9b532295ac981be21afe.jpg\"></i><i><br></i></div>"
             ],
             "flags": 0,
             "guid": "HP@x?#e.=W",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "EndocrinePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Pituitary apoplexy</b>&nbsp;presents with sudden onset severe {{c1::headache}} with {{c1::visual}} impairment (bitemporal hemianopsia, diplopia) and features of hypopituitarism&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f6skp^IH3<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>MEN 1</b>&nbsp;is associated with mutation of the&nbsp;<i>{{c1::MEN1}}</i>&nbsp;gene (menin), which is a&nbsp;<b>tumor</b>&nbsp;<b>suppressor</b>&nbsp;<b>gene</b> found on chromosome {{c2::11}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zk%fBOVIF2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>MEN {{c1::2A}}</b>&nbsp;is associated with&nbsp;<b>parathyroid&nbsp;<u>hyperplasia</u></b>&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OIam`3nxFw",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology"
             ]
         },
         {
@@ -2872,6 +3370,34 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><div>The pulsatile pattern of&nbsp;<b>GnRH</b>&nbsp;after&nbsp;<b>puberty</b>&nbsp;drives a parallel pulsatile secretion of both&nbsp;<b>{{c1::FSH}}</b>&nbsp;and&nbsp;<b>{{c1::LH}}</b>&nbsp;by the anterior pituitary</div></div>",
+                "<div><i>this in turn leads to increased sex steroid hormone secretion, which is responsible for puberty</i></div><div><img src=\"paste-262886358253920.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "h-4YxDtsj<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "ReproductivePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Pulsatile</u>&nbsp;secretion of&nbsp;<b>GnRH</b>&nbsp;stimulates the&nbsp;<b>anterior pituitary</b>&nbsp;to secrete&nbsp;<b>{{c1::FSH}}</b>&nbsp;and&nbsp;<b>{{c1::LH}}</b>&nbsp;</div>",
+                "<i><u>continuous</u> GnRH <b>inhibits</b> FSH and LH secretion</i><div><i><img src=\"Continuous vs Pulsatile GnRH.png\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "j{t5b9JumV",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "ReproductivePhysiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<b>Graves disease&nbsp;</b>is&nbsp;associated with&nbsp;<b>HLA-{{c1::DR3}}</b>&nbsp;and&nbsp;<b>HLA-{{c1::B8}}</b>",
                 ""
             ],
@@ -2880,6 +3406,21 @@
             "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
             "tags": [
                 "EndocrinePathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>pituitary hormone</u>&nbsp;is useful for&nbsp;<b>stimulating labor</b>&nbsp;via the induction of&nbsp;<b>uterine contractions</b>?&nbsp;</div><div><br /></div><div>{{c1::Oxytocin}}</div>",
+                "<i>uterine contraction may also be used to help&nbsp;<b>control uterine hemorrhage</b>&nbsp;(e.g. postpartum bleeding)</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "C~E$QH^$2/",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePharmacology",
+                "EndocrinePhysiology"
             ]
         },
         {
@@ -4327,6 +4868,41 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><b>{{c2::Craniopharyngioma}}</b>&nbsp;is a&nbsp;<u>CNS tumor</u>&nbsp;that arises from epithelial&nbsp;<i>remnants</i>&nbsp;of&nbsp;{{c1::<b>Rathke's pouch</b>&nbsp;(oral ectoderm)}}</div>",
+                "<div><div>Rathkes pouch is an invagination of the ectoderm that protrudes from the roof of mouth&nbsp;</div><div><br /></div><div>This is the embryological structure from which the anterior pituitary derives (and descends) from, thus craniopharyngioma can technically&nbsp;occur anywhere from the pituitary gland up to the base of the 3rd ventricle</div></div><div><br /></div><div><img src=\"Craniopharyngioma development.png\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "xlF/4%.vhY",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "CNStumors",
+                "EXPANSION",
+                "NeuroPathology",
+                "PathomaNeuro",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which&nbsp;<u>CNS tumor</u>&nbsp;compresses the&nbsp;<b>optic chiasm</b>, causing bitemporal hemianopsia, in&nbsp;<b>children</b>?&nbsp;</div><div><br /></div><div>{{c1::Craniopharyngioma}}</div>",
+                "<i>may be confused with pituitary adenoma (more common in adults)</i>&nbsp;&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "d%:;nLtnde",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "CNStumors",
+                "NeuroPathology",
+                "PathomaNeuro"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "The <u>most common</u>&nbsp;cause of <b>meningitis&nbsp;in</b> <b>children</b>&nbsp;is&nbsp;<i>{{c1::Streptococcus pneumoniae}}</i>&nbsp;infection",
                 "<img src=\"paste-111054969372905.jpg\"><div>Gram +&nbsp;</div>"
             ],
@@ -4539,6 +5115,66 @@
             ],
             "flags": 0,
             "guid": "hrX~X4s+ue",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "NeuroPathology",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Functional</u>&nbsp;<b>pituitary adenoma</b>&nbsp;is&nbsp;<i>most commonly</i>&nbsp;from adenoma of {{c1::lactotrophs (prolactinoma)}}</div>",
+                "<i>causing hyperprolactinemia</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "1<H}X@l5N",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "NeuroPathology",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Functional</u>&nbsp;<b>pituitary adenoma</b>&nbsp;is&nbsp;<i>rarely</i>&nbsp;from adenoma of&nbsp;{{c1::<b>thyrotrophs</b>&nbsp;(TSH)}}&nbsp;and&nbsp;{{c2::<b>gonadotrophs</b>&nbsp;(FSH, LH)}}</div><div><br /></div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D6#H,eBRC.",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "NeuroPathology",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What&nbsp;<u>visual deficit</u>&nbsp;is associated with&nbsp;<b>pituitary adenoma</b>?&nbsp;</div><div><br /></div><div>{{c1::Bitemporal hemianopsia}}</div>",
+                "<img src=\"paste-243928372609281.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "{CdpQ@zdC",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "NeuroPathology",
+                "neurology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Pituitary adenoma</b>&nbsp;is characterized by hyperplasia of {{c1::<u>only one</u>}} type(s) of&nbsp;<b>endocrine&nbsp;cell</b>&nbsp;(one or multiple)&nbsp;</div>",
+                "<i>i.e. lactotroph, gonadotroph, somatotroph, corticotroph</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "j3eWz<3jYl",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "NeuroPathology",
@@ -6013,8 +6649,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::Hashimoto's Thyroiditis}} is an autoimmune disorder that initially causes a hyperthyroidism that then becomes a hypothyroidism.<div><br /></div>",
-                "<i>Initially a hyperthyroidism while the thyroid is being damaged (releasing its contents), but burns out and becomes a <b>hypothyroidism</b></i><div><b><i><br /></i></b></div><div><b><i><img src=\"paste-14040248090625.jpg\" /><br /></i></b><div>Remember, Hurthle cells and lymphoid aggregates with <b>germinal centers </b>on histology</div></div>"
+                "{{c1::Hashimoto's Thyroiditis}} is an autoimmune disorder that initially causes a hyperthyroidism that then becomes a hypothyroidism.<div><br></div>",
+                "<div>It is characterized clinically by gradual thyroid failure, with or without goiter formation, due to autoimmune-mediated destruction of the thyroid gland involving apoptosis of thyroid epithelial cells.<i><br></i></div><i><div><i><br></i></div>Initially a hyperthyroidism while the thyroid is being&nbsp;</i><div><i>damaged (releasing its contents), but burns out and becomes a <b>hypothyroidism</b></i><div><b><i><br></i></b></div><div><b><i><img src=\"paste-14040248090625.jpg\"><br></i></b><div>Remember, Hurthle cells and lymphoid aggregates with <b>germinal centers </b>on histology</div></div></div>"
             ],
             "flags": 0,
             "guid": "r`18yG1qs=",
@@ -6145,7 +6781,7 @@
             "data": "",
             "fields": [
                 "Patients who undergo radioactive iodine (I<sup>131</sup>) &nbsp;treatment can develop&nbsp;{{c1::hypothyroidism}}",
-                "<div>competes with elemental iodine for uptake, and thus concentrates in the thyroid gland&nbsp;</div><div><br /></div><div>This is why patients with Graves' who undergo thyroid ablation need to take thyroid medications for the rest of their life; hypothyroidism is easier to manage</div><div><br /></div><div><img src=\"Screen Shot 2017-05-01 at 5.48.24 PM.png\" /></div>"
+                "<div>competes with elemental iodine for uptake, and thus concentrates in the thyroid gland&nbsp;</div><div><br></div><div>This is why patients with Graves' who undergo&nbsp;radioactive&nbsp; thyroid ablation need to take thyroid medications for the rest of their life; hypothyroidism is easier to manage</div><div><br></div><div><img src=\"Screen Shot 2017-05-01 at 5.48.24 PM.png\"></div>"
             ],
             "flags": 0,
             "guid": "n%X%t&sIsJ",
@@ -6438,8 +7074,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Most commonly, patients with <b>euthyroid sick syndrome </b>will have:<div><br /></div><div>- serum TSH&nbsp;{{c1::normal}}</div><div>- total serum T4 {{c1::normal}}</div><div>- total serum T3 {{c1::↓}}</div><div>- reverse T3&nbsp;{{c1::↑}}</div>",
-                "Patients with <b>severe</b> Euthyroid Sick Syndrome may have&nbsp;<b>low</b>&nbsp;<u>free and total T4 levels AND TSH levels</u><br /><div><br /></div><div>this is because in critical illness there is <u>decreased activity</u> of <u>D1/D2</u>&nbsp;5-monodeiodinase activity (normally T4 --&gt; T3, and rT3 --&gt; T2), and <u>increased activity</u> of&nbsp;<u>D3</u>&nbsp;5' monodeiodinase (normally T4 --&gt; rT3)</div><div><br /></div><div><img src=\"paste-71446780968961.jpg\" /></div><div><img src=\"paste-73735998537729.jpg\" /></div>"
+                "Most commonly, patients with <b>euthyroid sick syndrome </b>will have:<div><br></div><div>- serum TSH&nbsp;{{c1::normal}}</div><div>- total serum T4 {{c1::normal}}</div><div>- total serum T3 {{c1::↓}}</div><div>- reverse T3&nbsp;{{c1::↑}}</div>",
+                "<div><b>Euthyroid sick syndrome</b> (<b>ESS</b>) is a state of adaptation or dysregulation of thyrotropic feedback control<sup>[1]</sup> wherein the levels of T3 and/or T4 are abnormal, but the thyroid gland does not appear to be dysfunctional.<br></div><div><br></div>Patients with <b>severe</b> Euthyroid Sick Syndrome may have&nbsp;<b>low</b>&nbsp;<u>free and total T4 levels AND TSH levels</u><br><div><br></div><div>this is because in critical illness there is <u>decreased activity</u> of <u>D1/D2</u>&nbsp;5-monodeiodinase activity (normally T4 --&gt; T3, and rT3 --&gt; T2), and <u>increased activity</u> of&nbsp;<u>D3</u>&nbsp;5' monodeiodinase (normally T4 --&gt; rT3)</div><div><br></div><div><img src=\"paste-71446780968961.jpg\"></div><div><img src=\"paste-73735998537729.jpg\"></div>"
             ],
             "flags": 0,
             "guid": "Drb2AL,*b5",
@@ -6518,6 +7154,22 @@
             "tags": [
                 "BGadd",
                 "Boards&Beyond",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Empty sella syndrome </b>is associated with <b>{{c1::idiopathic intracranial}} hypertension</b>",
+                "aka pseudotumor cerebri"
+            ],
+            "flags": 0,
+            "guid": "Dek>NB`C9E",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
                 "EXPANSION",
                 "fa2018"
             ]
@@ -7690,6 +8342,18 @@
             ],
             "flags": 0,
             "guid": "oh6U|;8+Ic",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pituitary adeomna may present with {{c1::multiple endocrine neoplasia type 1 (MEN1)}} syndrome, which is a lose of function of the {{c1::MEN-1 tumor supressor gene}} in the adenoma&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z,{)&P#.fg",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": []
         }
