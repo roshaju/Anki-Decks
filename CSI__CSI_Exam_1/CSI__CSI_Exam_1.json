@@ -63,6 +63,7 @@
         "Arsenic.png",
         "Continuous vs Pulsatile GnRH.png",
         "Craniopharyngioma development.png",
+        "E24A2DD2-D9DB-4BBC-B533-B709EAFC5D57.jpg",
         "Screen Shot 2017-03-06 at 6.45.13 PM.png",
         "Screen Shot 2017-03-12 at 5.30.04 PM.png",
         "Screen Shot 2017-05-01 at 3.37.12 PM.png",
@@ -79,13 +80,17 @@
         "Water deprivation testing.png",
         "basophilic-stippling-4-bovine-4-regen-anemia-arrows.png",
         "cm poison t.png",
+        "paste-0d12fdb56038a2decc2b31a1c2cf99b8e7b8d685.jpg",
         "paste-10101763080548.jpg",
         "paste-109367047225866.jpg",
         "paste-111054969372905.jpg",
+        "paste-112364934397953.jpg",
         "paste-122303488721219.jpg",
         "paste-122432337740099.jpg",
         "paste-124987843280897.jpg",
         "paste-1275304639201281.jpg",
+        "paste-1282631853408257.jpg",
+        "paste-1282636148375553.jpg",
         "paste-130043019788861.jpg",
         "paste-1319035996209153.jpg",
         "paste-14040248090625.jpg",
@@ -93,6 +98,8 @@
         "paste-159729833738241.jpg",
         "paste-164303973908481.jpg",
         "paste-164308268875777.jpg",
+        "paste-179791625977857.jpg",
+        "paste-189970698469377.jpg",
         "paste-195068824649729.jpg",
         "paste-20143396618241.jpg",
         "paste-20422569492481.jpg",
@@ -108,9 +115,9 @@
         "paste-25529285607425.jpg",
         "paste-25799868547411.jpg",
         "paste-25825638351024.jpg",
-        "paste-262886358253920.jpg",
         "paste-269397528674520.jpg",
         "paste-29283087024713.jpg",
+        "paste-3146f6ffa35e1b574633ef9443a6157f7340f479.jpg",
         "paste-319305048654269.jpg",
         "paste-328281530302637.jpg",
         "paste-32933809226028.jpg",
@@ -122,6 +129,7 @@
         "paste-350954662658049.jpg",
         "paste-351001907298305.jpg",
         "paste-359274014310858.jpg",
+        "paste-36614596198925.jpg",
         "paste-373902672920830.jpg",
         "paste-380684426281092.jpg",
         "paste-381341556277398.jpg",
@@ -133,7 +141,6 @@
         "paste-412995465248769.jpg",
         "paste-412999760216065.jpg",
         "paste-42563125903361.jpg",
-        "paste-42799349104890.jpg",
         "paste-436166813811307.jpg",
         "paste-436192583614686.jpg",
         "paste-44525925957633.jpg",
@@ -162,8 +169,6 @@
         "paste-514395348140033.jpg",
         "paste-539301863489537.jpg",
         "paste-554115205693441.jpg",
-        "paste-602180184702977.jpg",
-        "paste-60352880443393.jpg",
         "paste-60687887892872.jpg",
         "paste-696712414887970.jpg",
         "paste-71446780968961.jpg",
@@ -1666,21 +1671,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>One possible cause of&nbsp;<b>hypopituitarism</b>&nbsp;is a&nbsp;<b>{{c1::pituitary apoplexy}}</b>, which is a&nbsp;<b>sudden</b>&nbsp;<b>{{c2::hemorrhage}}</b>&nbsp;of the pituitary gland, often in the presence of an existing adenoma</div>",
-                "This is a medical emergency, need icu admission and neurosurgeon consult&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "cd+[#rpno;",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "EndocrinePathology",
-                "PathomaEndocrine"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "<div><b>Hypopituitarism</b>&nbsp;may be caused by&nbsp;<b>{{c1::Sheehan}} syndrome</b>, which is a&nbsp;<b>{{c2::pregnancy}}-related {{c3::infarction}}</b>&nbsp;of the pituitary gland&nbsp;</div>",
                 "- pregnancy induced growth of pituitary (estrogen stimulates hyperplasia of lactotrophs), as well as the minimal vascularity of the pituitary gland, make the pituitary susceptible to hypoperfusion<div><br /></div><div>- therefore, heavy postpartum bleeding will manifest with hypoperfusion of the kidney</div>"
             ],
@@ -2033,6 +2023,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>In&nbsp;<b>SIADH</b>, serum Na<sup>+</sup>&nbsp;levels must be corrected&nbsp;<b>slowly</b>&nbsp;to prevent&nbsp;<b>{{c1::osmotic demyelination}} syndrome</b>&nbsp;</div>",
+                "<i>formerly known as <b>central pontine myelinolysis</b></i>"
+            ],
+            "flags": 0,
+            "guid": "Q+7Y|$8Czh",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Treatment of&nbsp;<b>SIADH</b>&nbsp;includes <b>water restriction</b> and&nbsp;<b>{{c1::demeclocycline}}</b>, which is a<b>&nbsp;tetracycline</b>",
                 "<i>other treatments include IV hypertonic saline and&nbsp;<b>conivaptan</b>/<b>tolvaptan</b>&nbsp;(ADH receptor antagonists)</i><div><i><br></i></div><div>Demeclocycline&nbsp;and&nbsp;lithium&nbsp;act on the collecting tubule cell to diminish its responsiveness to ADH, thereby increasing water excretion [1,38-40]. In patients with bipolar disorder who are treated with chronic lithium therapy, nephrogenic diabetes insipidus develops in up to 20 to 40 percent&nbsp;<i><br></i></div>"
             ],
@@ -2151,8 +2156,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>What are the \"<b>4 P's</b>\" used to treat&nbsp;<b>thyroid storm</b>?</div><div><br></div><div>&nbsp;1.&nbsp;{{c1::<b>P</b>ropranolol}}&nbsp;(a beta-blocker)</div><div>&nbsp;2.&nbsp;{{c1::<b>P</b>ropylthiouracil}}&nbsp;</div><div>&nbsp;3.&nbsp;{{c2::<b>P</b>rednisolone}}&nbsp;(a corticosteroid)</div><div>&nbsp;4.&nbsp;{{c2::<b>P</b>otassium iodide}}&nbsp;(Lugol iodine) &nbsp;</div>",
-                "<div>Propylthiouracil binds to thyroid peroxidase and thereby inhibits the conversion of iodide to iodine. Thyroid peroxidase normally converts iodide to iodine (via hydrogen peroxide as a cofactor) and also catalyzes the incorporation of the resulting iodide molecule onto both the 3 and/or 5 positions of the phenol rings of tyrosines found in thyroglobulin. Thyroglobulin is degraded to produce thyroxine (T4) and tri-iodothyronine (T3), which are the main hormones produced by the thyroid gland. Therefore propylthiouracil effectively inhibits the production of new thyroid hormones.</div><div><br></div><div><br></div><div>Glucorticoids&nbsp;These agents block conversion of T4 to T3. The use of corticosteroids has been associated with improved survival. Stress doses are required to replace accelerated production and degradation of cortisol induced by TH.</div><div><br></div><div>This agent is used to inhibit TH release from the thyroid gland<br></div>"
+                "<div>What are the \"<b>4 P's</b>\" used to treat&nbsp;<b>thyroid storm</b>?</div><div><br></div><div>&nbsp;1.&nbsp;{{c1::<b>P</b>ropranolol}}&nbsp;(a beta-blocker)</div><div>&nbsp;2.&nbsp;{{c1::<b>P</b>ropylthiouracil}}&nbsp;</div><div>&nbsp;3.&nbsp;{{c2::<b>P</b>rednisolone}}&nbsp;(a corticosteroid)</div><div>&nbsp;4.&nbsp;{{c2::<b>P</b>otassium iodide (MUST be given after 1 hour after PTU)}}&nbsp;(Lugol iodine) &nbsp;</div>",
+                "<div>Propylthiouracil binds to thyroid peroxidase and thereby inhibits the conversion of iodide to iodine. Thyroid peroxidase normally converts iodide to iodine (via hydrogen peroxide as a cofactor) and also catalyzes the incorporation of the resulting iodide molecule onto both the 3 and/or 5 positions of the phenol rings of tyrosines found in thyroglobulin. Thyroglobulin is degraded to produce thyroxine (T4) and tri-iodothyronine (T3), which are the main hormones produced by the thyroid gland. Therefore propylthiouracil effectively inhibits the production of new thyroid hormones.</div><div><br></div><div>PI = excess iodine blocks T4/T3 synthesis, must give one hour after ptu otherwise it can exacerbate the symptoms&nbsp;</div><div><br></div><div>Glucorticoids&nbsp;These agents block conversion of T4 to T3. The use of corticosteroids has been associated with improved survival. Stress doses are required to replace accelerated production and degradation of cortisol induced by TH.</div><div><br></div><div>This agent is used to inhibit TH release from the thyroid gland<br></div>"
             ],
             "flags": 0,
             "guid": "CYsy>@T9S$",
@@ -2268,6 +2273,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div><u>Histologically</u>,&nbsp;<b>Hashimoto thyroiditis</b>&nbsp;may have&nbsp;<b>{{c1::Hurthle}} cells</b>, which are&nbsp;<b>eosinophilic</b>&nbsp;metaplastic cells that line the follicles</div><div></div>",
+                "<img src=\"paste-36614596198925.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "ioV:AZ%0VT",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "EndocrinePathology",
+                "PathomaEndocrine"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>Does&nbsp;<b>Hashimoto thyroiditis</b>&nbsp;present with a&nbsp;<b>tender</b>&nbsp;or&nbsp;<b>nontender</b>&nbsp;thyroid?</div><div><br /></div><div>{{c1::Nontender}}</div>",
                 "<i>and mildly enlarged</i>"
             ],
@@ -2318,39 +2338,6 @@
             ],
             "flags": 0,
             "guid": "s52xNgcoXV",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "EndocrinePathology",
-                "PathomaEndocrine"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div>In addition to 'Orphan Annie eye' nuclei, thyroid&nbsp;<b>papillary carcinoma</b>&nbsp;may have cells with <b>intranuclear {{c1::grooves}} </b>and <b>inclusions</b></div>",
-                "<img src=\"paste-42799349104890.jpg\" /><div><img src=\"paste-60352880443393.jpg\" /></div>"
-            ],
-            "flags": 0,
-            "guid": "u{.c!`C!,e",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "BGedit",
-                "EXPANSION",
-                "EndocrinePathology",
-                "PathomaEndocrine",
-                "Uworld"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div>What is the&nbsp;<u>most common</u> cause of <b>primary&nbsp;hyperparathyroidism</b>?</div><div><br /></div><div>{{c1::parathyroid adenoma (&gt;80%)}}</div>",
-                "<i>other causes include sporadic hyperplasia and parathyroid carcinoma</i>&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "xlS-qqr7/f",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "EndocrinePathology",
@@ -2927,7 +2914,7 @@
             "data": "",
             "fields": [
                 "<div><div><b>Hyperaldosteronism</b>&nbsp;presents as <b>{{c2::hypertension}}</b>&nbsp;(blood pressure) with <b>{{c1::hypernatremia}}</b>&nbsp;(Na<sup>+</sup>), <b>{{c3::hypokalemia}}</b>&nbsp;(K<sup>+</sup>), and <b>{{c4::metabolic alkalosis}}</b>&nbsp;(H<sup>+</sup>)&nbsp;</div></div>",
-                ""
+                "The clinical features of primary aldosteronism are, in part, determined by the renal actions of aldosterone. The primary effect of aldosterone is to increase the number of open sodium channels in the luminal membrane of the principal cells in the cortical collecting tubule, leading to increased sodium reabsorption [9]. The ensuing loss of cationic sodium makes the lumen electronegative, thereby creating an electrical gradient that favors the secretion of cellular potassium into the lumen through potassium channels in the luminal membrane.&nbsp;<div><br></div><div><br></div><div><img src=\"paste-3146f6ffa35e1b574633ef9443a6157f7340f479.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "j5eV8m-pn7",
@@ -3090,7 +3077,7 @@
             "data": "",
             "fields": [
                 "<b>Waterhouse-Friderichsen</b>&nbsp;<b>syndrome</b>&nbsp;classically follows after <b>DIC</b> in young children with&nbsp;<i>{{c1::N. meningitidis}}</i>&nbsp;infection",
-                "<br><i>lack of cortisol exacerbates hypotension, often leading to death&nbsp;</i><div><i><br></i></div><div><b>Waterhouse–Friderichsen syndrome</b> (<b>WFS</b>) is defined as adrenal gland failure due to bleeding into the adrenal glands, commonly caused by severe bacterial infection.<i><br></i></div><div><br></div><div>Meningococcemia, like many other gram-negative blood infections, can cause disseminated intravascular coagulation (DIC), which is the inappropriate clotting of blood within the vessels.<br></div>"
+                "<div><img src=\"paste-0d12fdb56038a2decc2b31a1c2cf99b8e7b8d685.jpg\"><br></div><br><i>lack of cortisol exacerbates hypotension, often leading to death&nbsp;</i><div><i><br></i></div><div><b>Waterhouse–Friderichsen syndrome</b> (<b>WFS</b>) is defined as adrenal gland failure due to bleeding into the adrenal glands, commonly caused by severe bacterial infection.<i><br></i></div><div><br></div><div>Meningococcemia, like many other gram-negative blood infections, can cause disseminated intravascular coagulation (DIC), which is the inappropriate clotting of blood within the vessels.<br></div>"
             ],
             "flags": 0,
             "guid": "o(U@b&c#&5",
@@ -3146,7 +3133,7 @@
             "data": "",
             "fields": [
                 "<div>One clinical feature of&nbsp;<b>Addison disease</b>&nbsp;is <b>{{c1::hyperpigmentation}}</b>, due to increased levels of&nbsp;<b>{{c2::MSH}}</b>&nbsp;secondary to elevated ACTH&nbsp;</div>",
-                ""
+                "<img src=\"E24A2DD2-D9DB-4BBC-B533-B709EAFC5D57.jpg\"><br>"
             ],
             "flags": 0,
             "guid": "Es=WhTPM/?",
@@ -3257,20 +3244,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<b>Pituitary apoplexy</b>&nbsp;presents with sudden onset severe {{c1::headache}} with {{c1::visual}} impairment (bitemporal hemianopsia, diplopia) and features of hypopituitarism&nbsp;",
-                ""
-            ],
-            "flags": 0,
-            "guid": "f6skp^IH3<",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "EndocrinePathology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "<b>MEN 1</b>&nbsp;is associated with mutation of the&nbsp;<i>{{c1::MEN1}}</i>&nbsp;gene (menin), which is a&nbsp;<b>tumor</b>&nbsp;<b>suppressor</b>&nbsp;<b>gene</b> found on chromosome {{c2::11}}",
                 ""
             ],
@@ -3364,20 +3337,6 @@
                 "diabetesdrugs",
                 "fa2018",
                 "sketchypharmacology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div><div>The pulsatile pattern of&nbsp;<b>GnRH</b>&nbsp;after&nbsp;<b>puberty</b>&nbsp;drives a parallel pulsatile secretion of both&nbsp;<b>{{c1::FSH}}</b>&nbsp;and&nbsp;<b>{{c1::LH}}</b>&nbsp;by the anterior pituitary</div></div>",
-                "<div><i>this in turn leads to increased sex steroid hormone secretion, which is responsible for puberty</i></div><div><img src=\"paste-262886358253920.jpg\" /></div>"
-            ],
-            "flags": 0,
-            "guid": "h-4YxDtsj<",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "ReproductivePhysiology"
             ]
         },
         {
@@ -3626,6 +3585,149 @@
                 "carbohydrate_metabolism",
                 "metabolism",
                 "round2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Sleep apnea}}</b>&nbsp;is defined as repeated (&gt;5x/hr)&nbsp;<u>cessation</u>&nbsp;of&nbsp;<b>breathing</b>&nbsp;&gt; {{c2::10}} seconds during sleep</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DE6zZVDM@;",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "RespiratoryPathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Obstructive sleep apnea</b>&nbsp;is associated with difficult to manage&nbsp;<b>{{c1::systemic hypertension}}</b>&nbsp;due to&nbsp;<u>increased</u>&nbsp;<b>{{c2::sympathetic tone}}</b>&nbsp;</div>",
+                "This results in <u>increased pulse pressure</u>"
+            ],
+            "flags": 0,
+            "guid": "uzkP=_2p;-",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "RespiratoryPathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Obstructive sleep apnea</b>&nbsp;is associated with&nbsp;<b>{{c1::obesity (neck circumference &gt;17in)}},&nbsp;</b>&nbsp;<b>loud {{c2::snoring}}</b>&nbsp;with periods of <b>apnea</b>, and <b>daytime sleepiness</b></div>",
+                "- patients also have excessive day time sleepiness,<b>&nbsp;morning headaches</b>, cognitive impairment and depression<div><br /></div><div>- Thus you can also see <b>pulsus paradoxus&nbsp;</b>(due to obesity) in obstructive sleep apnea</div><div><br /></div><div><img src=\"paste-112364934397953.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "GF6S<FW$dW",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "RespiratoryPathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Obstructive sleep apnea</b>&nbsp;may be caused by&nbsp;<u>excess</u>&nbsp;<b>{{c1::parapharyngeal}} tissue</b>&nbsp;in&nbsp;<b>{{c2::adults}}</b>&nbsp;(age group)&nbsp;</div><div><br></div><div><b><br></b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s^Ron^oq-X",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "RespiratoryPathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Treatment for&nbsp;<u>obstructive sleep apnea</u>&nbsp;includes&nbsp;<b>{{c2::weight loss}}</b>,&nbsp;<b>surgery</b>, and&nbsp;{{c1::<b>CPAP</b>}}</div>",
+                "<i>CPAP = continuous positive airway pressure, great example of therapy that works in theory, but is very cumbersome and obstructive to sleep, so many patients are non compliant</i><div><i><br /></i></div><div><i><img src=\"paste-189970698469377.jpg\" /></i></div>"
+            ],
+            "flags": 0,
+            "guid": "GlIKrKmghE",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Boards&Beyond",
+                "EXPANSION",
+                "RespiratoryPathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Central}} sleep apnea</b>&nbsp;can occur due patients having <u>marginal ventilation</u>&nbsp;when awake&nbsp;(e.g. CNS disease, neuromuscular disease, severe kyphoscoliosis, heavy dose narcotics)</div>",
+                "these patients are hypoventilating when awake, and then when they fall asleep they have periods of apnea"
+            ],
+            "flags": 0,
+            "guid": "Drjb;ebv3[",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "Boards&Beyond",
+                "EXPANSION",
+                "RespiratoryPathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>{{c1::Obesity hypoventilation}} syndrome</b>&nbsp;is a condition in which&nbsp;<b>severely overweight</b>&nbsp;people&nbsp;<u>fail</u>&nbsp;to breathe rapidly or deeply enough&nbsp;</div>",
+                "<i>also known as&nbsp;<b>Pickwickian syndrome</b>; characterized by increased <u>awake</u> CO<sub>2</sub>&nbsp;with a normal A-a gradient</i>&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "ufy/</kUp_",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "RespiratoryPathology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Obesity hypoventilation syndrome</b>&nbsp;is characterized by {{c1::<u>decreased</u>}} Pao<sub>2</sub>&nbsp;and {{c1::<u>increased</u>}} Paco<sub>2</sub>&nbsp;during&nbsp;<i>sleep</i>&nbsp;</div>",
+                "Hypoventilation during waking hours also leads to retention of CO2 (increased Paco<sub>2</sub>); can lead to symptoms of&nbsp;<b>hypercapnia&nbsp;</b>(mental fog, not able to think clearly)"
+            ],
+            "flags": 0,
+            "guid": "r7Bdpnht`s",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "RespiratoryPathology",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>Obesity hypoventilation (Pickwickian) syndrome</b>&nbsp;is characterized by {{c1::<u>increased</u>}}&nbsp;<b>Paco<sub>2</sub>&nbsp;</b>during&nbsp;<i>waking</i>&nbsp;hours&nbsp;</div>",
+                "<i>often &gt; 45 mmHg while awake; important distinguishing feature from obstructive sleep apnea (Paco<sub>2</sub>&nbsp;increased during sleep only)</i>"
+            ],
+            "flags": 0,
+            "guid": "CJsP|Amv#,",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "RespiratoryPathology"
             ]
         },
         {
@@ -4811,6 +4913,60 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; \"><span style=\"background-color: (255, 255, 255);vertical-align: baseline\"><b>{{c2::O</b></span><b>smotic Demyelination Syndrome</b><span style=\"background-color: (255, 255, 255);vertical-align: baseline\"><b>}}</b></span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \">&nbsp;is also referred to as&nbsp;</span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \"><b>{{c1::</b></span><b>Central pontine myelinolysis</b><b>}}</b></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; \"><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \"></span></p><br /><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; \"><b><br /></b></p>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v+Z0lh]s,<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "NeuroPathology",
+                "PathomaNeuro",
+                "demyelinating_disorders",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; \"><span style=\"background-color: (255, 255, 255);vertical-align: baseline\"><u>Rapid correction</u></span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \">&nbsp;of&nbsp;</span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \"><b>{{c1::hypo}}-natremia</b></span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \">&nbsp;results in&nbsp;</span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \"><b>{{c2::<span style=\"vertical-align: baseline; \"></span></b><b>O</b></span><b>smotic Demyelination Syndrome</b>}}</p>",
+                "<i></i><i><div style=\"display: inline !important; \">This is caused by overly rapid intravenous correction of hyponatremia&nbsp;-<b>&nbsp;</b></div></i><b>\"from low to high, your pons will die\"</b><div><b><i><br /></i></b><div><i><div style=\"display: inline !important; \">In context of chronic low plasma sodium, the brain compensates by decreasing the levels of osmolytes (inositol, betaine, glutamine, glucose) so that brain cells can remain relatively isotonic and not absorb too much fluid&nbsp;</div></i></div><div><i><div style=\"display: inline !important; \"><br /></div></i></div><div><i><div style=\"display: inline !important; \">With correction of hyponatremia with IV fluids, <b>extracellular</b> tonicity increases, <u>followed</u> by an increase in <b>intracellular</b> tonicity (by cell making more intracellular osmolytes)</div></i></div><div><i><div><br /></div></i><i><div style=\"display: inline !important; \">IF correction is too <b>rapid</b>, not enough time is allowed for brains cells to adjust to new tonicity</div></i><i><div>- Not enough time to increase osmolytes</div></i><i><div style=\"display: inline !important; \">- Therefore, the intracellular water will be pulled out to balance the extracellular tonicity</div></i></div><div><i></i><i><div style=\"display: inline !important; \">- This can lead to cellular dysfunction and central pontine myelinolysis</div></i></div><div><i></i><i><div style=\"display: inline !important; \">- Myelin sheaths in the pons becomes damaged</div></i><i><div><br /></div></i></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Fpv,;9fh$j",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGedit",
+                "EXPANSION",
+                "NeuroPathology",
+                "PathomaNeuro",
+                "demyelinating_disorders",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; \"><span style=\"background-color: (255, 255, 255);vertical-align: baseline\"><u>Rapid correction</u></span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \">&nbsp;of&nbsp;</span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \"><b>{{c1::hyper}}-natremia</b></span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \">&nbsp;results in&nbsp;</span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \"><b>{{c2::cerebral edema/herniation}}</b></span></p>",
+                "<span style=\"background-color: (255, 255, 255);vertical-align: baseline\"><i>\"from high to low, your brain will blow\"</i></span><span style=\"background-color: (255, 255, 255); vertical-align: baseline; \">&nbsp;</span>"
+            ],
+            "flags": 0,
+            "guid": "MRH-y{k[/U",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "NeuroPathology",
+                "PathomaNeuro",
+                "demyelinating_disorders"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<b>{{c1::Dementia}}</b>&nbsp;is defined as&nbsp;<u>decreased</u>&nbsp;cognitive ability, memory, or function with&nbsp;<b>intact consciousness</b>&nbsp;<div><br /><div><div><br /></div></div></div>",
                 ""
             ],
@@ -4833,26 +4989,6 @@
             ],
             "flags": 0,
             "guid": "w<Z6@F2W1n",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "BGedit",
-                "CSI_Ex1",
-                "EXPANSION",
-                "NeuroPathology",
-                "PathomaNeuro",
-                "dementia",
-                "fa2018"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div><b>{{c4::Normal pressure}} hydrocephalus</b>&nbsp;classically presents with a&nbsp;<u>triad</u>&nbsp;of {{c1::urinary incontinence}}, {{c2::gait apraxia}}, and {{c3::dementia}}&nbsp;</div>",
-                "<i>\"<b>wet</b>,&nbsp;<b>wobbly</b>, and&nbsp;<b>wacky</b>\"; sometimes reversible</i><div><i><br /></i><div><i>- urinary incontinence is caused by disruption of the periventricular pathways that transmit inhibitory impulses from the cortex to the sacral micturition center</i></div><div><i><br /></i></div><div><i>- apraxia is a motor disorder caused by damage to the <u>posterior parietal cortex</u>, where the individual has difficulty with <b>motor planning</b>&nbsp;to perform tasks / movements (without sensory loss or paralysis)</i></div></div>"
-            ],
-            "flags": 0,
-            "guid": "p:K7.oi|Vt",
             "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
             "tags": [
                 "BGedit",
@@ -5110,8 +5246,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Are&nbsp;<u>steroids</u>&nbsp;useful in the management of&nbsp;<b>Guillain-Barre syndrome</b>?&nbsp;</div><div><br /></div><div>{{c1::No}}</div>",
-                ""
+                "<div>Are&nbsp;<u>steroids</u>&nbsp;useful in the management of&nbsp;<b>Guillain-Barre syndrome</b>?&nbsp;</div><div><br></div><div>{{c1::No}}</div>",
+                "Aside from plasma exchange and IVIG, no other pharmacologic agents have been found to be effective for GBS [20]. In particular, glucocorticoids are not beneficial [21,22]. In a systematic review and meta-analysis of six trials with 587 participants, glucocorticoid-treated patients with GBS showed no significant difference in disability grade compared with patients who were not treated with glucocorticoids [23]. Furthermore, in four small trials, patients treated with oral glucocorticoids had significantly less improvement than patients who were not treated with oral glucocorticoids."
             ],
             "flags": 0,
             "guid": "hrX~X4s+ue",
@@ -6046,23 +6182,6 @@
             "tags": [
                 "CSI_Ex1",
                 "GIanatomy"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div><u>type II HSRs</u> can cause pathology by inducing cellular dysfunction, causing&nbsp;<i>abnormal</i><b>&nbsp;</b>{{c1::blockade}}&nbsp;or {{c1::activation/inactivation}}&nbsp;of downstream cellular processes &nbsp;</div>",
-                "<div><i>Ex. Myasthenia gravis, Graves disease, Pemphigus vulgaris</i></div><div><i><br /></i></div><div><i>In <b>pemphigus vulgaris</b>, autoantibodies against desmoglein-1 (αDsg1) / -3 (αDsg3)&nbsp;<b>inactivate </b>these proteins, resulting in <u>loss of cell-cell adhesion</u>&nbsp;</i></div><div><i><br /></i></div><div><i></i><i><u><img src=\"paste-602180184702977.jpg\" /></u></i></div>"
-            ],
-            "flags": 0,
-            "guid": "N2-1~WS=:0",
-            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
-            "tags": [
-                "BGedit",
-                "EXPANSION",
-                "fa2018",
-                "immunology"
             ]
         },
         {
@@ -7111,6 +7230,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>Which&nbsp;<b>thyroid imbalance</b>&nbsp;presents with <b>hypoactivity, lethargy, and fatigue</b>?</div><div><br /></div><div>{{c1::hypothyroidism}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oUB50x2QW.",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "Boards&Beyond",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>Which&nbsp;<b>thyroid imbalance</b>&nbsp;presents with <b>increased TSH </b>(if 1*) and <b>decreased free T3 / T4</b>?</div><div><br /></div><div>{{c1::Hypothyroidism}}</div>",
                 ""
             ],
@@ -7154,6 +7290,39 @@
             "tags": [
                 "BGadd",
                 "Boards&Beyond",
+                "EXPANSION",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Central sleep apnea</b>&nbsp;may be also caused by delayed detection / response to changes in {{c1::PaCO2}} resulting in <b>cyclic </b>({{c2::cheyne-stokes}})<b>&nbsp;</b>breathing",
+                "- Common in <u>advanced</u>&nbsp;<b>congestive heart failure </b>(delayed response)&nbsp;and <b>stroke / brain tumor / TBI patients </b>(delayed detection)<div><br /></div><div>- this is frequently a poor prognostic sign</div><div><br /></div><div><img src=\"paste-1282636148375553.jpg\" /></div>"
+            ],
+            "flags": 0,
+            "guid": "bXE?U-!A%v",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Uworld",
+                "fa2018"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Central sleep apnea</b>&nbsp;is treated with {{c1::positive airway pressure}}",
+                "aka CPAP machine"
+            ],
+            "flags": 0,
+            "guid": "oLg2D|=|+Q",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
                 "EXPANSION",
                 "fa2018"
             ]
@@ -7468,6 +7637,40 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Patients with prolonged, untreated&nbsp;<b>obstructive sleep apnea</b>&nbsp;can develop&nbsp;{{c1::pulmonary hypertension}} and a resultant right heart failure",
+                "- Each nocturnal episode of reduced ventillation causes transient hypercapnia and hypoxemia, which leads to reflexive systemic and pulmonary vasoconstriction, endothelial dysfunction , and sympathetic cardiac stimulation"
+            ],
+            "flags": 0,
+            "guid": "H(Y}0CJ/^6",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Obstructive sleep apnea </b>is due to relaxation of <b>{{c1::pharyngeal muscle tone}} </b>during sleep",
+                "This leads to closure of the upper airway; resulting in PO2 declining and PCO2 rising until chemoreceptors in carotid body / brainsteam trigger arousal and pharyngeal tone returns<div><br /></div><div><br /></div>"
+            ],
+            "flags": 0,
+            "guid": "mJ,K)@Qaye",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "BGnonessentials",
+                "EXPANSION",
+                "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the treatment for <b>Tetrodotoxin </b>and <b>Ciguatoxin</b>&nbsp;poisoning?<div><br /></div><div>{{c1::Supportive care}}</div>",
                 "additionally, intestinal decontamination with gut lavage and charcoal"
             ],
@@ -7480,6 +7683,23 @@
                 "CSI_Ex1",
                 "EXPANSION",
                 "Uworld"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cheyne-Stokes breathing is defined by respirations that oscillate between&nbsp;<u>{{c1::apnea}}</u>&nbsp;and&nbsp;<u>{{c1::hyperapnea}}</u>&nbsp;in response&nbsp;",
+                "In this form of sleep apnea; hyperapnea lowers the CO2 level and then <b>over responds</b>&nbsp;(due to delayed detection / response systems) and then shut downs breathing for a period of time (apnea) before hyperapnea occurs again<br /><div><b><br /></b></div><div><b><img src=\"paste-179791625977857.jpg\" /></b></div><div><b><br /></b></div><div><b><img src=\"paste-1282631853408257.jpg\" /></b></div>"
+            ],
+            "flags": 0,
+            "guid": "O47zRD:Q;]",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "BGadd",
+                "EXPANSION",
+                "Uworld",
+                "fa2018"
             ]
         },
         {
@@ -7522,7 +7742,7 @@
             "data": "",
             "fields": [
                 "An <b>adrenal crisis </b>should be treated with <u>immediate</u>&nbsp;{{c1::glucocorticoid}} supplementation and aggresive fluid resuscitation",
-                ""
+                "Adrenal crisis = Adrenal insufficiency"
             ],
             "flags": 0,
             "guid": "A%P1M/}w;i",
@@ -8354,6 +8574,30 @@
             ],
             "flags": 0,
             "guid": "z,{)&P#.fg",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "All Fatigue patients must be asked about their {{c1::psych}}, {{c1::sleep}}, and {{c1::medication}} history&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s}[t1_=Ds.",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The Free water defecity equation is&nbsp;<div><br></div><div>{{c1::0.6 * weight(kg) * ((Patient's Na/140) - 1)&nbsp;}}</div>",
+                "Correct free water by giving 50% of the above value in 12 hours and the other 50% over 24 hours to prevent cerebral edema&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "6k#VR7=$z",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": []
         }
