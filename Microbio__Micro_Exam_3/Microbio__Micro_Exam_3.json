@@ -185,6 +185,7 @@
         "89f1ce962c7849d19c884f92bd08a984-ao-2-A.svg",
         "89f1ce962c7849d19c884f92bd08a984-ao-2-Q.svg",
         "89f1ce962c7849d19c884f92bd08a984-ao-O.svg",
+        "Darkfield-Microscopy.jpg",
         "Screen Shot 2019-09-01 at 1.12.23 PM.png",
         "Screen Shot 2019-09-03 at 11.59.09 AM.png",
         "aa480153a80043b1b652b75c77481e0f-ao-1-A.svg",
@@ -275,6 +276,7 @@
         "f48c62d7c44d4c0b92de204aab04d677-ao-2-A.svg",
         "f48c62d7c44d4c0b92de204aab04d677-ao-2-Q.svg",
         "f48c62d7c44d4c0b92de204aab04d677-ao-O.svg",
+        "hqdefault (2).jpg",
         "paste-80900cce5eee170cc11c1d525c876da2c0913da7.jpg",
         "paste-bccf529eb2d71ae80ca513505a1672e7bf8f15c3.jpg",
         "paste-e347f2ae0bc63748e88778cf2b7eead3f78e2f0f.jpg",
@@ -311,7 +313,11 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze",
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n<br>\n<br>\n<br>\n<div style=\"font-style:italic;font-size:20px;color:Green;\">\n\n\n{{Extra}}</div>\n",
@@ -774,6 +780,49 @@
                 "Lecture1",
                 "Priya"
             ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-af36a",
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -3407,7 +3456,7 @@
                 "",
                 "",
                 "",
-                "",
+                "Partitioning mechanism: seperates chromsomes to daughter cells in prokaryotes&nbsp;",
                 "",
                 "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-4-A.svg\" />",
                 "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-O.svg\" />"
@@ -4770,7 +4819,7 @@
             "data": "",
             "fields": [
                 "{{c1::Dark}} field microscopy- Light scattered/ reflected by {{c2::bacteria}} is used to visualize cells to thin for bright field.",
-                ""
+                "<img src=\"Darkfield-Microscopy.jpg\">"
             ],
             "flags": 0,
             "guid": "Q6Uddo&1YY",
@@ -5028,7 +5077,7 @@
             "data": "",
             "fields": [
                 "What happens if you add too much or too little alcohol?",
-                "both gram pos and gram neg would appear purple - you wouldn't have decolorized them"
+                "&nbsp;if not enough alcohol is applied, then all cells will appear Gram-positive; if too much alcohol is applied, then all cells will appear Gram-negative."
             ],
             "flags": 0,
             "guid": "h[vv7$JZ+q",
@@ -5059,8 +5108,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "All species of a genera, and all strains of that species, possess the {{c1::same}} cell wall structure and therefore the {{c2::same}} gram stain reaction.",
-                "consistency lf rxn to gram stain procedure"
+                "All species of a genera, and all strains of that species, possess the {{c1::same}} cell wall structure and therefore the {{c1::same}} gram stain reaction.",
+                "<div>Eg: All streptococcus bacteria will stain Gram+</div><div><br></div>consistency lf rxn to gram stain procedure"
             ],
             "flags": 0,
             "guid": "OCZYPM|Yz~",
@@ -5098,7 +5147,7 @@
                 "",
                 "",
                 "",
-                "",
+                "<img src=\"hqdefault (2).jpg\">",
                 "",
                 "<img src=\"3404875b688a44858484e323138ea6c0-ao-1-A.svg\" />",
                 "<img src=\"3404875b688a44858484e323138ea6c0-ao-O.svg\" />"
@@ -5560,6 +5609,150 @@
                 "Lecture1",
                 "MicroBio_Exam3",
                 "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8 sites of antimicrobial agents (based on primary site of action)<div><br></div><div>{{c1::1.Inhibition of nucleotide synthesis}}<br></div><div>{{c2::2.Inhibition of DNA synthesis}}<br></div><div>{{c3::3.Inhibition of RNA synthesis}}<br></div><div>{{c4::4.Inhibition of protein synthesis}}<br></div><div>{{c5::5.Inhibition of protein secretion}}<br></div><div>{{c6::6.Inhibition of cell wall synthesis}}<br></div><div>{{c7::7.Metabolic analogs}}<br></div><div>{{c8::8.Agenst that affect membrane integrity}}<br></div><div><br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x+al+0aoIK",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Antibacterial drugs - I<span>nhibition of nucleic acid synthesis:&nbsp;</span></div><div><span><br></span></div><div><span>{{c1::Sulfa drugs Sulfonilamides, trimethoprim (TMP), TMP-SMX - co-trimazole, bactrim, septra}}</span></div>",
+                "TMP-SMX - co-trimazole, bactrim, septra --&gt; used for uncomplicated UTIs"
+            ],
+            "flags": 0,
+            "guid": "OPRMK#GS0]",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Antibacterial drugs:</div><div><br></div>Inhibition of DNA synthesis/DNA replication:&nbsp;{{c1::fluorquinolones,quinolones}}.<div><br></div><div>Used for:&nbsp;{{c1::UTIs, lower RTIs}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jguo,eVS1k",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Antibacterial drugs:<div><br></div><div>Inhibit mRNA synthesis:&nbsp;{{c1::Rifampin}}. Used to treat {{c2::carriage of Hib and meningococcus, also therapy against Mycobacterium tuberculosis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qbf#TCGLlo",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Antibacterial drugs: Inhibition of protein synthesis:<div><br></div><div>{{c1::<span>1. Chloramphenicol - used against Hib meningitis, typhoid fever}}</span></div><div>{{c2::2. Streptogramins (Quinupristin-dalfopristin [synercid] – used against vancomycinresistant enterococci, methicillin-resistant Staphylococcus aureus, Drug-resistant Streptococcus pneumoniae&nbsp;}}</div><div>{{c3::3. Aminoglycosides (streptomycin, tobramycin, gentamicin, amikacin); NOT efficacious against intracellular bacteria&nbsp;}}</div><div>{{c4::4. Tetracyclines - used against intracellular bacteria&nbsp;}}</div><div>{{c5::5. Oxazolidinones (Linezolid [Zyvox]), used against VRE, MRSA, DRSP}}&nbsp;</div><div>{{c6::6. Glycycyclines (tigecycline)}}&nbsp;</div><div>{{c7::7. Macrolides (erythromycin, azithromycin - used against intracellular bacteria}}&nbsp;</div><div>{{c8::8. Mupiricin – used topically to prevent nasal carriage by S. aureus}}<br><div><br></div><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H0%/,>kRB9",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Antibacterial drugs: Inhibition of cell wall synthesis:<div><br></div><div>{{c1::1. Penicillins (β lactams; penicillin G, methicillin, ampicillin, benzene penicillin), cephalosporins, carbapenems (imipenem), monobactams}}&nbsp;</div><div>{{c2::2. Bacitracin, topical use only&nbsp;}}</div><div>{{c3::3. Vancomycin - used against methicillin-resistant Staphylococcus aureus and antibioticassociated pseudomembranous colitis caused by Clostridium difficile)}}&nbsp;</div><div>{{c4::4. Cycloserine - used against Mycobacterium tuberculosis&nbsp;}}</div><div>{{c5::5. Isoniazid (Backbone of therapy against Mycobacterium tuberculosis}}<br><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E>b.hcw_X+",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Antibacterial drugs - Metabolic analogues:<div><br></div><div>{{c1::1. Direct Inhibition of fatty acid synthesis (Isoniazid)&nbsp;}}</div><div>{{c2::Direct Inhibition of nucleotide synthesis (Sulfa drugs)}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q{)*wv~sjC",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Antibacterial drugs -&nbsp;Agents which affect membrane function/ integrity:&nbsp;<div><span><br></span></div><div>{{c1::Polymyxins and Bacitracin – Very poor selective toxicity. Topical use only.&nbsp;}}<br></div><div>{{c2::Daptomycin – Cubacin}}<br></div>",
+                "Make a pore in membrane, allows fluids to go through"
+            ],
+            "flags": 0,
+            "guid": "lj<25I-Sz)",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gram-positive bacteria use a unique enzymatic pathway that employs an enzyme designated as {{c1::HemQ}} which is required for the final step",
+                "Unique pathway confirmed in significant human pathogens (MRSA), enterococcus, listeria, mycobaterium tuberculosis"
+            ],
+            "flags": 0,
+            "guid": "u@B9HS.hjC",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
             ]
         },
         {
@@ -6328,6 +6521,662 @@
                 "Lecture_25",
                 "MicroBio_Exam3",
                 "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Steps of peptidoglycan synthesis (4):<div><br></div><div>{{c1::<div>1. Synthesis of the amino sugars/peptidoglycan subunits:<br></div><div>2. Assembly and translocation of the peptidoglycan subunits through the CM<br></div><div>3.&nbsp;Addition of the subunit to growing end of a peptidoglycan chain (transglycosylation)</div><div>4.&nbsp;Final cross linking (transpeptidation) of peptide stems (via transpeptidase aka penicillin binding proteins aka PBP)</div>}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qw]i/$.QB,",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3 steps in synthesis of peptidoglycan subunits:<div><br></div><div>{{c1::<div>1. Uracil diphosphate (UDP) is the cytoplasmic/cystolic “tag” which allows for allow for directed synthesis of these subunits.&nbsp;</div><div>2. N-acetylglucosamine (NAG or GlcNAC) and N-acetylmuramic acid (NAM or MurNAC) synthesis occurs while covalently bonded to UDP. 3. The peptide side chain of NAM is synthesized by individual enzymes which add each amino acid separately</div>}}<br></div><div><br><div><br></div><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k(yorxe*Tx",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::UDP (uracil diphosphate)}} is the cytoplasmic/cytosolic \"tag\" which allows for synthesis of peptidoglycan units<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J33P]Eq^N$",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Peptidoglycan subunit is formed by the sequential transfer of components NAM/MurNAC then GlcNAC from UDP to {{c1::bactoprenol (Lipid P, carrier lipid of the CM)}} with release of UMPs. The peptidoglycan subunit is then {{c2::shuttled through the CM to the growing end of a peptidoglycan chain.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s*Bv%pOs8c",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2 amino acids subunits are covalently bonded (an amino acid from each peptide side chain). This completes synthesis of the “fabric shell” around the bacteria; providing {{c1::mechanical strength &amp; rigidity}} to peptidoglycan.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F#PKafON1/",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In the few bacteria studied, the transglycosylase and transpeptidase activities are located in different domains of a protein called {{c1::murein synthetase}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PClwk7T[o)",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Growth of bacteria is dependent on 3 factors:&nbsp;<div>{{c1::<div>1. Nutrient conditions&nbsp;</div><div>2. Cultivation conditions&nbsp;</div><div>3. Genotype that encodes for catabolic and anabolic pathways</div>}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r=PvtPnf:@",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4 phases of bacterial growth:<div><br></div><div>{{c1::</div><div>1. Lag phase</div><div>2. Exponential/log phase</div><div>3. Stationary</div><div>4. Death phase}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u(!wo`JQ/{",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lag phase of bacterial culture growth:<div><br></div><div>{{c1::cell volume and mass increase, chromosome replication (DNA synthesis) begins, but no cell division takes places}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h?+KNwgCH7",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Exponential/log phase follows the lag phase in the growth cycle:&nbsp;<div><br></div><div>{{c1::<div><span>Balanced growth occurs. Cell number, mass, volume and cell component amounts increase by same exponential factor.</span><br></div>}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mLDkvd6)=N",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Generation time (related to log phase of bacteria growth):<div><br></div><div>{{c1::the time required for one bacterium to divide into 2 cells = the time required for a cell to replicate}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u{>5]/SG*c",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stationary phase (bacterial growth):<div><br></div><div>{{c1::no net increase in cell #}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q&3VHsEZ+5",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Death phase in the growth cycle:&nbsp;<div><br></div><div>{{c1::Cell death occurs at a logarithmic rate. Most bacteria autolyse when they die}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N!=K@tD%jy",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div>Genera of Gram-positive bacteria (learn these 17 genera for exam 1)* </div> <div><br></div><div>{{c1::Actinomyces&nbsp;}}</div><div>{{c1::Arcanobacterium}}&nbsp;</div><div>{{c1::Atopobium}}&nbsp;</div><div>{{c2::Bacillus}}&nbsp;</div><div>{{c2::Bifidobacterium}}&nbsp;</div><div>{{c3::Clostridium}} </div> <div>{{c3::Clostridioides}}<br> {{c3::Corynebacterium, and other diphtheroids&nbsp;}}</div><div>{{c3::Cutibacterium}}<br> {{c4::Enterococcus}}<br> {{c5::Gardnerella}}<br> {{c6::Lactobacillus}}<br> {{c6::Listeria}}<br> {{c7::Mobiluncus}}<br> {{c8::Peptostreptococcus}} **<br> {{c9::Staphylococcus}}<br> {{c9::Streptococcus}}&nbsp;</div> </div> </div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c#a6{JbgMy",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In general a rapidly growing organism produces {{c1::acute}} disease which is characterized by a {{c1::rapid}} onset and {{c1::rapid}} progression [high antigenic dose, strong immune response]; Anti-infective therapy is usually {{c1::8 to 10d.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gWs%Az>w@$",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In general a slow growing organism produces a {{c1::chronic}} disease which is characterized by a {{c1::slow}} onset and progression&nbsp; [low antigenic dose, weak immune response]; Anti-infective therapy (treatment) is usually {{c1::prolonged}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vNEE(B1zX|",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Inhibitors of protein and/or peptidoglycan synthesis are more effective against {{c1::fast growing}} than against {{c1::slow growing}} organisms (speed of growth)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L[kOYzo-9l",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Does Gram stain reaction or metabolism (aerobic or anaerobic respiration or fermentation), or external cellular structures (e.g., flagella, etc.) or spore production determine generation time/growth rate?<div><br></div><div>{{c1::No}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fO!$)j]9}M",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Replicon}} is a DNA or RNA molecule that controls its own replication so is capable of self-duplication",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e]/jhww*yr",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Extra Chromosomal Elements (ECE)}} are replicons in a cell, excluding host cell DNA.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jlLb4Hi8>*",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Plasmids}} are double stranded (mostly) covalently closed circular DNA molecules which reside in the bacterial cytoplasm.",
+                "They are a form of ECE present in bacterial cells."
+            ],
+            "flags": 0,
+            "guid": "Q[;$O2{G*y",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Characteristics of plasmids (5):<div><br></div><div>{{c1::</div><div>1. They are replicons</div><div>2. They control their copy number</div><div>3. They replicate in cytoplasm using host cell DNA replication machinery</div><div>4. Possess a host range (wide vs narrow); some may only replicate in gram + or - or in certain genus</div><div>5. Only encode ancillary information (<b>NOT HOUSEKEEPING GENES) --&gt; </b>reason why they an be acquired or lost easily<span>}}</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Km]G7FQ}%o",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacteriophages are&nbsp;{{c1::virus replicons (either DNA or RNA) which infect bacterial cells}}",
+                "Can exist in latent state as prophage in bacterial cells"
+            ],
+            "flags": 0,
+            "guid": "QkSX;_[H4:",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Prophages can exist as (2):<div><br></div><div>{{c1::</div><div>1. A plasmid in the bacterial cytoplasm, i.e., as an ECE&nbsp;</div><div><span>2. DNA integrated into the bacterial cell's chromosome}}</span></div>",
+                "Fun fact: they are the most abundant biological entities"
+            ],
+            "flags": 0,
+            "guid": "zatIqYnO/O",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Recombination:&nbsp;{{c1::Defined as the exchange of recipient DNA with donor DNA. The breakage and joining of replicon DNA molecules to form hybrid, recombinant molecules. This process can only occur in a cell}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zo})yP1jxf",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Homologous recombination (legitmate):<div><br></div><div>{{c1::<div>The donor DNA is integrated into the recipient chromosome and the excised, recipient DNA fragment is degraded.</div><div>Requires the enzyme, RecA (encoded by a recipient cell chromosomal gene) which functions when the two DNA segments (the donor and recipient) share significant homologous sequences.&nbsp;</div>}}<br></div>",
+                "Significance: Allows gene transfer/exchange, especially with transformation or abortive transduction"
+            ],
+            "flags": 0,
+            "guid": "F}Utuu=/XT",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Site-specific/DNA sequence specific (AKA illegitimate/non-homologous recombination):<div><br></div><div>{{c1::insertion of or replication of genetic elements in DNA, with recombination restricted (limited) to identical sites (DNA sequences) at two locations on one replicon or at identical locations on two replicons. RecA independent}}<br></div>",
+                "Can be either Insertion sequences or transposons"
+            ],
+            "flags": 0,
+            "guid": "oxF`po80ib",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Phenotypic variation:<div><br></div><div>{{c1::An event in which<b><u> all </u></b>cells in a population respond to environmental stimuli in the same fashion producing a new/altered phenotype via the expression of a gene(s). No genotypic variation is involved.}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A}{k]VvrM|",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why is it at any given time, genotype can encode for more traits than currently expressed?<div><br></div><div>{{c1::Because they are frequently exposed to radically different environments that require much different phenotypes.<span>}}</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i*q?zj),qz",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why does a microorganism not express its entire phenotype at one time?<div><br></div><div>{{c1::That would require the enormous expenditure of energy and cell mass. Microorganisms that express only those genes needed for that environment would out-compete those microorganisms.}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ioZamb(HHf",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does phenotypic variation occur? (5)<div><br></div><div>{{c1::<div>1. Regulatory proteins control transcription or translational of specific operons</div><div>2. Two component signal transduction via sensor kinase and response regulator&nbsp;</div><div>3. Quorum Sensing&nbsp;</div><div>4. Other&nbsp;</div><div>5. Antigenic variation</div>}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l1^R/W/sH3",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Genotypic variation definition:<div><br></div><div>{{c1::an event in which the genome (genotype) of one or more cells in a population is altered (i.e., bacteria acquire new genetic information).}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E*-EOLTK{1",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2 mechanisms of genotypic variation:<div><br></div><div>{{c1::<div><span>1. Internally (No foreign/donated DNA is involved) by mutation.&nbsp;</span><br></div><div>2. Externally (horizontal gene transfer) by: a. Transformation b. Conjugation c. Transduction (generalized/abortive transduction and lysogenic conversion)</div>}}<br></div><div><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lR)4ptNUZ*",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mutation (internal alteration of genotype):<div><br></div><div>Is rare, caused by&nbsp;{{c1::mutagens}}. {{c2::Beneficial}} mutations are selected for&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s?mjtntEvy",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Horizontal gene transfer:<div><br></div><div>{{c1::transfer of genetic material from one bacterial cell (donor) to another (recipient)}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w]`cHRV!G]",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Transformation:<div><br></div><div>{{c1::DNA fragments are released by donor cell autolysis and accumulated by the recipient cell}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uG$FIab6Te",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Transduction:&nbsp;<div><br></div><div>{{c1::abortive phages carrying donor cell chromosomal fragments transfer their DNA to the recipient cell}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uUz<;)v*4b",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Conjugation:<div><br></div><div>{{c1::donor cell plasmid encodes for a mechanism to transfer a copy of itself to the recipient cell which lacks the plasmid}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Nih#Tn1uXI",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Horizontal gene transfer occurs via (4 carriers):<div><br></div><div>{{c1::Plasmid, Generalized/abortive bacteriophage, Lysogenic bacteriophage, “Naked” DNA in solution}}<br><div><br></div><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l*_jcg_<&R",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "External genetic information is exchanged when (2):<div><br></div><div>{{c1::Highly homologous genes (chromosomal or plasmid genes encoding altered function) from the donor replace via recombination the corresponding chromosomal or plasmid genes in the recipient cell.&nbsp;</div><div>2. A plasmid or prophage (carrying new or altered genes) carrying new or altered genes establishes residency in the recipient cell.<span>}}</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "soA?bX#Q&]",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do latent bacteriophages establish residency in recipient cell (2 mechanisms):<div><br></div><div>{{c1::Integrating into the recipient cell's chromosome or Functioning as a plasmid in the recipient’s cytoplasm}}<br><div><br></div><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zDW[o[BRLc",
+            "note_model_uuid": "e6f1e486-cf3a-11e9-a21b-9801a79c7977",
+            "tags": [
+                "Aditya",
+                "Lecture_27",
+                "MicroBio_Exam3"
             ]
         }
     ]
