@@ -2,38 +2,40 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "0c374b4c-cf29-11e9-ac8c-9801a79c7977",
-    "deck_config_uuid": "cc3f7d19-cb5b-11e9-97e4-7085c26c9faf",
+    "deck_config_uuid": "972b8887-c6bf-11e9-9c27-7085c26c9faf",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "cc3f7d19-cb5b-11e9-97e4-7085c26c9faf",
+            "crowdanki_uuid": "972b8887-c6bf-11e9-9c27-7085c26c9faf",
             "dyn": false,
             "lapse": {
                 "delays": [
-                    10
+                    20
                 ],
-                "leechAction": 0,
+                "leechAction": 1,
                 "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
+                "minInt": 2,
+                "mult": 0.7
             },
-            "maxTaken": 60,
-            "name": "Default",
+            "maxTaken": 180,
+            "name": "Suppy's Graduating Intervals",
             "new": {
                 "bury": false,
                 "delays": [
-                    1,
-                    10
+                    15,
+                    1440,
+                    4320,
+                    10080
                 ],
                 "initialFactor": 2500,
                 "ints": [
-                    1,
-                    4,
+                    15,
+                    7,
                     7
                 ],
-                "order": 1,
-                "perDay": 200,
+                "order": 0,
+                "perDay": 500,
                 "separate": true
             },
             "replayq": true,
@@ -43,7 +45,7 @@
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 100,
+                "maxIvl": 365,
                 "minSpace": 1,
                 "perDay": 9999
             },
@@ -277,6 +279,7 @@
         "paste-e347f2ae0bc63748e88778cf2b7eead3f78e2f0f.jpg",
         "tmprynh4j7n.png"
     ],
+    "mid": "1542737394172",
     "name": "Microbio::Micro Exam 3",
     "note_models": [
         {
@@ -354,6 +357,101 @@
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n\n<script> \n<!-- Opens One Cloze at a time-->  \nvar handled = false,  \n clozes = document.getElementsByClassName(\"cloze\"),  \n clr = window.getComputedStyle(clozes[0]).color,  \n bg = window.getComputedStyle(clozes[0]).background;\nfor (i=1; i<clozes.length; ++i) {  \n  clozes[i].style.background = clr;\n  clozes[i].onclick = function() {      \n        this.style.background=bg;\n        this.style.cursor='text';}\n  clozes[i].style.cursor = 'help';\n}\ndocument.onkeypress = function(ev){  \nif (handled) return false;}  \ndocument.onkeydown = function() {  \nfor (i=1; i<clozes.length; ++i) {  \n if (event.which==32 && clozes[i].style.background!=bg){\n  clozes[i].style.background=bg;handled=true;return false}\n }\n handled=false;return true;\n}\nwindow.setTimeout(function(){ window.focus()},0);  \n</script>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-d0e55",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-52ee9",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
@@ -1100,7 +1198,7 @@
             ],
             "flags": 0,
             "guid": "JIWCu+@t;u",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1116,7 +1214,7 @@
             ],
             "flags": 0,
             "guid": "pa>M$lPUZe",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1132,7 +1230,7 @@
             ],
             "flags": 0,
             "guid": "F<[>ggO[Vx",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1180,7 +1278,7 @@
             ],
             "flags": 0,
             "guid": "Biin5=F@H*",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1196,7 +1294,7 @@
             ],
             "flags": 0,
             "guid": "w^}|>Wt[tk",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1420,7 +1518,7 @@
             ],
             "flags": 0,
             "guid": "QO_K[AG#j+",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1436,7 +1534,7 @@
             ],
             "flags": 0,
             "guid": "l3oi+*8B9?",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1452,7 +1550,7 @@
             ],
             "flags": 0,
             "guid": "An28EA}34]",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1468,7 +1566,7 @@
             ],
             "flags": 0,
             "guid": "z(8ITd!wNs",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1484,7 +1582,7 @@
             ],
             "flags": 0,
             "guid": "P*2RNcLUGc",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1500,7 +1598,7 @@
             ],
             "flags": 0,
             "guid": "f+t=uGL-ie",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1548,7 +1646,7 @@
             ],
             "flags": 0,
             "guid": "d1km#ZWPhq",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1580,7 +1678,7 @@
             ],
             "flags": 0,
             "guid": "MHmfrpYnnb",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1596,7 +1694,7 @@
             ],
             "flags": 0,
             "guid": "Bl6HNr[Aqg",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1612,7 +1710,7 @@
             ],
             "flags": 0,
             "guid": "zIKcMKeH.&",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1628,7 +1726,7 @@
             ],
             "flags": 0,
             "guid": "gVhQ)R);D+",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1644,11 +1742,1387 @@
             ],
             "flags": 0,
             "guid": "p9m?(NmV*W",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
                 "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Internal genotypic variation occurs due to what?",
+                "Alteration in pre-existing genetic material by mutation"
+            ],
+            "flags": 0,
+            "guid": "B}qt=~q=DQ",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The frequency of such mutations is {{c1::rare}} but the number of bacteria is {{c1::large}}, so many occur",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r4Erm/LdJb",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacteria bearing beneficial mutations become {{c1::dominate}}/are {{c1::selected for by natural selection}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OP<xBP{w%=",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "One cell in a population acquires a mutation which enables it to grow faster, produce more progeny than cells lacking mutation. Eventually, {{c1::daughter cells (progeny)}} dominate the population.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BfS*Z6r-!;",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some examples of clinically significant mutations?<div><br><div>1)Some bacterial species have developed mutations in the {{c1::transpeptidase genes}} - which resulted in {{c1::resistance to penicillin}}.<br></div></div><div><br></div><div>2)&nbsp;Recent mutations in the {{c2::β-lactamase (penicillin resistance) gene of the enterococci}} resulted in expanded resistance to {{c2::synthetic penicillins and the βlactamase inhibitors.}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r7hz.D(vB{",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Are mutations a mechanism to transfer new genes to other bacteria?",
+                "NO,&nbsp;<div><br></div><div>Mutations create new genes with new functions but it is not a mechanism to transfer these new genes to other bacteria</div>"
+            ],
+            "flags": 0,
+            "guid": "j&)abpA9GY",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Horizontal Gene Transfer cannot {{c1::create new genes}} &nbsp;but it can {{c1::spread existing genes to many bacteria.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v#MHgm`sJE",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is horizontal gene transfer?",
+                "Transfer of genetic information (DNA) from one bacterial cell to another mediated by either:<div><br><div>– Transformation&nbsp;</div><div>– Conjugation&nbsp;</div><div>– Transduction<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Auv,crubBw",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The external genetic information exchanged is:&nbsp;<div><br><div>– Carried on/contained in:&nbsp;<div>{{c1::»Plasmid&nbsp;}}</div><div>{{c2::»Virus/Bacteriophage-generalized transduction}}&nbsp;</div><div>{{c3::»Virus/Bacteriophage-lysogenic transduction}}<br></div></div><div><br></div><div>– Naked DNA in solution - {{c4::segment of a bacterial genome or a plasmid}}.<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "osar$AQyIH",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The exchange of external genetic information occurs when:&nbsp;<div>{{c1::– Recombination takes place&nbsp;}}</div><div>{{c2::– A new plasmid is acquired&nbsp;}}</div><div>{{c3::– Generalized Transduction or Lysogeny takes place}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LlpG+QeR6c",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "External genetic information is exchanged when:<br><div><br></div><div>{{c1::<div>Highly homologous genes (chromosomal or plasmid genes encoding altered function) from the donor replace, via recombination, the corresponding chromosomal or plasmid genes in the recipient cell<br></div><div></div>}}<br></div><div><br></div><div>{{c2::A plasmid (bearing new or altered genes) from a donor cells is acquired by the recipient and establishes residency in the recipient cell -- a new plasmid is acquired}}<br></div><div><br></div><div>{{c3::A latent bacteriophage/prophage (carrying new or altered genes) establishes residency in the recipient cell}} by either:&nbsp;</div><div>{{c4::» Integrating into the recipient cell's chromosome&nbsp;}}</div><div>{{c5::»Functioning as a plasmid in the recipient’s cytoplasm}}<br></div><div><br></div><div><br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kKw@%`Dav",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Horizontal gene transfer}} has resulted in the transfer of antibiotic resistance between/among bacteria.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K&ct,B{_iO",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Acinetobacter baumannii}}, a major cause of hospital-acquired infections worldwide.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nm-@@3;/6>",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Researchers have discovered a cluster of 45 genes coding for antibacterial drug resistance on a {{c1::resistance island.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jw-ngiwlx$",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the commonalities between the 3 different methods of horizontal gene transfer?<div><br></div><div>{{c1::Gene transfer always involves a donor cell and a recipient cell.&nbsp;}}</div><div><br></div><div>{{c2::The donor cell may be alive as in conjugation or lysed as in transformation and generalized transduction}}.<br></div><div><br></div><div>{{c3::The recipient cell is always alive.}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jAcg3oc)P4",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Transformation is the horizontal transfer of genetic information which occurs via the uptake of {{c1::“naked”- extracellular plasmid, viral, or chromosomal DNA}} by a {{c1::bacterial cell}} (the recipient).",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HDn8,:W{(/",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA uptake is by a mechanism encoded by the {{c1::recipient cell’s chromosome.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HboguA_^q*",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mechanism: Only {{c1::competent cells}} are capable of accumulating “naked” DNA into the recipient cell’s cytoplasm.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DLXR%+WQKc",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Two forms of competent cells exist:&nbsp;<div><br><div>– {{c1::Naturally competent genes for competency are activated by environmental-cell cycle factors}}.&nbsp;</div><div><br></div><div>– {{c2::“Forced” competency is where physical or chemical treatments induce competency.}}<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v=nr~O&v-<",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Actual process of transformation:&nbsp;<div>1) {{c1::The donor cell dies and lyses&nbsp;}}</div><div>2) {{c2::Releasing “naked” DNA into the environment&nbsp;}}</div><div>3) “Naked” – extracellular DNA consists of:&nbsp;</div><div>&nbsp; &nbsp; {{c3::&nbsp;» Its fragmented DNA genome into environment}}&nbsp;</div><div>&nbsp; &nbsp; &nbsp;{{c4::» Plasmid and/or viral DNA, if present}}&nbsp;</div><div>4) {{c5::The recipient cell accumulates (takes up) any extracellular DNA.&nbsp;}}</div><div><br></div>",
+                "Accumulation occurs by a complex mechanism encoded on the recipient cell’s chromosome."
+            ],
+            "flags": 0,
+            "guid": "N14dh8?44e",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "If homologous sequences are involved, integration of donor DNA requires {{c1::RecA}} and the presence of {{c1::homologous sequences}} on both segments of donor and recipient DNA (host genome or plasmid).",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F&dv.DEJe|",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "For transformation, If a plasmid is transferred that can replicate in the recipient cell, no {{c1::RecA}} is required.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "loY5gr)hi9",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "For transformation, DNA not integrated into host chromosome or plasmid is {{c1::degraded.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i%Y1}WyoNH",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Important organisms which can be transformed:<div><br></div><div><div>{{c1::»Haemophilus}}&nbsp;</div><div>{{c2::»Neisseria – type 4 pili are involved}}&nbsp;</div><div>{{c3::»Staphylococcus&nbsp;}}</div><div>{{c4::»Streptococcus}}<br></div></div>",
+                "These are all naturally competent"
+            ],
+            "flags": 0,
+            "guid": "ibnQ6I#65M",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are limitations of transformation?<div>– {{c1::Not all bacteria are naturally competent.&nbsp;}}</div><div>– {{c2::Unless significant homology exists between donor &amp; recipient DNA , the accumulated Donor DNA will be degraded by recipient cell enzymes.}}<br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q8j4.y;LlA",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Clinical significance of transformation?<div><br></div><div>Has resulted in the spread of {{c1::antibiotic resistance and virulence factors among bacteria}}.<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G:3p`-&~`m",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some characteristics of conjugation?<div><br></div><div> The horizontal transfer of genetic information - DNA (a copy of the plasmid or conjugative transposon) [an ECE] from the donor to the recipient cell.&nbsp;</div><div> The mechanism encoded by the plasmid or conjugative transposon present in the {{c1::donor cell}}.&nbsp;<br></div><div> {{c2::Donor cell}} must be alive.<br></div><div> Any incidental transfer of Donor cell chromosomal DNA is {{c3::very rare and may not even be possible with certain plasmids or conjugative transposons.}}<br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HDoy@djeWO",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the {{c1::3}} distinct mechanisms of conjugation",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s!FuJS$(/;",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The most common mechanism of conjugation is?&nbsp;",
+                "Conjugative mechanisms present on plasmids which replicate in Gram-negative bacteria."
+            ],
+            "flags": 0,
+            "guid": "n6357]?2~F",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an example of the conjugative mechanism on plasmids which replicate in gram-negative bacteria?",
+                "Example is Drug resistance mediated by resistance factors (R-factors) from Gram-negative bacteria"
+            ],
+            "flags": 0,
+            "guid": "eBUgYdXPZN",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Plasmids encoding for antibiotic resistance are called {{c1::Resistance Factors (R-factors)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PWu(7y$gU`",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Conjugative plasmids that replicate in {{c1::Gram negative bacteria}} often carry R-factors.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C0.=)!Mx]@",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Conjugation by R-plasmids is called {{c1::Infectious drug resistance}} (conjugative transfer of antibiotic resistance) because it is mediated by plasmids that are R-factors.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I`0S0|,p]o",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In conjugation, mating occurs. What is mating?<div><br></div><div>- {{c1::cell to cell contact between donor and recipient}}</div>",
+                "Mating is essential and as used here does not mean sexual reproduction"
+            ],
+            "flags": 0,
+            "guid": "Gb,2Up@hKx",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In mating,&nbsp;Sex pili functions to make initial contact between cells under {{c1::some, not all conditions.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hjv);8yJd`",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In mating, A ssDNA copy of {{c1::R-factor (plasmid)}} is transferred from the donor to the recipient cell via a {{c1::pore in the fused cell membranes}} of the donor and recipient.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HOIHs)Ts9J",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "n conjugation, {{c1::DNA replication in the donor cell}} drives transfer of a ssDNA copy of the R-factor.",
+                "DNA replication in the donor cell is Rolling circle replication of the plasmid DNA"
+            ],
+            "flags": 0,
+            "guid": "PMM`FRVmwm",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In conjugation,&nbsp;The single-stranded copy (ssDNA copy) in recipient cell is made double stranded copy (dsDNA copy) by host cell {{c1::DNA Polymerase}}.",
+                "No RecA or site specific recombination is involved."
+            ],
+            "flags": 0,
+            "guid": "HG^IaChbb%",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are limitations of conjugation?",
+                "Conjugative plasmids have a host range/limits to which bacteria they can transfer to."
+            ],
+            "flags": 0,
+            "guid": "w3,V#bM?v*",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the clinical significance of conjugation?",
+                "Important mode of gene transmission in enteric bacteria"
+            ],
+            "flags": 0,
+            "guid": "MH.F^e+BUu",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Transduction is the horizontal transfer of genetic information from a donor to a recipient cell mediated by a {{c1::bacteriophage.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H}nj#^DhpX",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In transduction, genetic information includes:&nbsp;<div><br></div><div>– {{c1::chromosomal or plasmid DNA.}}&nbsp;<div><br></div><div>– {{c2::acquisition of a latent bacteriophage bearing gene(s)}}</div></div>",
+                "<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "t@sT_1-2=@",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To understand the process of transduction, we first must study how {{c1::viruses infect bacteria}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EJ|<vr%U~X",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "There are two forms of viruses (bacteriophages) which can infect bacteria:<div>{{c1::– lytic bacteriophage.}}<br></div><div>{{c2::– temperate bacteriophages.}}<br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K[D=r(sh.h",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the life cycle of a lytic bacteriphage?<div><br></div><div>1) {{c1::The bacteriophage binds to specific surface component on the recipient cell’s surface.&nbsp;}}</div><div>2) {{c2::Viral nucleic acid (genome) enters the cytoplasm of the recipient cell.&nbsp;}}</div><div>3) {{c3::Viral genome is replicated - many copies are made.}}&nbsp;</div><div>4) {{c4::Later, viral genome is transcribed and translated -viral core and coat proteins are made.}}&nbsp;</div><div>5) {{c5::Viral genome and core and coat proteins self-assemble into infectious particles.&nbsp;}}</div><div>6) {{c6::Host cell releases new infectious particles via lyses or slow release.}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v,iFf{QMdC",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A virus can either choose lytic or latency. A temparate bacteriophage chooses {{c1::latency.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o5>-?{8J,(",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does latency of the temperate phage occur?<div><br></div><div>1) {{c1::Phage represses phage genes which encodes for productive cycle of phage replication.}}</div><div>2)&nbsp;{{c2::The latent virus (prophage) will exists as DNA in the bacterial cell (a prophage)}} *</div><div>3)&nbsp;{{c3::The prophage replicates in synchrony with host DNA and is passed to all daughter cells.}}</div>",
+                "The latent virus (prophage) will exists as DNA in the bacterial cell (a prophage) as either:&nbsp;<div>» a functional plasmid in host cytoplasm.&nbsp;</div><div>» integrates into the host chromosome.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p>qyUg&Jj{",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does the latency period end with temperate phage?",
+                "Ends when phage genes which encode for productive/lytic cycle of phage replication are derepressed &amp; the lytic cycle ensues."
+            ],
+            "flags": 0,
+            "guid": "tS.f[<e?*(",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lytic cycle will result in a {{c1::productive viral infection with lysis of the host cell.}}<div><br></div><div>The temperate cycle will result in {{c2::partitioning of the prophage genome to each daughter cell.}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u0]pi9:|:m",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "There are two forms of horizontal gene transfer involving bacteriophages:<div><br></div><div>-{{c1::Generalized Transduction.&nbsp;}}<div>-{{c2::Lysogenic conversion}}<br></div><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E#jiV(00Ec",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Generalized (abortive) transduction occurs with {{c1::defective phage particles}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "RjQWA6|2i{",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Generalized (abortive) transduction process can occur in {{c1::lytic or temperate phages}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GS#2bOKg!}",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Generalized (abortive) transduction&nbsp;may require {{c1::RecA}}, depending upon the nature of transduced genetic material",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xT+`/[#&;@",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Process of abortive transduction:<div>1) {{c1::Plasmid or a segment of chromosomal DNA is sheared during viral replication in donor cell.&nbsp;}}</div><div>2) {{c2::A sheared fragment can randomly replace viral DNA.&nbsp;}}</div><div>3) {{c3::The fragment is “packaged” /self-assembled into viral-like particles called pseudovirus/abortive phage}}.<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e@O^Ly?~M+",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The pseudovirion/abortive phage function as normal infectious virion in that:&nbsp;<div>» {{c1::they attach to the appropriate receptor on an uninfected recipient cell.}}&nbsp;</div><div>» {{c2::the packaged DNA is introduced into the recipient cell cytoplasm.}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mz~7:r+vs0",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In transduction, Unlike a normal virus, the packaged DNA is:<br><div>1) {{c1::a plasmid that can replicate in recipient cell.&nbsp;}}</div><div>2) {{c2::a chromosomal fragment that shares homology with a portion of the recipient chromosome and is integrated into that chromosome via RecA.&nbsp;}}</div><div>3) {{c3::a fragment of a plasmid that shares homology with a portion of a plasmid in the recipient and is integrated into that plasmid via RecA.}}&nbsp;</div><div><br></div>",
+                "DNA not integrated into host chromosome is degraded<br><div><br></div><div>With no viral genome present, no viral reproduction can occur<br></div>"
+            ],
+            "flags": 0,
+            "guid": "OPZ&:HY5HL",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are limitations of HGT via bacteriophages?",
+                "Have host ranges - some are limited to only some strains of a particular bacterial species."
+            ],
+            "flags": 0,
+            "guid": "oT^.7q<iuf",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the clinical significance of transduction?",
+                "– Antibiotic resistance is passed between bacteria.<div><br></div><div>&nbsp;– Bacterial genera include:&nbsp;</div><div>» Enterococcus,&nbsp;</div><div>» Streptococcus,&nbsp;</div><div>» Staphylococcus.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kYt=#xg<_h",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lysogenic conversion - when a the recipient bacterial cell acquires a new phenotype due to {{c1::acquisition of/infection by a prophage}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A(FEt/#A:E",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "InLysogenic conversion, The prophage contains/carries the genetic information which changes the phenotype of the {{c1::infected recipient bacteria cell.}}",
+                "The new phenotype can be expressed without activation of the temperate virus’ s genome."
+            ],
+            "flags": 0,
+            "guid": "Efnk:a[h8Z",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lysogenic conversion can occur only with {{c1::temperate phages}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o79(O#,s$@",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lysogenic conversion does not require {{c1::RecA}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C3x=@TP&c{",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of lysogenic conversion?<div><br></div><div>1) The temperate phage encodes for {{c1::an auxiliary gene not required for viral replication or any part of the viral infectious cycle.&nbsp;}}</div><div>2) The auxiliary encoded gene is an {{c2::exotoxin.&nbsp;}}</div><div>3) The exotoxin gene is regulated {{c3::separately and independently of the viral genes.}}<br></div><div>4) The exotoxin can be expressed {{c4::without altering repression of the phage genes which code for the lytic cycle; The exotoxin gene expression does not effect viral latency.}}&nbsp;</div><div>5) The exotoxin gene {{c5::changes the phenotype of the cell carrying the gene from an exotoxin-negative to an exotoxin positive producing strain.}}<br></div>",
+                "Bacterial cells bearing prophage DNA are lysogenized."
+            ],
+            "flags": 0,
+            "guid": "F|yj]>O8e.",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are limiations of lysogenic conversion?",
+                "bacteriophages have host ranges - some are limited to only some strains of a particular bacterial species"
+            ],
+            "flags": 0,
+            "guid": "muN#7e+Jh$",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the clinical significance of lysogenic conversion?",
+                "– Prophages can carry genes for toxin production:&nbsp;<div>» Diphtheria toxin - Corynebacterium diphtheriae&nbsp;</div><div>» Erythrogenic toxin - Streptococcus pyogenes&nbsp;</div><div>» Botulism toxin - Clostridium Botulinum&nbsp;</div><div>» TSST-1 toxin - Staphylococcus aureus<br></div>"
+            ],
+            "flags": 0,
+            "guid": "xw//>jH]qx",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Example of lysogenic conversion clinically: There are 2 distinct phenotypic strains of diptheria -&nbsp;<div><br></div><div>1) {{c1::non-toxigenic strains do not produce the diphtheria toxin and cannot cause disease in humans.&nbsp;}}</div><div>2) {{c2::toxigenic strains do produce the diphtheria toxin and cause disease in humans:}}<br><div><br></div></div>",
+                "The toxin is encoded by a bacteriophage so only lysogenically converted cells express the toxin and cause disease in humans"
+            ],
+            "flags": 0,
+            "guid": "f*UL`BqVNP",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is phage typing?",
+                "The classification of strains of a bacterial species based on the pattern of phages capable of infecting the strain."
+            ],
+            "flags": 0,
+            "guid": "qn#%uar|ao",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the process of phage typing?<div><br></div><div>Phage typing is accomplished by exposing {{c1::separate samples of the same strain of bacteria}} to {{c2::different bacteriophages}} and determining which phages were able to infect and which did not.<br></div>",
+                "<div>Multiple (separate, distinct) phages can infect the same species of bacteria.<br></div><div><br></div>Generally, each phage can only infect certain strains of that species.<br><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "vz:@^n=V.0",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the clinical significance of bacteriophages?",
+                "Phage therapy to treat human infections"
+            ],
+            "flags": 0,
+            "guid": "Nv~2mw6Jx)",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does antibiotic resistance occur?",
+                "Carry back mechanism"
+            ],
+            "flags": 0,
+            "guid": "b,GjNYl%zJ",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the carry back mechanism?<div><br></div><div>{{c1::Mechanisms that allows for horizontal gene transfer occur between a GPR &amp; a GNR}}<br></div><div><br></div><div>How? 2 possibilities</div><div><br></div><div>1){{c2::&nbsp;A very, very rare occurrence, a conjugative plasmid in a GNR conjugates with an actinomyces cell; Recombination occurs between the GNR plasmid &amp; a plasmid or the genome in the actinomyces}}</div><div><br></div><div>2)&nbsp;{{c3::The actinomyces cell lyses, releasing its genome; natural transformation followed by recombination or IS elements allows a GNR to take up the released DNA plasmid and acquire the new resistance mechanism}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pXr@_%G&iP",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "After transfer, how does antibiotic resistance determinants provide resistance in the presence of an antibiotic that inhibits translation?",
+                "A bacterial multidrug efflux pump composed of the three proteins acridine resistance protein A (AcrA), AcrB, and tolerance to colicin (TolC)&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "id2p_:V]Jw",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "This AcrAB-TolC efflux pump confers natural resistance to {{c1::bile salts in Escherichia coli}} and {{c2::provides resistance to a wide range of chemical compounds present in sub-inhibitory concentrations}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cI#xjl4GcQ",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The active efflux of antibiotics through the AcrAB-TolC multidrug efflux pump also allows {{c1::acquisition of resistance}} in the presence of other antibiotics that block gene expression, such as {{c2::chloramphenicol, erythromycin, and rifampicin}}",
+                "AcrAB-TolC multidrug efflux pump is now a target for drug therapy."
+            ],
+            "flags": 0,
+            "guid": "ps]tM4|7`7",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the bacterial genome consist of?",
+                "<div>- “a conserved “core gene pool”.<br></div><div>-&nbsp;“flexible gene pools”.</div>"
+            ],
+            "flags": 0,
+            "guid": "in]dEX3p~{",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is “a conserved “core gene pool”",
+                "The majority of these genes encode proteins that play roles in basic cellular functions/ housekeeping genes (e.g. translation, metabolism, architecture) and exhibit rather homogeneous G+C contents and codon usage."
+            ],
+            "flags": 0,
+            "guid": "QO8!5vKsw5",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are characteristics of a flexible gene pool?<div><br></div><div>– {{c1::vary in size depending upon the bacteria.&nbsp;}}</div><div>– {{c2::encode for additional functions that are not essential for bacterial growth but provide advantages under particular conditions.&nbsp;}}</div><div>– {{c3::can be transferred laterally by HGT.}}&nbsp;</div><div>– Consist of:&nbsp;</div><div>{{c4::<div>» Genomic islands (GEIs/GIs; (&gt;10 kb).&nbsp;</div><div>» Genomic islets (&lt;10 kb).&nbsp;</div><div>» Prophages.&nbsp;</div><div>» Plasmids</div>}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w-^j?@i*-4",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is in a genomic island?<div><br></div><div>» {{c1::presence of residual material from mobile genetic elements (e.g., integrases &amp; IS elements),&nbsp;}}</div><div>» {{c2::presence of flanking direct repeats,&nbsp;}}</div><div>» {{c3::carry fragments (transfer genes) of other mobile elements, e.g., phages and plasmids,&nbsp;}}</div><div><br></div>",
+                "Genomic islands are inserted in the vicinity of tRNA sequences, or other small RNA genes, making them unstable, i.e., can be excised."
+            ],
+            "flags": 0,
+            "guid": "B}oF+:Rjs1",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can genomic islands be differentiated from the native genome?<div><br></div><div>- {{c1::Atypical sequence properties}}</div><div>- {{c2::their large size(&gt;10 Kb up to 100Kb).&nbsp;}}</div><div>- {{c3::presence of genes that aid in an organism's adaptation-documented virulence functions.}}</div>",
+                "Atypical sequences:&nbsp;<div> abnormal %GC index,&nbsp;</div><div> codon usage bias&nbsp;</div><div> dinucleotide frequency difference<br></div>"
+            ],
+            "flags": 0,
+            "guid": "JV&U1&[0]H",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "&nbsp;In many genomes these {{c1::Genomic islands}} are known to be associated with the survival of the organism under adverse conditions:",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I52hAQZ`J*",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the subclasses of the genomic islands?<div><br></div><div>{{c1::GI associated with pathogenesis is often called a pathogenicity island (PAIs).}}<br></div><div><br></div><div>{{c2::GIs that contain many antibiotic resistant genes are referred to as antibiotic resistance islands (ARIs).}}<br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BIiMnjKLmu",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is CRISPR-Cas?",
+                "An endonuclease system (an “adaptive” endonulcease defense systems directed against phages &amp; plasmids) found in many Eubacteria and nearly all Archaeabacteria."
+            ],
+            "flags": 0,
+            "guid": "NJ7CT_(>=w",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the two components of CRISPR-Cas system?",
+                "– A locus for memory storage (the CRISPR array)&nbsp;<div><br></div><div>– Cas genes that encode the machinery driving immunity including:<br></div><div>»modifying the memory storage.&nbsp;</div><div>» destroying the invading phage or conjugative plasmid<br></div>"
+            ],
+            "flags": 0,
+            "guid": "b*q-=J54ro",
+            "note_model_uuid": "97c67dba-cf2c-11e9-84fa-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "All CRISPR-Cas immune systems are reliant on the formation of CRISPR memories, known as {{c1::spacers}}, to {{c2::facilitate future defense}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iF|+h5Kop:",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To form these memories, {{c1::small fragments of invader nucleic acids}} are added as spacers to the CRISPR memory banks in a process termed CRISPR adaptation",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b+QaG*ZZbe",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Clinical impact of CRISPR-Cas<div><br></div><div>– {{c1::Modified versions are being used to alter human genetic code to correct genetic lesions in living humans &amp; embryos}} (still stage 1 clinical trials).&nbsp;</div><div><br></div><div>– {{c2::A modified phage carrying a modified CRISPERCas system designed to kill a specific bacterial pathogen by cutting the pathogens genome has been used successfully treat an infected patient}}.<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f%9+jR)/^C",
+            "note_model_uuid": "97c67ff4-cf2c-11e9-8052-9801a79c7977",
+            "tags": [
+                "Lecture_28",
+                "MicroBio_Exam3",
+                "Mitali"
             ]
         },
         {
