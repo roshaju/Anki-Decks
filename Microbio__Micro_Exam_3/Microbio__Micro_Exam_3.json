@@ -276,6 +276,7 @@
         "f48c62d7c44d4c0b92de204aab04d677-ao-2-Q.svg",
         "f48c62d7c44d4c0b92de204aab04d677-ao-O.svg",
         "paste-80900cce5eee170cc11c1d525c876da2c0913da7.jpg",
+        "paste-bccf529eb2d71ae80ca513505a1672e7bf8f15c3.jpg",
         "paste-e347f2ae0bc63748e88778cf2b7eead3f78e2f0f.jpg",
         "tmprynh4j7n.png"
     ],
@@ -778,6 +779,51 @@
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
                     "bafmt": "",
                     "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "css": ".card {\n font-family: arial ;\n font-size: 26px;\n text-align: center;\n color: white;\n background-color: gray;\n}\n\n.cloze {\n font-weight: bold;\n color: turquoise;\n}",
+            "flds": [
+                {
+                    "font": "MS Shell Dlg 2",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-88141-fd637",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n<br>\n<br>\n<br>\n<div style=\"font-style:italic;font-size:20px;color:Green;\">\n\n\n{{Extra}}</div>\n\n",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
@@ -5514,6 +5560,774 @@
                 "Lecture1",
                 "MicroBio_Exam3",
                 "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Former = {{c1::Chronic Persistent Viral Infections}}<div>Latter = {{c2::Latent Persistent Viral Infections}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yP<Z_-T8-{",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Archaebacteria are Procaryotes that {{c1::lack true peptidoglycan}}<div><br><div>The are insensitive to {{c2::Protein Synthesis Inhibitor Antibiotics}} such as {{c3::Streptomycin}} and {{c3::Chloramphenicol}}</div><div><br></div><div>The are actually part of {{c4::the normal human flora}} at {{c5::3 sites}}</div><div><br></div><div>They are associated with one common disease = {{c6::Pereontitis (infeciton of the gums)}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "!<-P%piSz",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Half}} of patients hospitalized with severe sepsis die within a year =&gt; those who survive become {{c1::debilitated}} during their hospital stay and need {{c1::rehab}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OecF0F,f}M",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Four Types of Infections that most frequently lead to Sepsis = 1) {{c9::Respiratory}}, 2) {{c8::Urinary,}} 3) {{c7::Skin}}, and 4) {{c6::Abdominal&nbsp;}}<div><br></div><div>Other Groups with increase risk of Sepsis = 1) {{c3::Immunocompromised patients}}, 2) {{c4::people age 65+}}, and 3) {{c5::infants younger than 1 year}}</div><div><br></div><div>Spesis begins {{c2::outside}} of the hospital in {{c1::80%}} of patients</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w;-AYsK}sW",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Markers for Sepsis/Septic-Shock = {{c1::Presepin (main one)}}, {{c1::Procalcitonin (PCT)}}, {{c2::CRP}}, and {{c2::IL-6}}<div><br></div>",
+                "If any of these are high, it indicates Sepsis/Septic Shock"
+            ],
+            "flags": 0,
+            "guid": "oYmM_HZ:nK",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sepsis Treatment = {{c1::no real cure}} because LPS/endotoxin activate {{c1::multiple physiological pathways and mediators&nbsp;}}<div><br></div><div>Because control of SIRS/DS require {{c2::multiple treatment modalities}} = treatment is difficult</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q3|Uh)~6TO",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Early Goal-Directed Therapy (EGDT) for Sepsis =&nbsp;<div>1st) Measure {{c1::Serum Lactate}}</div><div>2nd) Obtain {{c2::blood speciment before Antibiotics}}, then {{c3::use Antibiotics}}</div><div>3rd) If Hypotensive = {{c4::give fluids (normal saline) or vasopressin}}</div><div>4th) If in Septic Shock {{c5::(defined as Systolic BP &lt; 90mmHg or Lactate <u>&gt;</u>&nbsp;4 mmol/L)}}&nbsp;= {{c6::give IV Fluid Bolus (300 cc/kg) and Vasopressors for Hypotension}}</div><div>5th) Achieve {{c7::Oxygen Saturation}}&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v%/|<|Miob",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Failed/Unproven Sepsis Treatments<div><br></div><div>1) Paul Marik's Eponymous Therapy HAT = {{c1::IV of Vit C, Corticosteroids, and Thiamine}} is given to very patient with sepsis with {{c1::their 1st antibiotic dose}}</div><div><br></div><div>2) Drotecogin alfa = FDA approved sepsis/septic shock treatment but it was discontinued because {{c2::it only helped 1 out of every 16 patients&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Gov_[aH(fE",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Detecting LPS can be done 2 ways:&nbsp;<div><br></div><div>1) {{c1::Limulus Amebocyte Lysate Test = old test using Crab Blood}}</div><div><br></div><div>2) {{c2::Monoclonal Antibodies against LPS that can detect presence of nanogram amounts of endotoxin/LPS}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g^(a_d*#|P",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2 Key Points to remember with LPS and Sepsis:&nbsp;<div><br></div><div>1) LPS is not the only bacterial molecules that can cause SIRs and Sepsis, it is just the {{c1::most common cause of SIRs and Sepsis in all cases (bacterial, virus, etc).&nbsp;}}</div><div><br></div><div>2) Endotoxins are {{c2::not the real toxin aka it is what makes us sick/poisoned}} =&gt; it is the {{c3::human body's response to Endotoxin that makes us sick/causes mortality}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O`7@sok}~n",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gram Positive Cell Wall is made of<div>1) {{c1::Peptidoglycan (many layers thick)}}</div><div>2) {{c2::Teichoic Acid (bound to Peptidoglycan)}}</div><div>3) {{c3::Lipoteichoic Acid (bound to Glycolipids)&nbsp;}}</div><div>4) {{c4::Numerous other Macromolecules&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oL]WZ`Vh%C",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacterial Cell Wall {{c1::starts tight}} when new and close to cell membrane =&gt; Cell Wall {{c1::gets looser}} as we go farther out (process of growth)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DXRW{fY]>u",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gram Positive vs. Gram Negative Walls<div><br></div><div>Gram Postive does NOT have {{c1::Outer Membrane}} or {{c2::LPS/Endotoxins}}</div><div><br></div><div>Gram Positive does have {{c3::Periplasm Space}}, {{c4::Peptidoglycans}}, {{c5::Lipoteichoic Acid}}, and {{c6::Teichoic Acids}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xO$Oz3*og2",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Peptiodyglycan in Gram Positive Bacteria are similar in composition compared to Gram Negative bacteria BUT in Gram Positive Bacteria, the Peptidoglycan layer is 1) {{c3::present in larger amounts}}, and 2) {{c4::more extensively cross-linked due to NAMs/muramic acid peptide side chains}}<div><br></div><div>Medical Importance = Gram Positive Peptidoglycans can {{c1::induce immunomodulators like TNF-alpha and IL-6}}, which leads to {{c2::SIRs, DS, and Hypotensive Shock}}</div><div><br></div>",
+                "<font color=\"#3bff23\">More Peptidoglycan and Cross-links are why Gram Stain is different in Gram Positive vs. Gram Negative Bacteria</font><div><font color=\"#3bff23\"><br></font></div><div><font color=\"#3bff23\">NAMs change between species =&gt; the 5 different AA that NAMs differ and therefore change the Peptidoglycan</font></div>"
+            ],
+            "flags": 0,
+            "guid": "-O3hw]`bO",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lipoteichoic Acid is a polymer of {{c1::Glycerol-PO4}} or {{c1::Ribitol-PO4}} that binds to {{c1::a Glycolipid}}, gets integrated into {{c2::the outer leaflet of the Cell Membrane}} and extends {{c2::through Peptidoglycan layer}} to function in {{c3::adhesion}}, {{c3::virulence}}, and {{c3::growth&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jxVaFlAxWK",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Teichoic Acid is a polymer of {{c1::Glycerol-PO4}} or {{c1::Ribitol-PO4}} that is bound to a {{c1::Peptidoglycan}}, extends through the cell wall, and functions as {{c2::a potent immunomodulator}} that 1) {{c3::can produce endotoxin-like shock in Staph. aureus infections}}, +/or 2) {{c4::interact with CRP to start the alternative pathway and induce host-inflammatory response}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xncTNgm,`Z",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Some infections (Gram Pos. Bacteria, Fungi, + Viruses) cause SIRs/DIC/Shock w/out endotoxins by instead using {{c1::Pathogen Associated Molecular Patterns (PAMPs)}} to bind to human {{c2::Pathogen Associated Receptors (PARs)}} in order to release mediators that cause SIRs/Shock",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vM%#|[D]]d",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Main PARs = 1) {{c1::NOD1}}, 2) {{c2::NOD2}}, and 3) {{c3::TLR Receptors (10 total, most extracellular with some Intracellular)}}<div><br></div>",
+                "PARs = Pattern Associated Receptors that bind to PAMPS (Pathogen Associated Molecular Patterns)"
+            ],
+            "flags": 0,
+            "guid": "e%hx^j&a9!",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Main PAMPS = 1) {{c1::Peptidoglycans}}, 2) {{c2::Teichoic Acids}}, 3) {{c3::N-formyl-methionine-leucine-phenylalanine (the 1st three N-terminal AA in many bacterial proteins)}}, 4) {{c4::CpG Unmethylated Nucleotides}}, and 5) {{c5::LPS}}<div><br></div>",
+                "PAMPS = Pathogen Associated Molcular Patterns that are bound by PARs (Pathogen Associated Receptors)&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "P|#~ud^H$5",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacterial Spores are formed so {{c1::certain bacterial species can surive adverse conditions&nbsp;}} =&gt; most bacteria {{c2::do not form spores}}<div><br></div><div>Mother Cell forms spore and dies =&gt; spores are {{c3::inactive in a protective shell}} =&gt; when {{c4::environmental conditions are favorable}} the spore germinates</div><div><br></div><div>Perks of Bacterial Endospores = 1) {{c5::inc Longevity}}, 2) {{c6::inc Heat Resistance}}, 3) {{c7::inc resistance to drying/dessication}}, and 4) {{c8::inc resistance to chemical agents}}</div><div><br></div>",
+                "<font color=\"#3bff23\">Spores are 1 of the ways to avoid Antibiotics (along with Small Colony Variants and Persisters)</font>"
+            ],
+            "flags": 0,
+            "guid": "K!ZI0[6-rc",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The two genera of medically important spore-forming bacteria = 1) {{c3::Bacillus}} (obligate {{c3::aerobe}}), and 2) {{c4::Clostridium}} (obligate {{c4::anaerobe}})<div><br></div><div>Both of these spore-forming bacteria are important because they can {{c2::travel airborne and contaminate medical equipment and surfaces}} =&gt; infected equipment and surfaces need {{c1::special disinfectants/sterilization via Autoclave}}</div><div><br></div>",
+                "<font color=\"#3bff23\">Rmbr: Spores are inactive cells are in a protective shell waiting for favorable conditions</font>"
+            ],
+            "flags": 0,
+            "guid": "-y_vji`t}",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Small Colony Varients (SCVs) are {{c1::growth-deficient variants}} that form {{c2::colonies 1/10 of normal size}} due to {{c3::deficiencies in energy metabolism}}<div><br></div><div>These colonies possess {{c4::enhanced resistance to Antibiotics}}, especially to {{c4::Aminoglycosides}}</div><div><br></div><div>SCVs cause recurrent infections/biofilms in the {{c5::Bones}}, {{c6::Heart}}, {{c7::Lungs}}, and {{c8::Urinary Tract}}</div><div><br></div>",
+                "<font color=\"#3bff23\">Key Species are: 1) Staph Aureus (Gram-Pos.), 2) Pseudomonas aeruginosa (Gram-Neg), and 3) E.Coli (Gram-Neg)&nbsp;</font>"
+            ],
+            "flags": 0,
+            "guid": "wHlM}7.g)c",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Persisters are bacteria that {{c1::produce a toxin that induces dormancy in a significan percentage of the bacteria population}} infecting a host =&gt; dormany can {{c2::last for weeks to months}} and the dormant bacteria are {{c3::not susceptible to many antibiotics}}<div><br><div>Persisters can {{c4::de-toxify themselves}} and become metabolically active again =&gt; this leads to {{c5::recurrent infections and antibiotic resistance}}</div><div><br></div></div>",
+                "<div><span><font color=\"#f50b27\">Key species of Persisters = E.coli and Salmonella (Persistors are Persistant Fucks like E.coli and Salmonella)</font></span></div>"
+            ],
+            "flags": 0,
+            "guid": "Ihsn@#pSsw",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The major species of Persisters&nbsp; are:&nbsp;<div><br></div><div>{{c1::E.coli}}</div><div>{{c2::Salmonella}}</div><div><br></div>",
+                "<font color=\"#3bff23\">Rmbr: Persisters are bacteria that produce a toxin that induces dormancy in a significan percentage of the bacteria population&nbsp;</font>"
+            ],
+            "flags": 0,
+            "guid": "B1|e}Bujia",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Key Species of SCVs are: 1) {{c1::Staph Aureus (Gram-Pos.)}}, 2) {{c2::Pseudomonas aeruginosa (Gram-Neg)}}, and 3) {{c3::E.Coli (Gram-Neg)}}<div><br></div>",
+                "<font color=\"#3bff23\">Rmbr: Small Colony Varients (SCVs) are growth-deficient variants that form smaller colonies due to deficiencies in energy metabolism, and they have enhanced resistance to Antibiotics</font>"
+            ],
+            "flags": 0,
+            "guid": "A3-f9-?uU%",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Extracellular Vesicles in Bacteria aare made by {{c1::Gram-Positive and Gram-Negative bacteria}} =&gt; EVs are {{c1::associated with human disease}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oBrIi*VhNo",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacteria's metabolic capacity is due to:&nbsp;<div><br></div><div>{{c2::Large Surface Area to Volume Ratio}}</div><div>{{c3::Close Contact with their environment}}</div><div>{{c4::Ability to accumulate Nutrients quickly}}</div><div>{{c5::Grow Rapidly}}</div><div><br></div><div>The clinical signficance of Bacteria's fast metabolism is that some bacteria can {{c1::produce fulminant infections aka infections that begin suddenly, increase rapidly, and kill host quickly}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MaTT.WKbA",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Autotrophic Bacteria = {{c2::fix CO2}} for their metabolism =&gt; can be Chemoautotrophs (using inorganic ions) or Photoautotrophs (using light) =&gt; Pathogens are {{c1::NEVER Autotrophs}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d%:!nqk:e:",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterotrophic Bacteria = use {{c2::organic molecules}} as source of building blocks and cellular energy =&gt; Pathogens are {{c1::ALWAYS Heterotrophs}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pE6l6v>Maz",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pathogens are always {{c1::Heterotrophs}}, and never {{c2::Autotrophs}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fk?g[pvv+1",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Heterotroph Bacteria first utilize {{c1::Carbohydrates}} for their organic source, then {{c2::Proteins}}, then {{c3::Lipids}} last</div><div><br></div><div>{{c4::Fastidious}} bacteria have {{c5::complex growth requirements}} and will {{c5::not grow}} on blood agar</div><div>{{c4::Non-Fastidious}} bacteria have {{c5::less complex requirements}} and will {{c5::grow}} on blood agar</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cyE3-75-CX",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Clinical Signficance of Fastidious Bacteria = {{c1::we need to specificy Fastidious Species in our Patient Diagnosis so Labs will properly culture the pathogens}}<div><br></div>",
+                "<font color=\"#3bff23\">Rmbr: Fastidious Bacteria are the ones that have complex growth requirements and do not grow on Blood Agar&nbsp;</font>"
+            ],
+            "flags": 0,
+            "guid": "kt}xzHQ_0$",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterotrophic/Pathogenic Bacteria have a optimum {{c1::temperature range}} for growth =&gt; below or above range will decrease the growth rate<div><br></div><div>Obligate Bacteria {{c2::must stay in range}}, while Facultative Bacteria {{c2::prefer staying in range but can survive outside of it}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hmo?Iz.+Ts",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3 Classes of Bacteria based on their Temperature Growth Range:&nbsp;<div><br></div><div>Thermophiles = grow at {{c1::&gt; 55 degrees Celsius}}</div><div>Mesophiles = grow at {{c1::20-55 degrees Celsius}}&nbsp;= important to remember that {{c2::most pathogens are mesophiles and grow best at 35-36 degrees Celsius&nbsp;}}</div><div>Psychrophiles/Cryophiles = grow at {{c1::&lt;20 degrees Celsius}}&nbsp;= important to remember that {{c3::few key human pathogens are facultative psychrophiles and because of this refrigeration is not an acceptable method of maintain sterile conditions&nbsp;}}</div><div><br></div>",
+                "<font color=\"#3bff23\">The 2 key strains for Psychrophiles = Yersinia enterocolitica and Listeria monocytogenes</font>"
+            ],
+            "flags": 0,
+            "guid": "q(gW)-B+(#",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<font color=\"#def9e9\">The 2 key strains for Psychrophiles =</font><div><font color=\"#def9e9\"><br></font></div><div>{{c1::Yersinia enterocolitica}}</div><div>{{c2::Listeria monocytogenes}}</div><div><br></div>",
+                "<font color=\"#3bff23\">Rmbr: These are the fuckers that grow &lt; 20 degrees Celsius and therefore make refrigeration not safe/sterile</font>"
+            ],
+            "flags": 0,
+            "guid": "t!oE&1VlrQ",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Obligate Aerobic bacteria only grow in presence of O2<div>Key strain = {{c1::Mycobacterium tuberculosis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eM;McJ~O7E",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Microaerophilic bacteria = {{c1::grow in presence of reduced O2 (less than normal atmospheric O2)}}<div>Main strain = {{c2::Campylobacter}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nvZ$*p1fc<",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Facultative Anaernobic Organisms = first grow via {{c1::aerobic respiration when O2 is present in early infection}} because {{c1::respiration is more efficient and population is low enough where O2 is not depleted}}, then grow via {{c1::fermentation when O2 is absent}} because {{c1::population has grown to the point that O2 levels have dropped to 0}}<div><br></div><div>Key clinical fact to remember = {{c2::most pathogens are Facultative Anaerobes}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q+=5k8~?!|",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The 3 qualities that most pathogens have = 1) {{c1::Heterotrophs}}, 2) {{c2::Mesophiles}}, + 3) {{c3::Facultative Anaerobes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w8-AgZBA:7",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aerotolerant Anaerobes = {{c1::grow in presence of O2 but grow best without O2}}<div>Key Strain = {{c2::Lactobacillus}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LKz*qo^;/6",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Obligate Anaerobe = {{c1::only grow in absence of O2}}<div>Key Strains = {{c1::Clostridium and Bacteroides}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E`*%Cgamq1",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The wide range of Bacteria's O2 use differences is because {{c1::all bacteria generate toxic agents when they use O2 (Superoxide Radical O2- and Hydrogen Peroxide H2O2, things that can cause death in bacteria)}} but they do not {{c1::generate toxic agents when they do not use O2 aka Fermentation/Anaerobes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wA[qEC(*A?",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacertia are Oxygen Tolerant Aerobes when they produce enzymes that detoxify these agents:&nbsp;<div><br></div><div>{{c1::Superoxide Dismutase (SOD)}} = {{c2::detoxifies O2-}}</div><div>{{c1::Catalase}} = {{c2::detoxifies H2O2}}<div><br></div><div><br></div></div>",
+                "<img src=\"paste-bccf529eb2d71ae80ca513505a1672e7bf8f15c3.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "p%&%tuA/|~",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Because Anaerobes can not make SOD/Catalase and only grow via fermentation, they need 1) {{c1::Special Requirements to be collected and cultured}}, and 2) {{c2::be treated with certain antibiotics such as Metronidazole and Tindazole}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zCK+^PPs],",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Most bacteria's ion requirements, major and trace, are similar to ours =&gt; if a bacteria has a special ion requirement it is often {{c1::specific for the strain}}<div><br><div>Example = Non-halophiles vs. Halophiles (non-salt vs salt) = Vibrio cholerae vs. V. parahaemolyticus</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xOhT4K3WrN",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The medical significance of inorganic ion requirements = {{c1::Ion levels (high or low) can trigger changes in bacterial phenotype}}<div><br></div><div>{{c2::Low Fe3+}} induces {{c3::C. diphtheriae to make Diphtheria toxin}}</div><div>{{c2::Low Ca2+}} induces {{c3::Plague Bacterium to make exotoxins}}</div><div>{{c2::Low Mg2+}} induces {{c3::S.auerus to make TSST-1 (Toxic Shock Syndrome Toxin)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pr`J&HQ#MH",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterotrophic metabolism means the bacteria uses {{c1::catabolic}} pathways that {{c1::use organic carbons}} for energy and carbon<div><br><div>The 2 forms of Heterotrophic metabolism = 1) {{c2::Respiration}} and 2) {{c2::Fermentation&nbsp;}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h(?n.vy1ez",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Catabolism = enzyme mediated oxidation of carbon molecules/glucose to simpler compounds which can produce energy =&gt; 2 pathways in bacteria<div><br></div><div>1) {{c1::Glycolysis to TCA Cycle to Respiration}} = makes {{c2::ATP and Substrates for other things like Peptidoglycan in Cell Wall&nbsp;}}</div><div>2) {{c1::Glycolysis to Fermentation}} = makes {{c2::ATP only by Substrate Level Phosphorylation (Pyruvate converted to Lactic Acid using NADH)}}</div><div><br></div>",
+                "<font color=\"#3bff23\">Pathways always go in sequence = either Glycolysis to TCA to Respiration OR Glycolysis to Fermentation&nbsp;</font><div><font color=\"#3bff23\"><br></font></div><div><font color=\"#3bff23\">TCA Cycle forms Reducing Agents (NADH and FADH2), and Respiration completes process by making ATP and recycling NADH</font></div>"
+            ],
+            "flags": 0,
+            "guid": "dtRcvAMqeH",
+            "note_model_uuid": "972c7374-c6bf-11e9-a155-7085c26c9faf",
+            "tags": [
+                "Lecture_25",
+                "MicroBio_Exam3",
+                "Shiv"
             ]
         }
     ]
