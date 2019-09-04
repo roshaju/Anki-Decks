@@ -1,0 +1,4046 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "0c374b4c-cf29-11e9-ac8c-9801a79c7977",
+    "deck_config_uuid": "cc3f7d19-cb5b-11e9-97e4-7085c26c9faf",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "cc3f7d19-cb5b-11e9-97e4-7085c26c9faf",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 200,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 100,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "0033.jpg",
+        "0039.jpg",
+        "0041.jpg",
+        "0042.jpg",
+        "0044.jpg",
+        "0045.jpg",
+        "0046.jpg",
+        "0047.jpg",
+        "0048.jpg",
+        "0049.jpg",
+        "0050.jpg",
+        "0051.jpg",
+        "0053.jpg",
+        "0055.jpg",
+        "0058.jpg",
+        "0059.jpg",
+        "0060.jpg",
+        "0061.jpg",
+        "0062.jpg",
+        "0063.jpg",
+        "0064.jpg",
+        "0065.jpg",
+        "0066.jpg",
+        "0067.jpg",
+        "0071.jpg",
+        "0074.jpg",
+        "0075.jpg",
+        "0077.jpg",
+        "0100.jpg",
+        "0102.jpg",
+        "0103.jpg",
+        "0104.jpg",
+        "0106.jpg",
+        "0107.jpg",
+        "04bb05b6eb3c4fa4a094f95338a3a5a0-ao-1-A.svg",
+        "04bb05b6eb3c4fa4a094f95338a3a5a0-ao-1-Q.svg",
+        "04bb05b6eb3c4fa4a094f95338a3a5a0-ao-2-A.svg",
+        "04bb05b6eb3c4fa4a094f95338a3a5a0-ao-2-Q.svg",
+        "04bb05b6eb3c4fa4a094f95338a3a5a0-ao-O.svg",
+        "0f873a7cf6674ffc9a21b3e41a80bbee-ao-1-A.svg",
+        "0f873a7cf6674ffc9a21b3e41a80bbee-ao-1-Q.svg",
+        "0f873a7cf6674ffc9a21b3e41a80bbee-ao-2-A.svg",
+        "0f873a7cf6674ffc9a21b3e41a80bbee-ao-2-Q.svg",
+        "0f873a7cf6674ffc9a21b3e41a80bbee-ao-3-A.svg",
+        "0f873a7cf6674ffc9a21b3e41a80bbee-ao-3-Q.svg",
+        "0f873a7cf6674ffc9a21b3e41a80bbee-ao-O.svg",
+        "1cfa517ecc5a4d708194044cad00fb05-ao-1-A.svg",
+        "1cfa517ecc5a4d708194044cad00fb05-ao-1-Q.svg",
+        "1cfa517ecc5a4d708194044cad00fb05-ao-2-A.svg",
+        "1cfa517ecc5a4d708194044cad00fb05-ao-2-Q.svg",
+        "1cfa517ecc5a4d708194044cad00fb05-ao-3-A.svg",
+        "1cfa517ecc5a4d708194044cad00fb05-ao-3-Q.svg",
+        "1cfa517ecc5a4d708194044cad00fb05-ao-O.svg",
+        "300d2774a8b84d5d984c38e57d5c3d59-ao-1-A.svg",
+        "300d2774a8b84d5d984c38e57d5c3d59-ao-1-Q.svg",
+        "300d2774a8b84d5d984c38e57d5c3d59-ao-2-A.svg",
+        "300d2774a8b84d5d984c38e57d5c3d59-ao-2-Q.svg",
+        "300d2774a8b84d5d984c38e57d5c3d59-ao-O.svg",
+        "3404875b688a44858484e323138ea6c0-ao-1-A.svg",
+        "3404875b688a44858484e323138ea6c0-ao-1-Q.svg",
+        "3404875b688a44858484e323138ea6c0-ao-2-A.svg",
+        "3404875b688a44858484e323138ea6c0-ao-2-Q.svg",
+        "3404875b688a44858484e323138ea6c0-ao-3-A.svg",
+        "3404875b688a44858484e323138ea6c0-ao-3-Q.svg",
+        "3404875b688a44858484e323138ea6c0-ao-O.svg",
+        "3cfe079b27894a1a802cb467a21f4f22-ao-1-A.svg",
+        "3cfe079b27894a1a802cb467a21f4f22-ao-1-Q.svg",
+        "3cfe079b27894a1a802cb467a21f4f22-ao-2-A.svg",
+        "3cfe079b27894a1a802cb467a21f4f22-ao-2-Q.svg",
+        "3cfe079b27894a1a802cb467a21f4f22-ao-O.svg",
+        "420ce28a79c7491d8d513c1cf6178c7a-oa-1-A.svg",
+        "420ce28a79c7491d8d513c1cf6178c7a-oa-1-Q.svg",
+        "420ce28a79c7491d8d513c1cf6178c7a-oa-2-A.svg",
+        "420ce28a79c7491d8d513c1cf6178c7a-oa-2-Q.svg",
+        "420ce28a79c7491d8d513c1cf6178c7a-oa-3-A.svg",
+        "420ce28a79c7491d8d513c1cf6178c7a-oa-3-Q.svg",
+        "420ce28a79c7491d8d513c1cf6178c7a-oa-O.svg",
+        "467e808c392d4bf786faad0185bcf070-ao-1-A.svg",
+        "467e808c392d4bf786faad0185bcf070-ao-1-Q.svg",
+        "467e808c392d4bf786faad0185bcf070-ao-2-A.svg",
+        "467e808c392d4bf786faad0185bcf070-ao-2-Q.svg",
+        "467e808c392d4bf786faad0185bcf070-ao-O.svg",
+        "4a040cb7caa14f7b991a8849ee7209e2-ao-1-A.svg",
+        "4a040cb7caa14f7b991a8849ee7209e2-ao-1-Q.svg",
+        "4a040cb7caa14f7b991a8849ee7209e2-ao-2-A.svg",
+        "4a040cb7caa14f7b991a8849ee7209e2-ao-2-Q.svg",
+        "4a040cb7caa14f7b991a8849ee7209e2-ao-O.svg",
+        "4c628226f5a444f1bfea1eb2860d7498-ao-1-A.svg",
+        "4c628226f5a444f1bfea1eb2860d7498-ao-1-Q.svg",
+        "4c628226f5a444f1bfea1eb2860d7498-ao-2-A.svg",
+        "4c628226f5a444f1bfea1eb2860d7498-ao-2-Q.svg",
+        "4c628226f5a444f1bfea1eb2860d7498-ao-3-A.svg",
+        "4c628226f5a444f1bfea1eb2860d7498-ao-3-Q.svg",
+        "4c628226f5a444f1bfea1eb2860d7498-ao-O.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-1-A.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-1-Q.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-2-A.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-2-Q.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-3-A.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-3-Q.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-4-A.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-4-Q.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-5-A.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-5-Q.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-6-A.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-6-Q.svg",
+        "504555b7f7b04c149ede056abfe7921c-ao-O.svg",
+        "8768b6fd91f142c68f0fa2d111b5d269-ao-1-A.svg",
+        "8768b6fd91f142c68f0fa2d111b5d269-ao-1-Q.svg",
+        "8768b6fd91f142c68f0fa2d111b5d269-ao-2-A.svg",
+        "8768b6fd91f142c68f0fa2d111b5d269-ao-2-Q.svg",
+        "8768b6fd91f142c68f0fa2d111b5d269-ao-3-A.svg",
+        "8768b6fd91f142c68f0fa2d111b5d269-ao-3-Q.svg",
+        "8768b6fd91f142c68f0fa2d111b5d269-ao-O.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-1-A.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-1-Q.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-2-A.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-2-Q.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-3-A.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-3-Q.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-4-A.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-4-Q.svg",
+        "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-O.svg",
+        "89f1ce962c7849d19c884f92bd08a984-ao-1-A.svg",
+        "89f1ce962c7849d19c884f92bd08a984-ao-1-Q.svg",
+        "89f1ce962c7849d19c884f92bd08a984-ao-2-A.svg",
+        "89f1ce962c7849d19c884f92bd08a984-ao-2-Q.svg",
+        "89f1ce962c7849d19c884f92bd08a984-ao-O.svg",
+        "Screen Shot 2019-09-01 at 1.12.23 PM.png",
+        "Screen Shot 2019-09-03 at 11.59.09 AM.png",
+        "aa480153a80043b1b652b75c77481e0f-ao-1-A.svg",
+        "aa480153a80043b1b652b75c77481e0f-ao-1-Q.svg",
+        "aa480153a80043b1b652b75c77481e0f-ao-2-A.svg",
+        "aa480153a80043b1b652b75c77481e0f-ao-2-Q.svg",
+        "aa480153a80043b1b652b75c77481e0f-ao-O.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-1-A.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-1-Q.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-2-A.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-2-Q.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-3-A.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-3-Q.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-4-A.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-4-Q.svg",
+        "acf83b479b39499fa9703e8418fa5edb-ao-O.svg",
+        "b53d634d67334d41a173aee46fda291a-oa-1-A.svg",
+        "b53d634d67334d41a173aee46fda291a-oa-1-Q.svg",
+        "b53d634d67334d41a173aee46fda291a-oa-2-A.svg",
+        "b53d634d67334d41a173aee46fda291a-oa-2-Q.svg",
+        "b53d634d67334d41a173aee46fda291a-oa-O.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-1-A.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-1-Q.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-2-A.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-2-Q.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-3-A.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-3-Q.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-4-A.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-4-Q.svg",
+        "b57370bb2ee34bfd995a418b99391704-ao-O.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-1-A.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-1-Q.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-2-A.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-2-Q.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-3-A.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-3-Q.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-4-A.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-4-Q.svg",
+        "ba1c879b1de041c0a6efe85aec902fa7-ao-O.svg",
+        "be1d07f60e21462ca9be0d70d269bd27-ao-1-A.svg",
+        "be1d07f60e21462ca9be0d70d269bd27-ao-1-Q.svg",
+        "be1d07f60e21462ca9be0d70d269bd27-ao-2-A.svg",
+        "be1d07f60e21462ca9be0d70d269bd27-ao-2-Q.svg",
+        "be1d07f60e21462ca9be0d70d269bd27-ao-O.svg",
+        "be89855582654156965742506a3d17c2-ao-1-A.svg",
+        "be89855582654156965742506a3d17c2-ao-1-Q.svg",
+        "be89855582654156965742506a3d17c2-ao-2-A.svg",
+        "be89855582654156965742506a3d17c2-ao-2-Q.svg",
+        "be89855582654156965742506a3d17c2-ao-O.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-1-A.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-1-Q.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-2-A.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-2-Q.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-3-A.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-3-Q.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-4-A.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-4-Q.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-5-A.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-5-Q.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-6-A.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-6-Q.svg",
+        "c524a0e19ab5489b948fa3386cecde25-ao-O.svg",
+        "c541c6b9d29e47ef9e8f1631d822b574-oa-1-A.svg",
+        "c541c6b9d29e47ef9e8f1631d822b574-oa-1-Q.svg",
+        "c541c6b9d29e47ef9e8f1631d822b574-oa-O.svg",
+        "ce2d416a17f241aca13992a396a6e564-ao-1-A.svg",
+        "ce2d416a17f241aca13992a396a6e564-ao-1-Q.svg",
+        "ce2d416a17f241aca13992a396a6e564-ao-2-A.svg",
+        "ce2d416a17f241aca13992a396a6e564-ao-2-Q.svg",
+        "ce2d416a17f241aca13992a396a6e564-ao-O.svg",
+        "d01210101ac94dfcb82b479ea26593cd-ao-1-A.svg",
+        "d01210101ac94dfcb82b479ea26593cd-ao-1-Q.svg",
+        "d01210101ac94dfcb82b479ea26593cd-ao-2-A.svg",
+        "d01210101ac94dfcb82b479ea26593cd-ao-2-Q.svg",
+        "d01210101ac94dfcb82b479ea26593cd-ao-O.svg",
+        "d24eb161ec9548fd9bdfa2412482d98f-ao-1-A.svg",
+        "d24eb161ec9548fd9bdfa2412482d98f-ao-1-Q.svg",
+        "d24eb161ec9548fd9bdfa2412482d98f-ao-2-A.svg",
+        "d24eb161ec9548fd9bdfa2412482d98f-ao-2-Q.svg",
+        "d24eb161ec9548fd9bdfa2412482d98f-ao-O.svg",
+        "d55b621aad03460bbee44de4767726e3-ao-1-A.svg",
+        "d55b621aad03460bbee44de4767726e3-ao-1-Q.svg",
+        "d55b621aad03460bbee44de4767726e3-ao-2-A.svg",
+        "d55b621aad03460bbee44de4767726e3-ao-2-Q.svg",
+        "d55b621aad03460bbee44de4767726e3-ao-O.svg",
+        "f48c62d7c44d4c0b92de204aab04d677-ao-1-A.svg",
+        "f48c62d7c44d4c0b92de204aab04d677-ao-1-Q.svg",
+        "f48c62d7c44d4c0b92de204aab04d677-ao-2-A.svg",
+        "f48c62d7c44d4c0b92de204aab04d677-ao-2-Q.svg",
+        "f48c62d7c44d4c0b92de204aab04d677-ao-O.svg",
+        "paste-80900cce5eee170cc11c1d525c876da2c0913da7.jpg",
+        "paste-e347f2ae0bc63748e88778cf2b7eead3f78e2f0f.jpg",
+        "tmprynh4j7n.png"
+    ],
+    "name": "Microbio::Micro Exam 3",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "css": ".card {\n font-family: arial ;\n font-size: 26px;\n text-align: center;\n color: white;\n background-color: gray;\n}\n\n.cloze {\n font-weight: bold;\n color: turquoise;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n<br>\n<br>\n<br>\n<div style=\"font-style:italic;font-size:20px;color:Green;\">\n\n\n{{Extra}}</div>\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n<br>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-0c47d",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n\n<script> \n<!-- Opens One Cloze at a time-->  \nvar handled = false,  \n clozes = document.getElementsByClassName(\"cloze\"),  \n clr = window.getComputedStyle(clozes[0]).color,  \n bg = window.getComputedStyle(clozes[0]).background;\nfor (i=1; i<clozes.length; ++i) {  \n  clozes[i].style.background = clr;\n  clozes[i].onclick = function() {      \n        this.style.background=bg;\n        this.style.cursor='text';}\n  clozes[i].style.cursor = 'help';\n}\ndocument.onkeypress = function(ev){  \nif (handled) return false;}  \ndocument.onkeydown = function() {  \nfor (i=1; i<clozes.length; ++i) {  \n if (event.which==32 && clozes[i].style.background!=bg){\n  clozes[i].style.background=bg;handled=true;return false}\n }\n handled=false;return true;\n}\nwindow.setTimeout(function(){ window.focus()},0);  \n</script>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-96de3",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-672ce",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Lecture1",
+                "Priya"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "71ca7a80-cf1d-11e9-9154-dca90481ef78",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Add Reverse",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (optional reversed card) with extra",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Lecture1",
+                "Priya"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}\n\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-2a29f",
+            "sortf": 0,
+            "tags": [
+                "Lecture1",
+                "Priya"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "iNOS is “inducible” in the presence of {{c1::Tumor necrosis factor-alpha (TNFa)}}, {{c2::gIFN}}&nbsp;and some microbial products such as {{c3::LPS}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lf9XX4__73",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Bacterial Endotoxins (LPS)}}&nbsp;<div>1) are produced by {{c2::Gram neg bacteria&nbsp;}}</div><div>2)&nbsp;is composed of a {{c3::lipid core or backbone (called Lipid A)}} and {{c3::numerous carbohydrate side chains}}</div><div>3) Has great {{c4::variablility}} between strains</div><div>4) Is stable at {{c5::high temperatures&nbsp;}}</div><div>5)&nbsp;CANNOT be made into a {{c6::toxoid}}</div><div>6)&nbsp;<span>Can act as an&nbsp;</span>{{c7::exogenous pyrogen that in turns&nbsp;activate endogenous pyrogen}}<span>&nbsp;</span></div>",
+                "Because the composition and complexity of the carbohydrate side chains is highly variable from one Gram-negative bacterium to another, the antigenic structure of LPS is also highly variable from one Gram-negative bacterium to another. This means that it is unlikely that neutralizing antibodies resulting from one exposure to LPS will induce protective immunity against another LPS from a different Gram-negative bacterium."
+            ],
+            "flags": 0,
+            "guid": "H<rBQ[jkPe",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "LPS is an exogenous pyrogen that induces the sequential production of endogenous pyrogens: {{c1::IL-1}}, {{c2::TNF-alpha}}, and {{c3::IL-6}}",
+                "LPS has the ability to disrupt the blood brain barrier&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "kV+s8MidMP",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div> <div>{{c1::Peptidoglycan}} is a fabric shell of woven {{c2::N-acetyl-glucosamine (NAGs)}} and {{c2::Nacetylmuramic acid (NAMs)}} that limits {{c2::the volume of water that can move into bacterial cytoplasms}}, preventing cell lysis&nbsp;<br> </div> </div> </div> </div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G~!Vr-II:n",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Muramic acid residues}}<span>&nbsp;of seperated peptidoglycan residues are&nbsp;</span><span>linked through the peptide stems/amino acid sidechains&nbsp;</span>",
+                "This creates cross links which ultimately gives the cell wall it's strength&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "q6Jh]M-A%=",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div> <div>Most bacteria maintain a {{c1::hypertonic}} osmotic pressure with respect to their environment&nbsp;</div> </div> </div> </div></div>",
+                "This means that's osmotic gradient favors water entering the cell causing swelling, peptidoglycan prevents the cell from bursting&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "E$IU>*f&+Y",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The following bacteria do not posses peptidoglycan:<div>1: {{c1::Mycoplasma}}</div><div>2: {{c2::Rickettsia}}&nbsp;</div><div>3: {{c3::Chlamydia}}&nbsp;</div><div>4: {{c4::Ehrlichia}}&nbsp;</div><div>5: {{c5::Anaplama}}&nbsp;</div>",
+                "This affects treatment; these bacteria are not affected by penicillin or cephalospin&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "MXj@{iz_k{",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The Gram negative cell wall is characterized by&nbsp;<div>1) {{c1::An outer membrane composed of phospholipds and LPS&nbsp;}}</div><div>2) {{c2::Periplasm, which contains a small peptidoglycan layer&nbsp;}}</div><div>3) {{c3::A cytoplasmic lipid bilayer&nbsp;}}</div>",
+                "<img src=\"paste-e347f2ae0bc63748e88778cf2b7eead3f78e2f0f.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "p_w%.EDAC@",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Periplasm}} of a Gram-negative cell, is located between the {{c2::outer}} and {{c2::inner membranes}} and serves to {{c3::provide structural rigidity to the cell&nbsp;}}",
+                "<div> <div> <div> <div>The peptidoglycan only about 1 layer thick, much thinner than that found in Gram-positive bacteria (why Gram-negative bacteria are less susceptible to cell-wall active agents.&nbsp;</div> </div> </div></div>"
+            ],
+            "flags": 0,
+            "guid": "f$]**Dq&;x",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Besides providing structural rigidity, other functions of the periplasm include:<div><div> <div> <div> <div>1. {{c1::Nutrient uptake from OM to CM}}&nbsp;</div><div>2. {{c2::Sensory (chemotaxis) mechanism}}&nbsp;</div><div>3. {{c3::Degradative enzymes}}<br> 4. {{c4::Osmoregulation}}&nbsp;</div> </div> </div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y?I>2(BL@`",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Only {{c1::gram-negative}} bacteria possess an outer membrane&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L_*A/BD[[q",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The outermembrane of gram-neg bacteria are imperiable to {{c1::hydrophillic substances}} and therefore gram neg bacteria are resistant to:<div>1. {{c2::Dyes}}</div><div>2. {{c3::Detergents}}&nbsp;</div><div>3. {{c4::Hydrolytic Enzymes (lysozome)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t;t-%D-!`q",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Functions of the outer membrane of Gram- neg bacteria include:&nbsp;<div><div><div> <div>i. {{c1::Contains virulence and toxicity factors.}}<br> ii. {{c2::Site of major antigenic components (e.g., O-antigen in Gram-&nbsp;negatives)}}<span>&nbsp;</span></div><div> iii. {{c3::Macromolecules components are receptors for antibodies, sex pilus,&nbsp;bacteriophages }}&nbsp;</div><div> iv. {{c4::Anchors external structures of the bacteria, e.g., flagella, capsules}}.&nbsp;</div> </div> </div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QC1ZmCAkg/",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div>{{c1::Porins}} are {{c2::outmembrane}} proteins that serve as {{c3::channels for specific hydrophillic substances&nbsp;}}</div> </div> </div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O(m-S)$rhE",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div>{{c1::Lipopolysaccharide (LPS)}} is composed of a {{c2::Lipid A (endotoxin)}}, a {{c2::core polysaccharide}}, and an {{c2::O-specific polysaccharide chain (O-antigen)&nbsp;}}</div> </div> </div></div>",
+                "<img src=\"paste-80900cce5eee170cc11c1d525c876da2c0913da7.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "ApE-px/kFL",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Lipid A}} (aka {{c2::Endotoxin}}) is a polymer composed of a {{c2::disaccharide}}, {{c2::phosphate}}, and {{c2::fatty acids.&nbsp;}}",
+                " <div> <div> <div>Lipid A is not the same in all bacteria, the fatty acid side chain&nbsp;<span>length can vary and modification of glycol-phosphate backbone&nbsp;</span><span>can also occur&nbsp;</span></div> </div> </div>"
+            ],
+            "flags": 0,
+            "guid": "O|an2[2a.R",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div>{{c1::Core oligosaccharide&nbsp;}} of LPS&nbsp; may contain {{c2::sugars}}<span>,&nbsp;</span>{{c2::amino sugars}}<span>,&nbsp;</span>{{c2::sugar acids}}&nbsp;<span>or&nbsp;</span>{{c2::sugar alcohols}} and often contain a uniqure sugar called {{c3::ketodeoxyoctulonate (KDO)}}<span>&nbsp;</span></div> </div> </div></div>",
+                "KDO is common in enteric bacteria&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "P]}<FpTqyn",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div>{{c1::Terminal polysaccharide (AKA the O-antigen)&nbsp;}} of LPS are terminal N repeating units of {{c2::sugars}}<span>,&nbsp;</span>{{c2::amino}}<span>&nbsp;sugar, sugar&nbsp;</span>{{c2::acids}}<span>, &amp; sugar&nbsp;</span>{{c2::alcohols}}<span>&nbsp;</span></div><div> <div> <div> <div><br> </div> </div> </div></div> </div> </div></div>",
+                "<div> <div> <div> <div>Is highly specific, e.g., The O-antigens of Salmonella are chemically </div> <div>different from those of Escherichia.</div><div><br></div><div>Is highly variable e.g., the genus Salmonella possesses thousands of </div> <div>strains, each strain possessing a chemically distinct O-antigen.&nbsp;</div> </div> </div></div>"
+            ],
+            "flags": 0,
+            "guid": "fqOALytY8L",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div>{{c2::Lipooligiosaccharide (LOS)}} contains {{c3::Lipid A}} and the {{c3::extend core}}, it lacks {{c1::O-antigen&nbsp;}}</div> </div> </div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hll}iG+f,,",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                " <div> <div> <div>LOS is synthesized in place of LPS in {{c1::Neisseria meningitidis}}, {{c2::N. gonorrhoeae}}, {{c3::Haemophilus influenzae}}<span>&nbsp;and&nbsp;</span>{{c4::H. ducreyi}}<span><br></span></div> </div> </div>",
+                "LOS tends to be similar to certain human surface molecules and therefore can avoid detection"
+            ],
+            "flags": 0,
+            "guid": "F[7Eq&v#dn",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "LPS induces the release of these endogenous mediators:&nbsp;<div>1. {{c1::TNF-α, IL-1, IL-6 = “early”}}<br>2. {{c2::Arachidonic acid metabolites}}<br>3. {{c3::Bradykinin}}<br>4. {{c4::Histamines}}<br>5. {{c5::Nitric Oxide (NO)}}<br>6. {{c6::Free radicals, especially superoxide anions}}<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q9Z(#MZ%pQ",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Systemic Inflammatroy Response syndrome (SIRS)&nbsp;}} is a system wide activation of an immune response by {{c2::macrophages}}, {{c2::PMNs}} and {{c2::endothelial cells&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i2<Ze&}&/:",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The SIRS pathway can be activated by either {{c1::infection}} or{{c1::&nbsp;Non-infectious}}&nbsp;",
+                "Each is responsible for about 1/2 of SIRS cases<div><br></div><div>LPS is a prominent activator of SIRS in infectious causes&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "EKGKuG4S+4",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mechanism of SIRS activation by LPS/LOS<div>1. {{c1::Lipid A of LPS binds to LPS binding protein}}</div><div>2. {{c2::LPS-LBP complex transfers LPS to membrane bound CD14}}</div><div>3. {{c3::LPS-CD14 binds to TLR4 which then causes a signal cascade&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": ")q#`2d`f>",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "LPS-LBP complex can also transfer LPS to soluable {{c1::CD14}} in the serum, which may then bind to {{c2::endothelial cells}} leading to {{c3::hypotension/vascular leak syndromes}} such as {{c4::Acute Respiratory Distress syndrome&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yPbgx>5zNJ",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Diplococcus (pairs):</div><div>1. Gram-negative genera: {{c1::Neisseria}}, {{c1::Moraxella}}, {{c1::Veillonella}}; resemble two kidney beans, side-by-side</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JIWCu+@t;u",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c2::Diplococcus}} (pairs):</div><div>1. {{c1::Gram-negative genera:}} Neisseria, Moraxella, Veillonella resemble two kidney beans, side-by-side</div><div>2. {{c1::Gram-positive genus:}} {{c3::Streptococcus pneumoniae}} resembles two footballs, end-to-end (lancet shaped)</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pa>M$lPUZe",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Cocci:</div><div>Chains ({{c1::Streptococcus}} Gram-positive)</div><div>Clusters ({{c2::Staphylococcus}} Gram-positive)</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F<[>ggO[Vx",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Bacillus:</div><div>a. Shape: bacilli/rod</div><div>i. Very short rod - {{c1::coccobacilli}} (Bordetella, Brucella, Francisella tularemia, Haemophilus spp., Yersinia spp; Gram-{{c1::negative}})</div><div>ii. Short, thin rods (Many Gram-{{c2::negative}} bacteria)</div><div>iii. Short, thin, needle-shaped rods ({{c3::fusiforms}}; Gram-{{c3::negative}} bacteria)</div><div>iv. Long, thick rods (Bacillus, Clostridium, Gram-{{c4::positive}})</div><div>v. Short, thick rods (Listeria; Gram-{{c5::positive}})</div><div>vi. Clubbed shaped rods - {{c6::diphtheroids}} (Corynebacterium spp. and Propionibacterium acnes; Gram-{{c6::positive}})</div><div>1. Thin, branching filamentous rods with clubbed endings (Actinomyces, Nocardia)</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bV:nD&lEpV",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Systemic Inflammatory Syndrome is clincially defined as {{c1::2 or more::number}} of the following<div>1. {{c2::Temperature &gt; 38 C (100.4 F) or &lt; 36 C (96.8F)}}</div><div>2. {{c3::Tachycardia&nbsp;}}</div><div>3. {{c4::Tachypnea (RR &gt; 20 or PaCO2 &lt; 32 mmHg)}}</div><div>4. {{c5::Leukocytosis (WBC &gt; 12000) or leukopenia (&lt;4000 WBC) or &gt;10% bands}}</div>",
+                "A <b>band cell</b> (also called <b>band neutrophil</b>, <b>band form</b> or <b>stab cell</b>) is a cell undergoing granulopoiesis"
+            ],
+            "flags": 0,
+            "guid": "w+sqyK2j)$",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Helicoidal:</div><div>a. Shape:</div><div>i. Curved/comma-shaped rod (Campylobacter, Helicobacter, and Vibrio - Gram-{{c1::negative}})</div><div>ii. Curved/comma-shaped rod (Mobiluncus spp. - Gram-{{c2::positive}})</div><div>iii. Spir{{c3::ochetes}} (Borrelia, Leptospira, Treponema)</div><div>iv. Spir{{c3::illum}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Biin5=F@H*",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pleomorphic – can vary in {{c1::size &amp; shape}} (Haemophilus, Gardnerella)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w^}|>Wt[tk",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sepsis/Spetic Shock has one or more of three “over-arching” pathophysiological processes:<br>1. {{c1::Systemic inflammation /“hyperinflammatory state”}}<br>2. {{c2::Activation of coagulation}}<br>3. {{c3::Inhibition of fibrinolysis}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B1s(0pE<6L",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The First step in the inhibition of fibrinolysis in sepsis occurs by {{c2::activation of coagulation (fibrin deposition)}}&nbsp;result from LPS activating {{c1::Hageman factor (Factor XIII)}} which activates the clotting system &amp; fibrinolysis.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "psaU8L|rhj",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The second step in the inhibition of fibrinolysis in sepsis is the {{c1::subsequent inhibition of Hageman Factor}} by {{c2::plasminogen-activator inhibitor.}}<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ML>;<XbiaF",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The sudden inhibition of {{c2::Hageman Factor (Factor XIII)}} by {{c3::plasminogen acitvator inhibitor in SIRS}} can lead to the accumulation of undissolved thrombin in microcirculation leading to {{c1::Disseminated Intravascular Coagulation (DIC)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L#V5dq[[~-",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Patients that survive the hyperinflammatory phase in sepsis enter a {{c1::protracted immunosuppression (hypoinflammatory, hypoimmune)}} state termed {{c1::“immunoparalysis”.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A>e~tn_y2q",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "immunosuppression in sepsis is manifested by the:<br>a. {{c1::Loss of delayed type hypersensitivity response to positive control antigens}}<br>b. {{c2::Failure to clear the primary infection}}<br>c. {{c3::Development of new secondary infections (which may cause patient’s death)}}<br>d. {{c4::Reactivation of dormant viruses (herpes simplex virus [HSV-1], Epstein-Barr virus [EBV], cytomegalovirus [CMV], human herpes virus [HHV)]-7)}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vcJ<sTBGWB",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Older adults who survive an episode of severe sepsis may be left with {{c1::substantial and enduring cognitive impairment}} and {{c1::functional disability.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zpsxg{12L9",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Shock is defined as {{c1::inadequate profusion of tissues}} -- there are three forms of shock:<br>1. {{c2::Cardiogenic}}<br>2. {{c3::Vascular obstructive}}<br>3. {{c4::Hypovolemic:}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NxynF|zi}g",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Distributive Shock (DS; AKA warm shock}}) is a form of {{c2::hypovolemic shock}} characterized by&nbsp;{{c3::Endothelial cell dysfunction/capillary leakiness}}, {{c3::Coagulopathy/DIC}}, and {{c3::Septic Cardiomyopathy}}.&nbsp;",
+                "Loss of vascular resistance leads to hypotension, Is also characterized by&nbsp;Coagulopathy / DIC<br><br><div>Septic cardiomyopathy, is reversible and does not seem to involve structural damage of the heart&nbsp;<br><br></div>"
+            ],
+            "flags": 0,
+            "guid": "AW}(F]|1d<",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The clinical manifestations of Distributive Shock (hypovolemic shock):<br>i. {{c1::Fever or hypothermia (low body temperature)}}<br>ii. {{c1::Leukopenia or leukocytosis (abnormally low or high levels of peripheral WBCs}}<br>iii. {{c2::Tachycardia (rapid heart rate) and tachypnea (rapid breathing)}}<br>iv. {{c2::Disseminated intravascular coagulation (DIC)}}<br>v.&nbsp; {{c3::multi-organ failure (MOF) or multiple organ dysfunction (MOD)}}&nbsp;<br>vi. {{c3::Acute kidney injury&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ssm&[}iWg[",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sepsis is defined as {{c1::“life-threatening organ dysfunction due to a dysregulated host response to infection}}",
+                "Sepsis is a syndrome without, at present, a validated criterion standard diagnostic test. There is currently no process to operationalize the definitions of sepsis and septic shock. Sepsis is a multifaceted host response to an infecting pathogen that may be significantly amplified by endogenous factors.” “For clinical operationalization, organ dysfunction can be represented by an increase in the Sequential [Sepsis-related] Organ Failure Assessment (SOFA)”"
+            ],
+            "flags": 0,
+            "guid": "xEizzV#/?i",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The quickSOFA (suick sepsis related organ failure assessment) uses three symptoms to asses patients for possible sepsis ({{c4::2 of 3}} required):<div>1. {{c1::Hypotension of 100mmHg or below}}</div><div>2. {{c2::Tachypnea of at least 22 breaths per min}}</div><div>3. {{c3::Altered mental status&nbsp;}}</div>",
+                "Score out of 3, one point for each"
+            ],
+            "flags": 0,
+            "guid": "w+7eWk(SJP",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Septic shock}} is a subset of sepsis in which circulatory, cellular, &amp; metabolic abnormalities are associated with a {{c2::greater risk of mortality than sepsis alone}} and is characterized by:<div>1.{{c3::&nbsp;Needing to use vasopressors or vasoactive medication to maintain mean arterial blood pressure of 65mm Hg or higher after adequate fluid resuscitation is not effective&nbsp;}}</div><div>2.&nbsp;{{c4::The presence of a high lactate (more than 2 mmol/L) after fluid recuscitation&nbsp;}}</div>",
+                "An increase in the serum lactate level is positioned as a proxy for a cellular metabolic abnormality, and as a variable independently associated with acute mortality (predictive validity). It is not specific for cellular dysfunction in sepsis but has face validity given the lack of a superior yet readily available alternative"
+            ],
+            "flags": 0,
+            "guid": "kj<,YH%}uC",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>c. Medically important Gram-positive cocci</div><div>S{{c1::treptococcus}}</div><div>S{{c1::taphylococcus}}</div><div>E{{c1::nterococcus}}</div><div><br /></div><div>d. Medically important \"lancet-shaped\" diplococci</div><div>Streptococcus {{c2::pneumoniae}}</div><div><br /></div><div>e. Genera of bacterial endospore-formers</div><div>C{{c3::lostridium}}</div><div>B{{c3::acillus}}</div><div><br /></div><div>f. Genera of medically important Gram-(-) \"{{c5::kidney-bean}}\" shaped diplococci</div><div>N{{c5::eisseria}}</div><div>V{{c5::eillonella}}</div><div>M{{c5::oraxella}}</div><div><br /></div><div>g. Genera of Gram negative comma ({{c6::vibrio}}) shaped bacteria</div><div>V{{c6::ibrio}}</div><div>H{{c6::elicobacter}}</div><div>C{{c6::ampylobacter}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QO_K[AG#j+",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Significance: Bacteria cannot be identified based on size, shape, cell arrangement, or Gram-stain reaction alone. However, the results of a Gram-stained clinical specimen:</div><div>a. Often {{c1::determines/influences}} initial antimicrobial therapy</div><div>b. Aids in {{c1::identification}} of the etiologic agent</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l3oi+*8B9?",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Cell surface structures:</div><div><br /></div><div>A. All lie on top of/on the surface of the cell wall and extend out from cell surface into environment.</div><div>B. Can be present in both {{c1::Gram-positive}} and {{c1::Gram-negative}} bacteria.</div><div><br /></div><div>C. A particular bacterial species can have any combination of these, that is they may possess NONE, one, two or all three of these structures. Bacteria can be human pathogens and lack flagella, pili, or capsules, but these 3 structures are often present on human pathogenic bacteria.</div><div>D. These structures are all constructed from a monomeric unit, repeated N number of times. As such they are {{c2::Type II-}}T-independent antigens. Highly variable antigenic epitopes means {{c3::little}} cross-reactivity between serotypes, which means they are often {{c3::not good}} candidates for vaccines.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "An28EA}34]",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Flagella (AKA {{c1::H}}-antigen) – are composed of protein:</div><div><br /></div><div>2. Protein composition:</div><div>a. {{c2::Repeating poly}}peptide units</div><div>b. {{c2::Different}} primary amino acid sequence than pili polypeptide units</div><div><br /></div><div>3. Types/structure:</div><div>a. {{c3::Plain}} (extend out from cell surface into environment)</div><div>b. {{c3::Endoflagella}} of spirochetes (internal structure)</div><div><br /></div><div><div>4. Function:</div><div>a. Provide {{c4::motility}}:</div><div>i. Primarily in liquid</div><div>ii. Some surface translocation</div><div><br /></div><div>b. Flagella are controlled by a sensory system to {{c5::move}} cell toward or away from substances ({{c5::chemotaxis}}).</div><div><br /></div><div>5. Clinical significance:</div><div>a. Flagella/H-antigen - aids in {{c6::identification}} of bacteria.</div><div>b. Are a {{c6::virulence}} factor: motility with chemotaxis in response to sensing their environment.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z(8ITd!wNs",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Pili (Fimbriae; Latin for 'thread' or 'fiber) – are composed of protein:</div><div><br /></div><div>2. Protein composition:</div><div>a. {{c1::Repeating poly}}peptide units</div><div>b. {{c1::Different}} primary amino acid sequence than flagella polypeptide units.</div><div><br /></div><div>3. Types/structure:</div><div>.</div><div>i. There are 4 types of pili (types I to IV)</div><div><br /></div><div>4. Function/Clinical significance of:</div><div>a. Normal pili:</div><div>i. {{c2::Aid in adherence}} to host cells – are a {{c2::virulence}} factor</div><div>&nbsp; 2 component adherence system: bacteria produces a protein that binds to a human surface component and then the pili adhesion binds to the bacterial protein, e.g., Enterotoxigenic E. coli</div><div><br /></div><div>ii. Are {{c3::anti}}phagocytic – are a {{c3::virulence}} factor</div><div><br /></div><div>iii. Motility Certain normal (type {{c4::IV}}) pili are specifically involved in a form of motility, called {{c4::surface translocation/twitching}} motility which is a virulence factor for many human pathogens</div><div><br /></div><div>v. {{c6::auto-aggregation}} of cells as micro-colonies on epithelial cells</div><div>vi. i{{c6::ntra}}cellular signaling&nbsp;</div><div>vii. {{c6::horizontal}} gene transfer - competency&nbsp;</div><div><br /></div><div>b. {{c7::Sex}} pilus plays a role in conjugation, an important process in spread of antibiotic resistance determinants among bacteria.</div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P*2RNcLUGc",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Capsules (AKA {{c1::glycocalyx}}, {{c1::exopolysaccharides}} [EPS]):</div><div><br /></div><div>2. Structure: {{c2::mucoid}}-like (mucous) coat around the cell which are:</div><div>a. {{c2::Cell}}–surface associated</div><div>b. {{c2::Slime}} layer (cell-free/soluble in water, not cell associated)</div><div>c. Both {{c2::cell}}–surface associated and a {{c2::slime}} layer</div><div>3. Composition: usually {{c3::poly}}saccharide polymers may consist of either a, b, c, or d:</div><div>a. Repeating units of a {{c4::single sugar}} molecule e.g., dextran or levan.</div><div>b. Repeating units of {{c4::complex}} polysaccharides - sugars, sugar alcohols, amino sugars, sugar acids, etc., creates many antigenically distinct capsules.</div><div>c. Repeating units of {{c4::D-glutamic}} acid (form a polypeptide; Bacillus anthracis).</div><div>Note a., b., and c., are {{c5::K}} antigens, d. is not.</div><div>* Are hydrophilic in nature; hence antiphagocytic.</div><div>d. In some Gram-negative bacteria, the {{c6::O}}-antigen of LPS is the capsule and then no {{c6::K}} antigen is expressed.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f+t=uGL-ie",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Biofilms:</div><div><br /></div><div>a. “Biofilms, communities of bacteria that live together for the benefit of the group, are characterized by:</div><div>i. {{c1::Water}} channels</div><div>ii. {{c1::Complex three-dimensional}} structures</div><div>iii. An i{{c1::ncreased}} resistance to environmental stresses.”</div><div>b. Biofilm formation is a multi-step developmental process that includes at least five distinguishable steps:</div><div>i. {{c2::Reversible}} attachment</div><div>ii. {{c2::Irreversible}} attachment and production of adhesive molecules such as {{c2::exopoly}}saccharides</div><div>iii. Biofilm development characterized by a distinct {{c3::mushroom}} shape</div><div>iv. Biofilm {{c3::maturation}}</div><div>v. Biofilm {{c3::dispersal}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ioy+SN9!3Q",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Biofilms:<div><br /></div><div>A protected, complex, 3-dimensional structure - A community of {{c1::bacterial}} or {{c1::yeast}} cells, in which microcolonies enmeshed in a {{c1::mucoid}} (hydrated) exopolysaccharide film (produced by the cells in the microcolonies) adhere to wet surfaces (inert or living):</div>",
+                "In some biofilms proteins (amyloid fibers AKA Curli; Curli fibers) are also a constituent."
+            ],
+            "flags": 0,
+            "guid": "O3+`t<4!pQ",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Biofilms:<div><br /></div><div><div>Bacteria in biofilms undergo {{c1::phe}}notypic (not {{c1::genotypic}}) changes:</div><div><br /></div><div>i. {{c2::Quorum}} sensing is involved in the activation of biofilm formation.</div><div>ii. Motile bacteria become {{c2::sessile}} (non-motile) while in the biofilm.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d1km#ZWPhq",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Bacteria in biofilms undergo phenotypic (not genotypic) changes:</div><div>i. Quorum sensing is involved in the activation of biofilm formation.</div><div><br /></div><div>ii. Motile bacteria become sessile (non-motile) while in the biofilm.</div><div><br /></div><div>iii. Bacteria in the biofilm persist even in the presence of {{c1::antimicrobial}} agents to which they are {{c1::normally}} susceptible to in the planktonic state. They are {{c1::multidrug resistant (MDR)}}, often to extraordinarily high concentrations of antibiotics.</div><div><div><br /></div><div>iv. Some cells in the biofilm {{c2::revert}} to the “normal”/planktonic form” and are {{c2::released back}} into the environment. Clinically, this may explain some therapy failures. After antimicrobial therapy has cleared non-biofilm bacteria from the body, newly-released revertants re-seed the human body causing {{c2::recurrent}} infection.</div><div><br /></div><div>v. Bacterial cells deep in biofilm communicate with cells in the periphery using {{c3::chemical}} gradients &amp; {{c3::ion}} channels and control peripheral {{c3::cell metabolism}} (keep them from consuming all the food)</div><div><br /></div><div>vi. Cells or microcolonies in a biofilm are joined by {{c4::amyloid}} proteins. The disruption of the {{c4::amyloid}} protein connections can cause the biofilm to break down. The release of nanogram amounts of certain D-A.A. can produce this disruption and are produced by the bacteria in the biofilm when the “situation” dictates that the bacteria need to be released.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zCRI%9N1?I",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Clinical significance of EPS/biofilms:</div><div>i. Avid {{c1::adherence}} to host tissues and surfaces (AKA surface colonization; such as catheters). Biofilms enable bacteria to grow/thrive in a {{c1::moving}} solution.</div><div>ii. Protection against {{c2::phagocytosis/WBC}}, {{c2::serum}} factors, {{c2::antibodies}}, (i.e., the infection is not susceptible to the host immune response).</div><div>iii. Protection against {{c3::antibiotics}}</div><div>iv. Protection against {{c3::desiccation}}</div><div>v. {{c4::Antigen}} used to identify some human pathogens, e.g., the pneumococcus. Capsules are the K antigen of bacteria.</div><div><br /></div>",
+                "vi. The Centers for Disease Control (CDC) estimates &gt; ½ of all human bacterial infections (especially chronic) involve biofilms."
+            ],
+            "flags": 0,
+            "guid": "MHmfrpYnnb",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Note: by convention:</div><div><br /></div><div>A. the “{{c1::H}}” antigen is a flagella antigen.</div><div>B. the “{{c1::K}}” antigen is the capsular antigen.</div><div>C. the “{{c1::O}}” antigen is the O-antigen of LPS.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Bl6HNr[Aqg",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>S-layers (AKA {{c1::A}}- or {{c1::T}}-layers) are composed of {{c1::protein}}(s):</div><div><br /></div><div>1. Occurrence:</div><div>a. {{c2::A single}} layer is significant percentage of cellular protein or mass (10 to 20%).</div><div>b. Present on Gram-{{c3::positive}}, Gram -{{c3::negative}} genera found in animal, environmental, human isolates, i.e., are present on some {{c3::human normal}} flora &amp; pathogens.</div><div><br /></div><div><div>2. Are not flagella, pili, capsules (EPS), LPS, biofilms, curli, or extracellular matrix.</div><div><br /></div><div>3. Location: External layer(s) that cover the {{c4::entire cell}} surface, lies {{c4::directly}} on cell wall.</div><div>4. Structure: a {{c5::rigid}} layer with pores of {{c5::fixed}} diameter.</div><div>5. Composition: Either {{c6::protein}} or {{c6::glycoprotein}} (Often, the only glycoprotein in bacteria)</div><div>6. Functions as a {{c7::virulence}} factor:</div><div>a. Confers {{c7::resistance}} to complement mediated killing (C3b binding)</div><div>b. Prevents {{c7::phagocytosis}} by PMNs</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zIKcMKeH.&",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Curli are composed of {{c1::protein}}(s):</div><div><br /></div><div>1. Occurrence: Curli are the major {{c2::proteinaceous extracellular}} fibers and a component of a complex {{c3::extra-cellular}} matrix produced by many Enterobacteriaceae</div><div><br /></div><div>3. Location: External layer(s) that cover the {{c4::entire cell}} surface, lies {{c4::directly}} on cell wall also important in formation of the extracellular matrix</div><div><br /></div><div>4. Composition: {{c5::amyloid}} proteins (prions)</div><div>5. Functions as a {{c6::virulence}} factor primarily by mediating {{c6::surface}} and {{c6::cell-cell}} contacts that promote community behavior and host colonization:</div><div>a. {{c7::Adhesion}} to surfaces</div><div>b. Cell {{c7::aggregation}}</div><div>c. Biofilm f{{c7::ormation}}</div><div>d. Mediating host cell {{c7::adhesion}} and {{c7::invasion}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gVhQ)R);D+",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Cell Movement:</div><div>A. {{c1::Translocation}}: Passage through human cells to access new sites. e.g., Haemophilus influenzae, type b., S. pyogenes, M. tuberculosis.</div><div>B. {{c2::Paracellular translocation}}: Passage between cells to enter tissues.</div><div>C. {{c3::Sliding motility on solid surfaces}} is associated with biofilm formation at least with Mycobacterium smegmatis.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p9m?(NmV*W",
+            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8768b6fd91f142c68f0fa2d111b5d269-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-09-01 at 1.12.23 PM.png\" />",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-1-A.svg\" />",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "vMD^%,oBA/",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8768b6fd91f142c68f0fa2d111b5d269-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-09-01 at 1.12.23 PM.png\" />",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-2-A.svg\" />",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "y>*k3oQZrh",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8768b6fd91f142c68f0fa2d111b5d269-ao-3",
+                "",
+                "<img src=\"Screen Shot 2019-09-01 at 1.12.23 PM.png\" />",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-3-A.svg\" />",
+                "<img src=\"8768b6fd91f142c68f0fa2d111b5d269-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mll@k2AJ^e",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4c628226f5a444f1bfea1eb2860d7498-ao-1",
+                "",
+                "<img src=\"0033.jpg\" />",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-1-A.svg\" />",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "k4#w5Ds/2k",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4c628226f5a444f1bfea1eb2860d7498-ao-2",
+                "",
+                "<img src=\"0033.jpg\" />",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-2-A.svg\" />",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "v_dTC$N2*9",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4c628226f5a444f1bfea1eb2860d7498-ao-3",
+                "",
+                "<img src=\"0033.jpg\" />",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-3-A.svg\" />",
+                "<img src=\"4c628226f5a444f1bfea1eb2860d7498-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "p_&jxswVY!",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "acf83b479b39499fa9703e8418fa5edb-ao-1",
+                "",
+                "<img src=\"0039.jpg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-1-A.svg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j/)?6^{V?N",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "acf83b479b39499fa9703e8418fa5edb-ao-2",
+                "",
+                "<img src=\"0039.jpg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-2-A.svg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "BUhPd,j021",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "acf83b479b39499fa9703e8418fa5edb-ao-3",
+                "",
+                "<img src=\"0039.jpg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-3-A.svg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "s4C`ax2k<i",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "acf83b479b39499fa9703e8418fa5edb-ao-4",
+                "",
+                "<img src=\"0039.jpg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-4-A.svg\" />",
+                "<img src=\"acf83b479b39499fa9703e8418fa5edb-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "MaLh[z>Y%o",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "FtsZ molecules get anchored to the cell membrane via&nbsp;",
+                "FtsA and ZipA&nbsp;<div>then other septasomal proteins get added to the complex<br><div><img src=\"0041.jpg\"><br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "A`^R*cw1uw",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do chromosomes in bacteria get separated into daughter cells prior to binary fission",
+                "ParM (tubulin/actin like molecule) pushes two progeny plasmids, moving them from midcell to two poles",
+                "<div>key players:&nbsp;</div><div><br></div><div>ParM-ADP- ParM-ATP gets hydrolyzed into ParM-ADP upon insertion</div><div><br></div><div>ParM-ATP- inserts at the interface between end of ParM filament and ParR/<i>parC&nbsp;</i>complex to allow for growth of the filament</div><div><br></div><div><i>parC-&nbsp;</i>centromeric region of the plasmid onto which ParR binds&nbsp;</div><div><br></div><div>ParR - protien found at the end of the polymeric filament, binds to&nbsp;<i>parC&nbsp;</i>section of the plasmid</div><div><br></div><div><img src=\"0042.jpg\"><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dvi__,ojUK",
+            "note_model_uuid": "71ca7a80-cf1d-11e9-9154-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "504555b7f7b04c149ede056abfe7921c-ao-1",
+                "",
+                "<img src=\"tmprynh4j7n.png\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-1-A.svg\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "KQa^a[<W];",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "504555b7f7b04c149ede056abfe7921c-ao-2",
+                "",
+                "<img src=\"tmprynh4j7n.png\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-2-A.svg\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "pQ@cUQpl|1",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "504555b7f7b04c149ede056abfe7921c-ao-3",
+                "",
+                "<img src=\"tmprynh4j7n.png\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-3-A.svg\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "JV!$=~0E;#",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "504555b7f7b04c149ede056abfe7921c-ao-4",
+                "",
+                "<img src=\"tmprynh4j7n.png\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-4-A.svg\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "d}tB`?/42h",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "504555b7f7b04c149ede056abfe7921c-ao-5",
+                "",
+                "<img src=\"tmprynh4j7n.png\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-5-A.svg\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "cY/zndPoZ_",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "504555b7f7b04c149ede056abfe7921c-ao-6",
+                "",
+                "<img src=\"tmprynh4j7n.png\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-6-A.svg\" />",
+                "<img src=\"504555b7f7b04c149ede056abfe7921c-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "x-%Qh,W?R;",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1cfa517ecc5a4d708194044cad00fb05-ao-1",
+                "",
+                "<img src=\"0044.jpg\" />",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-1-A.svg\" />",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "s6s3>mXA/d",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1cfa517ecc5a4d708194044cad00fb05-ao-2",
+                "",
+                "<img src=\"0044.jpg\" />",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-2-A.svg\" />",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "{3U&rX3<c",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1cfa517ecc5a4d708194044cad00fb05-ao-3",
+                "",
+                "<img src=\"0044.jpg\" />",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-3-A.svg\" />",
+                "<img src=\"1cfa517ecc5a4d708194044cad00fb05-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "LjR;rKZSQ9",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Horizontal gene transfer}}&nbsp;is the primary mechanism for the spread of antibiotic resistance in bacteria",
+                ""
+            ],
+            "flags": 0,
+            "guid": "md_n){x&M`",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c524a0e19ab5489b948fa3386cecde25-ao-1",
+                "",
+                "<img src=\"0045.jpg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-1-A.svg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "AT&E=YTeBU",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c524a0e19ab5489b948fa3386cecde25-ao-2",
+                "",
+                "<img src=\"0045.jpg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-2-A.svg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L)5ssryj$T",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c524a0e19ab5489b948fa3386cecde25-ao-3",
+                "",
+                "<img src=\"0045.jpg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-3-A.svg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "i4@<0?wUfa",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c524a0e19ab5489b948fa3386cecde25-ao-4",
+                "",
+                "<img src=\"0045.jpg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-4-A.svg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xN5Y75_K!+",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c524a0e19ab5489b948fa3386cecde25-ao-5",
+                "",
+                "<img src=\"0045.jpg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-5-A.svg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "t:a7G9.0^E",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c524a0e19ab5489b948fa3386cecde25-ao-6",
+                "",
+                "<img src=\"0045.jpg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-6-A.svg\" />",
+                "<img src=\"c524a0e19ab5489b948fa3386cecde25-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "CMz(yq3@/9",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b57370bb2ee34bfd995a418b99391704-ao-1",
+                "",
+                "<img src=\"0046.jpg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-1-A.svg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Qnr~iOeL}-",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b57370bb2ee34bfd995a418b99391704-ao-2",
+                "",
+                "<img src=\"0046.jpg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-2-A.svg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "M|J}Dc{UAZ",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b57370bb2ee34bfd995a418b99391704-ao-3",
+                "",
+                "<img src=\"0046.jpg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-3-A.svg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "t$]it!ibf+",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b57370bb2ee34bfd995a418b99391704-ao-4",
+                "",
+                "<img src=\"0046.jpg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-4-A.svg\" />",
+                "<img src=\"b57370bb2ee34bfd995a418b99391704-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "pXN3H/;4BK",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "be89855582654156965742506a3d17c2-ao-1",
+                "",
+                "<img src=\"0047.jpg\" />",
+                "<img src=\"be89855582654156965742506a3d17c2-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"be89855582654156965742506a3d17c2-ao-1-A.svg\" />",
+                "<img src=\"be89855582654156965742506a3d17c2-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "B<R7*<:pPs",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "be89855582654156965742506a3d17c2-ao-2",
+                "",
+                "<img src=\"0047.jpg\" />",
+                "<img src=\"be89855582654156965742506a3d17c2-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"be89855582654156965742506a3d17c2-ao-2-A.svg\" />",
+                "<img src=\"be89855582654156965742506a3d17c2-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "EEUAQ+HLYu",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "300d2774a8b84d5d984c38e57d5c3d59-ao-1",
+                "",
+                "<img src=\"0048.jpg\" />",
+                "<img src=\"300d2774a8b84d5d984c38e57d5c3d59-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"300d2774a8b84d5d984c38e57d5c3d59-ao-1-A.svg\" />",
+                "<img src=\"300d2774a8b84d5d984c38e57d5c3d59-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "hW,H/ZDk&#",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "300d2774a8b84d5d984c38e57d5c3d59-ao-2",
+                "",
+                "<img src=\"0048.jpg\" />",
+                "<img src=\"300d2774a8b84d5d984c38e57d5c3d59-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"300d2774a8b84d5d984c38e57d5c3d59-ao-2-A.svg\" />",
+                "<img src=\"300d2774a8b84d5d984c38e57d5c3d59-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j?g2u4-+M/",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3cfe079b27894a1a802cb467a21f4f22-ao-1",
+                "",
+                "<img src=\"0049.jpg\" />",
+                "<img src=\"3cfe079b27894a1a802cb467a21f4f22-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3cfe079b27894a1a802cb467a21f4f22-ao-1-A.svg\" />",
+                "<img src=\"3cfe079b27894a1a802cb467a21f4f22-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Ev}D0!gDa",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3cfe079b27894a1a802cb467a21f4f22-ao-2",
+                "",
+                "<img src=\"0049.jpg\" />",
+                "<img src=\"3cfe079b27894a1a802cb467a21f4f22-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3cfe079b27894a1a802cb467a21f4f22-ao-2-A.svg\" />",
+                "<img src=\"3cfe079b27894a1a802cb467a21f4f22-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "C7gb8q9Sn^",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d01210101ac94dfcb82b479ea26593cd-ao-1",
+                "",
+                "<img src=\"0050.jpg\" />",
+                "<img src=\"d01210101ac94dfcb82b479ea26593cd-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d01210101ac94dfcb82b479ea26593cd-ao-1-A.svg\" />",
+                "<img src=\"d01210101ac94dfcb82b479ea26593cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "OzR0c]X~hh",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d01210101ac94dfcb82b479ea26593cd-ao-2",
+                "",
+                "<img src=\"0050.jpg\" />",
+                "<img src=\"d01210101ac94dfcb82b479ea26593cd-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d01210101ac94dfcb82b479ea26593cd-ao-2-A.svg\" />",
+                "<img src=\"d01210101ac94dfcb82b479ea26593cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "P|q3BixIs,",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "04bb05b6eb3c4fa4a094f95338a3a5a0-ao-1",
+                "",
+                "<img src=\"0051.jpg\" />",
+                "<img src=\"04bb05b6eb3c4fa4a094f95338a3a5a0-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"04bb05b6eb3c4fa4a094f95338a3a5a0-ao-1-A.svg\" />",
+                "<img src=\"04bb05b6eb3c4fa4a094f95338a3a5a0-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "LZU=L4hce;",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "04bb05b6eb3c4fa4a094f95338a3a5a0-ao-2",
+                "",
+                "<img src=\"0051.jpg\" />",
+                "<img src=\"04bb05b6eb3c4fa4a094f95338a3a5a0-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"04bb05b6eb3c4fa4a094f95338a3a5a0-ao-2-A.svg\" />",
+                "<img src=\"04bb05b6eb3c4fa4a094f95338a3a5a0-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "A>A@C!JOZE",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacterial {{c1::microcompartments}} are large, {{c2::proteinaceous shells}} encapsulating {{c3::enzymes e.g., catabolic microcompartments found in many pathogenic microbes.}}",
+                "<img src=\"Screen Shot 2019-09-03 at 11.59.09 AM.png\">"
+            ],
+            "flags": 0,
+            "guid": "v~kIhmI2o7",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "0f873a7cf6674ffc9a21b3e41a80bbee-ao-1",
+                "",
+                "<img src=\"0053.jpg\" />",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-1-A.svg\" />",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "y<Wbs)v0?9",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "0f873a7cf6674ffc9a21b3e41a80bbee-ao-2",
+                "",
+                "<img src=\"0053.jpg\" />",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-2-A.svg\" />",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "EnUmwDn]6x",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "0f873a7cf6674ffc9a21b3e41a80bbee-ao-3",
+                "",
+                "<img src=\"0053.jpg\" />",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-3-A.svg\" />",
+                "<img src=\"0f873a7cf6674ffc9a21b3e41a80bbee-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "PTIM4,u=B1",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the 'S' stand for in 70S or 80S ribosome size",
+                "S= Svedberg unit (non-metric unit) the sedimentation rate at which a molecule travels to the bottom of a test tube when centrifuged.&nbsp;<div><br></div><div>value depends on the mass, density and molecular shape</div>"
+            ],
+            "flags": 0,
+            "guid": "Ey|qg{FEWG",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "be1d07f60e21462ca9be0d70d269bd27-ao-1",
+                "",
+                "<img src=\"0055.jpg\" />",
+                "<img src=\"be1d07f60e21462ca9be0d70d269bd27-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"be1d07f60e21462ca9be0d70d269bd27-ao-1-A.svg\" />",
+                "<img src=\"be1d07f60e21462ca9be0d70d269bd27-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "I+u`bk3NA`",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "be1d07f60e21462ca9be0d70d269bd27-ao-2",
+                "",
+                "<img src=\"0055.jpg\" />",
+                "<img src=\"be1d07f60e21462ca9be0d70d269bd27-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"be1d07f60e21462ca9be0d70d269bd27-ao-2-A.svg\" />",
+                "<img src=\"be1d07f60e21462ca9be0d70d269bd27-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "OxX?1iS)3)",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nearly all rod shaped bacteria cells posses {{c1::<i>MreB</i>&nbsp;}}but cocci do not.&nbsp;",
+                "MreB = actin like protein forming cytoskeleton in bacterial cell&nbsp;<div><br></div><div>Some plasmids code for parM a similar protien required for plasmid segregation.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "qe(?h6y*e+",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d55b621aad03460bbee44de4767726e3-ao-1",
+                "",
+                "<img src=\"0058.jpg\" />",
+                "<img src=\"d55b621aad03460bbee44de4767726e3-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d55b621aad03460bbee44de4767726e3-ao-1-A.svg\" />",
+                "<img src=\"d55b621aad03460bbee44de4767726e3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "N)x)i|M_~-",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d55b621aad03460bbee44de4767726e3-ao-2",
+                "",
+                "<img src=\"0058.jpg\" />",
+                "<img src=\"d55b621aad03460bbee44de4767726e3-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d55b621aad03460bbee44de4767726e3-ao-2-A.svg\" />",
+                "<img src=\"d55b621aad03460bbee44de4767726e3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xG.Y+}!)U2",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which macromolecules are part of the cytoplasmic structure and organization of procaryotes and eukaryotes?",
+                "Acylated proteins<div>glycosylated proteins</div><div>lipoproteins</div><div>glycolipids</div>"
+            ],
+            "flags": 0,
+            "guid": "jw7G3Mh#}$",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d24eb161ec9548fd9bdfa2412482d98f-ao-1",
+                "",
+                "<img src=\"0061.jpg\" />",
+                "<img src=\"d24eb161ec9548fd9bdfa2412482d98f-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d24eb161ec9548fd9bdfa2412482d98f-ao-1-A.svg\" />",
+                "<img src=\"d24eb161ec9548fd9bdfa2412482d98f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "i<OAjp#?mk",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d24eb161ec9548fd9bdfa2412482d98f-ao-2",
+                "",
+                "<img src=\"0061.jpg\" />",
+                "<img src=\"d24eb161ec9548fd9bdfa2412482d98f-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d24eb161ec9548fd9bdfa2412482d98f-ao-2-A.svg\" />",
+                "<img src=\"d24eb161ec9548fd9bdfa2412482d98f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "q/u$nrEQ+x",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "aa480153a80043b1b652b75c77481e0f-ao-1",
+                "",
+                "<img src=\"0062.jpg\" />",
+                "<img src=\"aa480153a80043b1b652b75c77481e0f-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"aa480153a80043b1b652b75c77481e0f-ao-1-A.svg\" />",
+                "<img src=\"aa480153a80043b1b652b75c77481e0f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "PVGkw^Vzx:",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "aa480153a80043b1b652b75c77481e0f-ao-2",
+                "",
+                "<img src=\"0062.jpg\" />",
+                "<img src=\"aa480153a80043b1b652b75c77481e0f-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"aa480153a80043b1b652b75c77481e0f-ao-2-A.svg\" />",
+                "<img src=\"aa480153a80043b1b652b75c77481e0f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "yd-^-a%L>E",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "467e808c392d4bf786faad0185bcf070-ao-1",
+                "",
+                "<img src=\"0063.jpg\" />",
+                "<img src=\"467e808c392d4bf786faad0185bcf070-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"467e808c392d4bf786faad0185bcf070-ao-1-A.svg\" />",
+                "<img src=\"467e808c392d4bf786faad0185bcf070-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "lru)dneGJr",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "467e808c392d4bf786faad0185bcf070-ao-2",
+                "",
+                "<img src=\"0063.jpg\" />",
+                "<img src=\"467e808c392d4bf786faad0185bcf070-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"467e808c392d4bf786faad0185bcf070-ao-2-A.svg\" />",
+                "<img src=\"467e808c392d4bf786faad0185bcf070-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sUXxf=K=8&",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Primary cillia}} lack the {{c1::+2 core}}, they are still motile, but are not maximally efficient in their motility.",
+                "<img src=\"0064.jpg\">&nbsp;Flagella (image) have +2 core NOT cilia.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "y7?F+0=kxh",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ba1c879b1de041c0a6efe85aec902fa7-ao-1",
+                "",
+                "<img src=\"0065.jpg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-1-A.svg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "K3r~Emn|)Y",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ba1c879b1de041c0a6efe85aec902fa7-ao-2",
+                "",
+                "<img src=\"0065.jpg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-2-A.svg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "tQ^k7PXyPR",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ba1c879b1de041c0a6efe85aec902fa7-ao-3",
+                "",
+                "<img src=\"0065.jpg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-3-A.svg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L#qR`:2A_4",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ba1c879b1de041c0a6efe85aec902fa7-ao-4",
+                "",
+                "<img src=\"0065.jpg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-4-A.svg\" />",
+                "<img src=\"ba1c879b1de041c0a6efe85aec902fa7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "IUD9pm,j7p",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "General size range of most bacteria?",
+                "approximately between 0.2 and 6 microns or 0.1-10 um<div><img src=\"0066.jpg\"><br></div><div>other things to note from this slide: limit of human vision is about 40 microns</div>"
+            ],
+            "flags": 0,
+            "guid": "y:Fzd)<WW,",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "general size of microscopic protozoa and fungi; size of viruses?",
+                "microscopic protozoa and fungi: 4-40um<div>viruses: 0.03-0.3 um</div><div><img src=\"0067.jpg\"></div>"
+            ],
+            "flags": 0,
+            "guid": "j!C/qN)ImD",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what size can you see a cell with the unaided human eye?&nbsp;",
+                "&gt;40um&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "P7il[dzl-,",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Bright field}} microscopy - transmitted light illuminates cells due to contract differences between {{c2::the bacteria and the medium.}}",
+                "<img src=\"0071.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "uy&uzq+15z",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Dark}} field microscopy- Light scattered/ reflected by {{c2::bacteria}} is used to visualize cells to thin for bright field.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q6Uddo&1YY",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Positive}} stains are a simple stained where the cell itself is stained.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C[e-)FEX3~",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::negative}} stains- medium is stained not cells. example would be {{c1::india ink stain}} to visualize capsules.",
+                "<img src=\"0074.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "uyPgD+I[g7",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce2d416a17f241aca13992a396a6e564-ao-1",
+                "",
+                "<img src=\"0075.jpg\" />",
+                "<img src=\"ce2d416a17f241aca13992a396a6e564-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce2d416a17f241aca13992a396a6e564-ao-1-A.svg\" />",
+                "<img src=\"ce2d416a17f241aca13992a396a6e564-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "P]$TE_J%ZT",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce2d416a17f241aca13992a396a6e564-ao-2",
+                "",
+                "<img src=\"0075.jpg\" />",
+                "<img src=\"ce2d416a17f241aca13992a396a6e564-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce2d416a17f241aca13992a396a6e564-ao-2-A.svg\" />",
+                "<img src=\"ce2d416a17f241aca13992a396a6e564-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "HuAo@p}#Z6",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gram {{c4::positive}} bacteria have {{c2::extensive peptidoglycan}} layers which retain {{c3::crystal violet-iodine complex}} after exposure to {{c1::alcohol}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r6>vno,&1Y",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gram {{c1::negative}} bacteria have {{c2::thin peptidoglycan layers}} which do not retain crystal violet-iodine complex after exposure to {{c3::alcohol}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PM[F8G$^)N",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which cell type (gram neg or gram pos) has an outer membrane?",
+                "gram neg<img src=\"0077.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "i!As&V*5=O",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hans Christian Joachim Gram wanted to distinguish {{c1::Streptococcus pneumoniae}} from {{c2::Klebsiella pneumoniae}}. So he discovered the gram stain. {{c3::Weigert}} added safranine 2-3 y later.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GdH>zzP=iP",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the first step of the gram stain? what type of cell ( gram + or -) does it stain?",
+                "Crystal violet - a primary, positive stain<div>Both gram pos and gram negative</div>"
+            ],
+            "flags": 0,
+            "guid": "NPn*$3?h.`",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the second step of the gram staining process and what is it's function",
+                "iodine<div>mordant/fixer</div><div><br></div><div>binds to the crystal violet in both gram pos and gram neg cells and forms crystals (that's why it's called <i>crystal</i>&nbsp;violet)</div>"
+            ],
+            "flags": 0,
+            "guid": "j42db@,%yw",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the third step in gram stain process-",
+                "Alcohol- decolorizer/destain - is able to clear the gram negative cell of crystal violet but not clear the gram positive cell&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "ido]&tyr/M",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the final step in gram staining process&nbsp;",
+                "safranin- counter stain&nbsp;<div>will stain the gram neg cells but not the gram pos cells</div>"
+            ],
+            "flags": 0,
+            "guid": "f|PN(Y[)61",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens if you forget to add primary stain?",
+                "all the cells will appear pink from the safranin (assuming you prformed the rest of the steps)"
+            ],
+            "flags": 0,
+            "guid": "mUkyCceg.t",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens if you forget to add the mordant?",
+                "Mordant = iodine&nbsp;<div><br></div><div>you can't crystallize the violet</div><div><br></div><div><br></div><div>both gram positive and gram negative cells would decolorize&nbsp; and both would appear pink&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "CNZJ}|Q%MJ",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens if you add too much or too little alcohol?",
+                "both gram pos and gram neg would appear purple - you wouldn't have decolorized them"
+            ],
+            "flags": 0,
+            "guid": "h[vv7$JZ+q",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens if you forget the counter stain",
+                "the gram pos would be purple<div>the gram neg would be clear</div>"
+            ],
+            "flags": 0,
+            "guid": "GpM{<Z[VM5",
+            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "All species of a genera, and all strains of that species, possess the {{c1::same}} cell wall structure and therefore the {{c2::same}} gram stain reaction.",
+                "consistency lf rxn to gram stain procedure"
+            ],
+            "flags": 0,
+            "guid": "OCZYPM|Yz~",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gram stain reaction can vary with some cells but not because the cell wall has changed but rather because t{{c1::here is some structural damage to the cell}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jU~BA(Rqpw",
+            "note_model_uuid": "71ca939e-cf1d-11e9-9ead-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3404875b688a44858484e323138ea6c0-ao-1",
+                "",
+                "<img src=\"0100.jpg\" />",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-1-A.svg\" />",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L`SIv2IfSJ",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3404875b688a44858484e323138ea6c0-ao-2",
+                "",
+                "<img src=\"0100.jpg\" />",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-2-A.svg\" />",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "gSg|v~TpkU",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3404875b688a44858484e323138ea6c0-ao-3",
+                "",
+                "<img src=\"0100.jpg\" />",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-3-A.svg\" />",
+                "<img src=\"3404875b688a44858484e323138ea6c0-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "m8{jNc4p_@",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "420ce28a79c7491d8d513c1cf6178c7a-oa-1",
+                "",
+                "<img src=\"0102.jpg\" />",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-1-A.svg\" />",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "y:urDx{;=.",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "420ce28a79c7491d8d513c1cf6178c7a-oa-2",
+                "",
+                "<img src=\"0102.jpg\" />",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-2-A.svg\" />",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "w-/_{^Ymm:",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "420ce28a79c7491d8d513c1cf6178c7a-oa-3",
+                "",
+                "<img src=\"0102.jpg\" />",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-3-A.svg\" />",
+                "<img src=\"420ce28a79c7491d8d513c1cf6178c7a-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "G4:Ly7:y=Z",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "89f1ce962c7849d19c884f92bd08a984-ao-1",
+                "",
+                "<img src=\"0103.jpg\" />",
+                "<img src=\"89f1ce962c7849d19c884f92bd08a984-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"89f1ce962c7849d19c884f92bd08a984-ao-1-A.svg\" />",
+                "<img src=\"89f1ce962c7849d19c884f92bd08a984-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "hYu7AdaGhs",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "89f1ce962c7849d19c884f92bd08a984-ao-2",
+                "",
+                "<img src=\"0103.jpg\" />",
+                "<img src=\"89f1ce962c7849d19c884f92bd08a984-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"89f1ce962c7849d19c884f92bd08a984-ao-2-A.svg\" />",
+                "<img src=\"89f1ce962c7849d19c884f92bd08a984-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "EPT(6S49R.",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-1",
+                "",
+                "<img src=\"0104.jpg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-1-A.svg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xr&[*|eo8n",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-2",
+                "",
+                "<img src=\"0104.jpg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-2-A.svg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "CwE+w2d9D~",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-3",
+                "",
+                "<img src=\"0104.jpg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-3-A.svg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qB0:x59VT{",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "89ebb3cf43bb42e7bbf319c2ac3ed402-oa-4",
+                "",
+                "<img src=\"0104.jpg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-4-A.svg\" />",
+                "<img src=\"89ebb3cf43bb42e7bbf319c2ac3ed402-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "K~ZRsjgEFG",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4a040cb7caa14f7b991a8849ee7209e2-ao-1",
+                "",
+                "<img src=\"0106.jpg\" />",
+                "<img src=\"4a040cb7caa14f7b991a8849ee7209e2-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4a040cb7caa14f7b991a8849ee7209e2-ao-1-A.svg\" />",
+                "<img src=\"4a040cb7caa14f7b991a8849ee7209e2-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "z*#1Ff#Am0",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4a040cb7caa14f7b991a8849ee7209e2-ao-2",
+                "",
+                "<img src=\"0106.jpg\" />",
+                "<img src=\"4a040cb7caa14f7b991a8849ee7209e2-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4a040cb7caa14f7b991a8849ee7209e2-ao-2-A.svg\" />",
+                "<img src=\"4a040cb7caa14f7b991a8849ee7209e2-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "lWGW]D!~NJ",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f48c62d7c44d4c0b92de204aab04d677-ao-1",
+                "",
+                "<img src=\"0107.jpg\" />",
+                "<img src=\"f48c62d7c44d4c0b92de204aab04d677-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f48c62d7c44d4c0b92de204aab04d677-ao-1-A.svg\" />",
+                "<img src=\"f48c62d7c44d4c0b92de204aab04d677-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "r@^&<r<9+P",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f48c62d7c44d4c0b92de204aab04d677-ao-2",
+                "",
+                "<img src=\"0107.jpg\" />",
+                "<img src=\"f48c62d7c44d4c0b92de204aab04d677-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f48c62d7c44d4c0b92de204aab04d677-ao-2-A.svg\" />",
+                "<img src=\"f48c62d7c44d4c0b92de204aab04d677-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "A~rJB&;{4z",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b53d634d67334d41a173aee46fda291a-oa-1",
+                "",
+                "<img src=\"0059.jpg\" />",
+                "<img src=\"b53d634d67334d41a173aee46fda291a-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b53d634d67334d41a173aee46fda291a-oa-1-A.svg\" />",
+                "<img src=\"b53d634d67334d41a173aee46fda291a-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "oK5|cC;1T:",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b53d634d67334d41a173aee46fda291a-oa-2",
+                "",
+                "<img src=\"0059.jpg\" />",
+                "<img src=\"b53d634d67334d41a173aee46fda291a-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b53d634d67334d41a173aee46fda291a-oa-2-A.svg\" />",
+                "<img src=\"b53d634d67334d41a173aee46fda291a-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "jP$>o7VKB2",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c541c6b9d29e47ef9e8f1631d822b574-oa-1",
+                "",
+                "<img src=\"0060.jpg\" />",
+                "<img src=\"c541c6b9d29e47ef9e8f1631d822b574-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c541c6b9d29e47ef9e8f1631d822b574-oa-1-A.svg\" />",
+                "<img src=\"c541c6b9d29e47ef9e8f1631d822b574-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "zwcHR[Z34g",
+            "note_model_uuid": "71ca5886-cf1d-11e9-aaa4-dca90481ef78",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        }
+    ]
+}
