@@ -277,6 +277,7 @@
         "f48c62d7c44d4c0b92de204aab04d677-ao-2-Q.svg",
         "f48c62d7c44d4c0b92de204aab04d677-ao-O.svg",
         "hqdefault (2).jpg",
+        "paste-25765508808793.jpg",
         "paste-80900cce5eee170cc11c1d525c876da2c0913da7.jpg",
         "paste-bccf529eb2d71ae80ca513505a1672e7bf8f15c3.jpg",
         "paste-e347f2ae0bc63748e88778cf2b7eead3f78e2f0f.jpg",
@@ -881,6 +882,49 @@
             ],
             "type": 1,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "css": ".card {\n\tfont-family: \"Open Sans\", Arial, sans-serif;\n\tfont-size: 26px;\n\tcolor: #f2f2f2;\n          text-align: center;\n\tbackground-color: gray;}\n\n.cloze {\n\tfont-weight: bold;\n\tcolor: cyan;}\n\n.extra {\n\tfont-size: 20px;\n        font-family: \"Open Sans\", Arial;\n\tcolor: white;\n\ttext-align: center; }\n\n.tags {\n\tcolor: #d4cfc9;\n\tfont-size: 60%;\n\ttext-align: left;\n        text-transform: uppercase;\n        font-family: \"Open Sans\", Arial;\n\t}\n\n.tags:hover {\n\tcolor: #d4cfc9;\n\tcursor: default;}",
+            "flds": [
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-b85c8-ec2dc",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<div class=card>{{cloze:Text}}</div>\n<br>\n<br>\n<div class=extra>{{Extra}}</div>\n\n<!--<div class=tags>{{Tags}}</div>-->",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div class=card>{{cloze:Text}}</div>"
+                }
+            ],
+            "type": 1,
+            "vers": []
         }
     ],
     "notes": [
@@ -1272,6 +1316,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "<div>Diplococcus (pairs):</div><div>1. Gram-negative genera: {{c1::Neisseria}}, {{c1::Moraxella}}, {{c1::Veillonella}}; resemble two kidney beans, side-by-side</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JIWCu+@t;u",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "LPS-LBP complex can also transfer LPS to soluable {{c1::CD14}} in the serum, which may then bind to {{c2::endothelial cells}} leading to {{c3::hypotension/vascular leak syndromes}} such as {{c4::Acute Respiratory Distress syndrome&nbsp;}}",
                 ""
             ],
@@ -1288,16 +1348,16 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<div>Diplococcus (pairs):</div><div>1. Gram-negative genera: {{c1::Neisseria}}, {{c1::Moraxella}}, {{c1::Veillonella}}; resemble two kidney beans, side-by-side</div>",
-                ""
+                "Systemic Inflammatory Syndrome is clincially defined as {{c1::2 or more::number}} of the following<div>1. {{c2::Temperature &gt; 38 C (100.4 F) or &lt; 36 C (96.8F)}}</div><div>2. {{c3::Tachycardia&nbsp;}}</div><div>3. {{c4::Tachypnea (RR &gt; 20 or PaCO2 &lt; 32 mmHg)}}</div><div>4. {{c5::Leukocytosis (WBC &gt; 12000) or leukopenia (&lt;4000 WBC) or &gt;10% bands}}</div>",
+                "A <b>band cell</b> (also called <b>band neutrophil</b>, <b>band form</b> or <b>stab cell</b>) is a cell undergoing granulopoiesis"
             ],
             "flags": 0,
-            "guid": "JIWCu+@t;u",
+            "guid": "w+sqyK2j)$",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
-                "Jalal_A",
-                "Lecture_23",
-                "MicroBio_Exam3"
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
             ]
         },
         {
@@ -1352,22 +1412,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Systemic Inflammatory Syndrome is clincially defined as {{c1::2 or more::number}} of the following<div>1. {{c2::Temperature &gt; 38 C (100.4 F) or &lt; 36 C (96.8F)}}</div><div>2. {{c3::Tachycardia&nbsp;}}</div><div>3. {{c4::Tachypnea (RR &gt; 20 or PaCO2 &lt; 32 mmHg)}}</div><div>4. {{c5::Leukocytosis (WBC &gt; 12000) or leukopenia (&lt;4000 WBC) or &gt;10% bands}}</div>",
-                "A <b>band cell</b> (also called <b>band neutrophil</b>, <b>band form</b> or <b>stab cell</b>) is a cell undergoing granulopoiesis"
-            ],
-            "flags": 0,
-            "guid": "w+sqyK2j)$",
-            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
-            "tags": [
-                "Lecture_24",
-                "MicroBio_Exam3",
-                "Rahul_S"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "<div>Helicoidal:</div><div>a. Shape:</div><div>i. Curved/comma-shaped rod (Campylobacter, Helicobacter, and Vibrio - Gram-{{c1::negative}})</div><div>ii. Curved/comma-shaped rod (Mobiluncus spp. - Gram-{{c2::positive}})</div><div>iii. Spir{{c3::ochetes}} (Borrelia, Leptospira, Treponema)</div><div>iv. Spir{{c3::illum}}</div>",
                 ""
             ],
@@ -1378,6 +1422,22 @@
                 "Jalal_A",
                 "Lecture_23",
                 "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sepsis/Spetic Shock has one or more of three “over-arching” pathophysiological processes:<br>1. {{c1::Systemic inflammation /“hyperinflammatory state”}}<br>2. {{c2::Activation of coagulation}}<br>3. {{c3::Inhibition of fibrinolysis}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B1s(0pE<6L",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture_24",
+                "MicroBio_Exam3",
+                "Rahul_S"
             ]
         },
         {
@@ -1400,16 +1460,16 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sepsis/Spetic Shock has one or more of three “over-arching” pathophysiological processes:<br>1. {{c1::Systemic inflammation /“hyperinflammatory state”}}<br>2. {{c2::Activation of coagulation}}<br>3. {{c3::Inhibition of fibrinolysis}}",
+                "<div>c. Medically important Gram-positive cocci</div><div>S{{c1::treptococcus}}</div><div>S{{c1::taphylococcus}}</div><div>E{{c1::nterococcus}}</div><div><br /></div><div>d. Medically important \"lancet-shaped\" diplococci</div><div>Streptococcus {{c2::pneumoniae}}</div><div><br /></div><div>e. Genera of bacterial endospore-formers</div><div>C{{c3::lostridium}}</div><div>B{{c3::acillus}}</div><div><br /></div><div>f. Genera of medically important Gram-(-) \"{{c5::kidney-bean}}\" shaped diplococci</div><div>N{{c5::eisseria}}</div><div>V{{c5::eillonella}}</div><div>M{{c5::oraxella}}</div><div><br /></div><div>g. Genera of Gram negative comma ({{c6::vibrio}}) shaped bacteria</div><div>V{{c6::ibrio}}</div><div>H{{c6::elicobacter}}</div><div>C{{c6::ampylobacter}}</div>",
                 ""
             ],
             "flags": 0,
-            "guid": "B1s(0pE<6L",
+            "guid": "QO_K[AG#j+",
             "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
-                "Lecture_24",
-                "MicroBio_Exam3",
-                "Rahul_S"
+                "Jalal_A",
+                "Lecture_23",
+                "MicroBio_Exam3"
             ]
         },
         {
@@ -1602,22 +1662,6 @@
                 "Lecture_24",
                 "MicroBio_Exam3",
                 "Rahul_S"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div>c. Medically important Gram-positive cocci</div><div>S{{c1::treptococcus}}</div><div>S{{c1::taphylococcus}}</div><div>E{{c1::nterococcus}}</div><div><br /></div><div>d. Medically important \"lancet-shaped\" diplococci</div><div>Streptococcus {{c2::pneumoniae}}</div><div><br /></div><div>e. Genera of bacterial endospore-formers</div><div>C{{c3::lostridium}}</div><div>B{{c3::acillus}}</div><div><br /></div><div>f. Genera of medically important Gram-(-) \"{{c5::kidney-bean}}\" shaped diplococci</div><div>N{{c5::eisseria}}</div><div>V{{c5::eillonella}}</div><div>M{{c5::oraxella}}</div><div><br /></div><div>g. Genera of Gram negative comma ({{c6::vibrio}}) shaped bacteria</div><div>V{{c6::ibrio}}</div><div>H{{c6::elicobacter}}</div><div>C{{c6::ampylobacter}}</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "QO_K[AG#j+",
-            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
-            "tags": [
-                "Jalal_A",
-                "Lecture_23",
-                "MicroBio_Exam3"
             ]
         },
         {
@@ -4964,22 +5008,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Hans Christian Joachim Gram wanted to distinguish {{c1::Streptococcus pneumoniae}} from {{c2::Klebsiella pneumoniae}}. So he discovered the gram stain. {{c3::Weigert}} added safranine 2-3 y later.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "GdH>zzP=iP",
-            "note_model_uuid": "71ca77c6-cf1d-11e9-b35f-dca90481ef78",
-            "tags": [
-                "Lecture1",
-                "MicroBio_Exam3",
-                "Priya"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "What is the first step of the gram stain? what type of cell ( gram + or -) does it stain?",
                 "Crystal violet - a primary, positive stain<div>Both gram pos and gram negative</div>"
             ],
@@ -7177,6 +7205,1030 @@
                 "Aditya",
                 "Lecture_27",
                 "MicroBio_Exam3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hans Christian Joachim Gram wanted to distinguish {{c1::Streptococcus pneumoniae}} from {{c2::Klebsiella pneumoniae}} So he discovered the gram stain. Weigert added {{c3::safranine}} 2-3 y later.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QQCFL(0;~y",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": [
+                "Lecture1",
+                "MicroBio_Exam3",
+                "Priya"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The TCA cycle completes the oxidization of {{c1::organic carbon}} into {{c1::CO2.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LM}S~x&+vL",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The TCA cycle generates intermediates for {{c1::anabolic}} pathways.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EX]#|>X@K{",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The TCA cycle generates reducing power ({{c1::NADH2}}) for {{c2::anabolic and catabolic}} pathways",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pXKxeH+Fz8",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In the TCA cycle,&nbsp;{{c1::FADH2}} &amp;/or {{c1::NADH2}} is recycled in {{c2::respiration}} or {{c2::anabolism.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rjerJv6yc{",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c2::Respiration}} is a unique enzymatic process because most of the process must occur in a&nbsp;{{c1::membrane vesicle or sack (an enzyme-membrane complex)}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u.u:mwH#Ot",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Function of respiration: Generate energy = ion current = {{c1::Proton Motive Force (PMF)}} for ATP&nbsp;synthesis that occurs during the conversion (recycling) of {{c2::NADH2}} (reduced form) to {{c2::NAD+}} (the oxidized form).</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hSYAvrfDeE",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Antibiotics that collapse the gradient created by respiration:&nbsp;{{c1::Polymyxin}}, {{c2::Bacitracin}}, {{c3::Daptomycin}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dG1i@q;6j/",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Respiration occurs in 2 parts:&nbsp;<div><br /><div>1.{{c1::&nbsp;Electron Transport Chain (ETC)}} transfers electrons (\"e \") &amp; hydrogen ions (H ) from NADH2 to terminal electron acceptor (TEA) generating both PMF and reduced TEA.</div><div><br /></div><div>2. {{c2::ATP Synthetase}} uses PMF to synthesize ATP from ADP &amp; inorganic phosphate (Pi).</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bJ:[DuMLDZ",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Respiration occurs in 2 parts:&nbsp;</div><div>&nbsp; &nbsp; &nbsp; 1.&nbsp;{{c1::Electron Transport Chain (ETC)}} transfers electrons &amp; hydrogen ions from {{c4::NADH2}} to {{c2::terminal electron acceptor (TEA)}} generating both {{c3::PMF}} and {{c3::reduced TEA.}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y3%&&8-k8i",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Oxidase test determines the presence of {{c1::an ETC component (cytochrome C)}} in <b>some</b> bacteria that can oxidize derivatives of p-phenylenediamine (N,N, dimethyl- p-phenylenediamine) to a {{c2::colored}} product.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rr>ybv`>M6",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Enterobacteria}}&nbsp;are oxidase {{c2::negative}}.</div>",
+                "<div>Gram-negative rods; e.g., E. coli, Shigella,</div><div>Klebsiella, Proteus, Yersinia</div>"
+            ],
+            "flags": 0,
+            "guid": "PW%mfG6#@L",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c2::Other Gram-negative rods (not enterobacteria)}}&nbsp;are oxidase {{c1::positive}}.</div>",
+                "<div>e.g., Pseudomonas, Pasteurella,&nbsp;Neisseria etc.</div>"
+            ],
+            "flags": 0,
+            "guid": "I[Sq&[lO,o",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>ATP Synthetase uses {{c2::PMF}} to synthesize {{c1::ATP}} from {{c1::ADP &amp; inorganic phosphate (Pi).}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "XUmNHvPvF",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In aerobic respiration, {{c1::O2}} serve as {{c2::TEA}}, which is reduced to water by the ETS.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "{AwYy%~[N",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In anaerobic respiration, {{c1::inorganic compounds (nitrate, sulfate, etc.)}} serve as TEA.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nAbX;$I5T#",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Aerobic}} respiration is the common pathway among pathogenic microorganisms and humans",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t_`5Dmg+jb",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Medical significance of anaerobic respiration using inorganic compounds as TEA:&nbsp;<div><br /></div><div>{{c1::Methemoglobinemia (MetHb)}} occurs when elevated levels of {{c2::NO3}} occur in drinking water.</div><div><br /></div><div>GI tract normal flora (bacterial) convert {{c2::NO3}} to {{c3::NO2}}, which if absorbed into the blood stream leads to {{c1::MetHb.}}</div><div><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yo|5?&lhfp",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>MetHb is a risk to all humans, but especially {{c1::the unborn child}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oN]iWmLB}t",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Glycolysis or other catabolic pathways are utilized to partially {{c1::oxidize}} organic matter.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K-G<J@n665",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The end&nbsp;product(s) of {{c1::glycolysis or other catabolic pathways}} serve as the substrate for specific {{c2::fermentative}} pathways which generate specific end products via additional enzymatic steps.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K?6OFk~wx$",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fermentation results in the {{c1::incomplete}} oxidation of the carbon substrate",
+                "NO respiration occurs&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "jHw&=#kK3m",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fermentation utilizes substrates {{c1::less}} efficiently than respiration",
+                "Is a simpler process than respiration tho&nbsp;<div><br /></div><div>Is efficient enough for fermentative bacteria to grow and thrive<br /><div><br /></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tJTk/.WQW4",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fermentation pathways occur in the {{c1::cytosol}}",
+                "NOT in a membrane vesicle&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "j7l+T>GI`}",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::fermentation}} pathways do not directly produce a PMF/ion gradient&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nmy>8[[$E9",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fermentation pathways are {{c1::catabolic}} pathways in which {{c2::organic compounds}} serve as electron {{c3::donors}} and electron {{c3::acceptors}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wJ>J^?c;NO",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Substrates of fermentation are {{c4::partially oxidized}}, generating end product(s) which:</div><div><br /></div><div>a. Are {{c3::1-, 2-, 3-, or 4}}-carbon compounds and perhaps some {{c3::CO2}}</div><div><br /></div><div>b. Serve as the {{c1::electron acceptor}}&nbsp;</div><div><br /></div><div>c. Are {{c2::excreted/released}} from the cell&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ObvM[9joGo",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Dental carries}} - e.g. {{c2::Streptococcus mutans}}. End product is {{c3::lactic acid}} via homolactic&nbsp;fermentation</div>",
+                "<div>Clinical significance of microbial end products of fermentation</div>"
+            ],
+            "flags": 0,
+            "guid": "mEAHp~cQB$",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Acidic pH of vagina and skin - e.g. {{c1::Lactobacillus sp.}} and {{c2::Propionibacterium acnes}}:&nbsp;</div><div><br /></div><div>1. {{c1::Lactobacillus}}: End product is {{c3::lactic acid}} via homolactic fermentation.</div><div><br /></div><div>2. {{c2::P. acnes}}: End products are {{c4::propionic acid, acetic acid, CO2}}</div>",
+                "Clinical significance of microbial end products of fermentation"
+            ],
+            "flags": 0,
+            "guid": "f}tQa0m9`S",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c4::Abscesses}} are acidic and anaerobic due to fermentative metabolism of bacteria in {{c4::abscess}}:</div><div><br /></div><div>1. Many antibiotics are not effective at {{c1::low}} pH.</div><div><br /></div><div>2. Many antibiotics bind to {{c2::free nucleic acids}} in solution rendering them unavailable.</div><div><br /></div><div>3. Low pH kills surrounding {{c3::viable human cells}}, releasing compounds that bacteria&nbsp;require for growth, e.g., para-aminobenzoic acid - so antibiotics like the sulfa drugs are not efficacious.</div>",
+                "Clinical significance of microbial end products of fermentation"
+            ],
+            "flags": 0,
+            "guid": "r%>a^HgU;t",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "One can identify bacteria based on characteristic {{c1::fermentative}} acidic end products they produce.&nbsp;Typical of enteric bacteria of {{c2::human gut}}, e.g. coliforms.",
+                "Clinical significance of microbial end products of fermentation"
+            ],
+            "flags": 0,
+            "guid": "Ot),C+9+E#",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Certain bacteria can only grow fermentatively:</div><div><br /></div><div>1. Lack {{c1::cytochrome/ETC systems}} or cannot use it for energy production.</div><div><br /></div><div>2. Do not use NAD+ or NADP+ as electron and hydrogen ion carrier, rather {{c2::ferredoxin}} is&nbsp;used. Like NAD+ or NADP+, the {{c2::ferredoxin}} molecule must still be recycled from the&nbsp;reduced to the oxidized form for fermentation to continue.</div><div><br /></div><div>3. Streptococcus and Lactobacillus are {{c3::aerotolerant anaerobes}}</div>",
+                "Clinical significance of microbial end products of fermentation"
+            ],
+            "flags": 0,
+            "guid": "I}6Sj,|;)N",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Streptococcus and Lactobacillus are aerotolerant anaerobes:</div><div><br /></div><div>a. They produce {{c1::lactic acid}} and {{c1::H2O2}}</div><div><br /></div><div>b. H2O2 is derived from the recycling of {{c2::ferredoxin}}</div><div><br /></div><div>c. H2O2 is detoxified by human host produced {{c3::peroxidase}}, which is accumulated by&nbsp;these bacteria</div><div><br /></div><div>d. Without host-derived {{c3::peroxidase}}, they cannot grow in the presence of air</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tVRqRg/782",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fermentation by {{c1::Clostridium}} species results in end products that include {{c3::H2}}, CO2, and a variety of 4 carbon compounds. The recycling of ferredoxin is catalyzed by {{c2::hydrogen lyase}}.",
+                "Clinical significance of microbial end products of fermentation"
+            ],
+            "flags": 0,
+            "guid": "k48ucY)~Gp",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Infections by organisms such as Clostridium perfringens (<b>an obligate anaerobe</b>) can cause {{c1::gas gangrene (myonecrosis)}}&nbsp;<div><br /></div><div>{{c2::H2 gas}} is generated in huge amounts</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ir}z/H6WX2",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::H2}} gas is insoluble in tissue and tracks along fascial planes, separating muscle tissues (thus gains bacteria access to {{c2::fresh tissue}}) and collapsing blood vessels (leading to {{c3::anaerobic}} conditions)&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J1pP,nl=su",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Alkaline}} end products are <b>not</b> fermentative or oxidative phosphorylation end products",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rm|b=c*V>p",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Proteus spp.}} (the bacterium) are responsible for some urinary tract infections in humans and may&nbsp;promote the formation of {{c2::kidney stones}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xorURX<@Z~",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Proteus sp.}} release the extracellular enzyme {{c1::urease}}, which hydrolyzes urea in urine, producing {{c3::ammonia (NH4+)}} and CO2<div><br /></div><div>{{c3::Ammonia}} raises pH of urine from 6.0 to above 7, allowing {{c2::proteus}} to grow</div>",
+                "<img src=\"paste-25765508808793.jpg\" />"
+            ],
+            "flags": 0,
+            "guid": "B0JOY]]bj[",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Ca++}} and {{c1::NH4+ ions}} form salts which may precipitate at {{c2::alkaline}} pH, forming renal calculi (kidney stones) composed of triphosphate&nbsp;",
+                "triphosphate– “Struvite (magnesium ammonium phosphate) and a poorly crystalline form of apatite (a hydroxylated calcium phosphate, in which a variable proportion of the phosphate groups are replaced by carbonate) are the principle crystalline components.”"
+            ],
+            "flags": 0,
+            "guid": "wkQCe_EJ|Y",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Helicobacter pylori}} (the bacterium):</div><div><br /></div><div>1. Causes type b and duodenal {{c2::ulcers}}&nbsp;</div><div><br /></div><div>2. Produces {{c3::urease}}, which cleaves urea to {{c4::CO2}} and {{c4::NH4+}}, raising <u>microenvironment</u> pH of&nbsp;stomach mucous lining so {{c1::H. pylori}} can grow.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P},DrwAmyD",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA synthesis requires&nbsp;{{c1::DNA}} dependent DNA Polymerase",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q$9Td?z+wW",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::DNA Helicase}} separates double stranded DNA into single strands but generates tremendous&nbsp;torsional stress that must be relieved for DNA synthesis to proceed.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H2]F)9X=.h",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Primase}} synthesizes short, ssRNA primers for DNA synthesis",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QzfZ~+a]WD",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>DNA {{c1::gyrase}} (topoisomerase {{c1::II}}):</div><div>1. Negatively supercoils bacterial genome &amp; plasmid DNA</div><div>2. Relieves torsional stress caused by helicase “un-winding” the genome</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hTawz|/S+U",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Topoisomerase {{c1::IV}} is required for decatenation (separation of 2 daughter chromosomes).",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qs4>d@_-%Y",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Topoisomerase {{c1::II}} &amp; {{c1::IV}} are absolutely required for DNA synthesis in bacteria.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "}=Y>fy~L(",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA synthesis is semi-conservative for {{c1::both procaryotes and eucaryotes}} (procaryotes/eucaryotes/both?)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F/mIZwRA2:",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA synthesis initiates at one origin of replication in {{c1::procaryotes}} (procaryotes/eucaryotes/both?)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zg0x0)3:L|",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA synthesis must be primed with {{c1::RNA}} (one primer for the {{c2::leading strand}}, multiple primers for the&nbsp;{{c2::lagging strand}}) for {{c3::both procaryotes, eucaryotes}} (procaryotes/eucaryotes/both?)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MQ4ChnG4$5",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In DNA synthesis,&nbsp;{{c1::primase}}&nbsp;synthesizes primers.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yC}U@K#wA<",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA synthesis: 5' --&gt; 3' for both leading, lagging strands for {{c1::both procaryotes and eucaryotes}} (procaryotes/eucaryotes/both?)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A~)/T@~&?(",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Replication is {{c1::semi-discontinuous}} for {{c2::both procaryotes, eucaryotes}} (procaryotes, eucaryotes,both?):</div><div><br /></div><div>1. Replication of the lagging strands is discontinuous and utilizes Okazaki fragments.</div><div><br /></div><div>2. Replication of the leading strand is continuous.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P+if9N%@Dl",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA synthesis is bi-directional for {{c1::both procaryotes and eucaryotes}} (procaryotes/eucaryotes/both?)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w6A~WN?]w{",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Partitioning of daughter strands in:</div><div>1. {{c1::Procaryotes}} requires membrane attachment.</div><div>2. {{c1::Eucaryotes}} utilize spindle fibers and a centromere to separate each chromosome.</div><div><br /></div><div>(procaryotes/eucaryotes?)</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gbb~1)9r77",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "DNA synthesis occurs in eucaryotes in {{c1::S-phase}}; in procaryotes in {{c2::lag and exponential}} phase.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L&_$,WpZYM",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "RNA synthesis requires {{c1::DNA}} dependent RNA polymerase&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Pj^S%uw#^q",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>mRNA in bacteria has a {{c1::very short}} 1/2 life compared to that found in eucaryotic cells.&nbsp;</div>",
+                "This is&nbsp;why antimicrobial protein synthesis inhibitors are so effective against bacteria."
+            ],
+            "flags": 0,
+            "guid": "C$15eR%d0y",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In protein synthesis, charged-tRNAs (amino acids-tRNAs) is accomplished by specific enzymes ({{c1::Aminoacyl-tRNA synthetase}}) which covalently bond specific amino acids to the appropriate tRNA.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MKGQMVzU+A",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Protein turnover (i.e., 1⁄2 life) is {{c1::much shorter}} in procaryotes than eucaryotes</div>",
+                "So antibiotics that&nbsp;inhibit protein synthesis are efficacious, especially in bacteria with rapid growth rates."
+            ],
+            "flags": 0,
+            "guid": "N6N-)x?.}m",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mechanism of Action –Direct Inhibition of nucleotide synthesis:</div><div><br /></div><div>1. {{c3::Sulfa drugs, Sulfonilamides}} (sulfamethoxazole; SMX)</div><div><br /></div><div>2. Trimethoprim ({{c4::TMP}})</div><div><br /></div><div>3.&nbsp;{{c5::TMP-SMX}}&nbsp;= co-trimazole, Bactrim, septra.&nbsp;</div><div><br /></div><div>Used for {{c1::uncomplicated UTIs}} and against {{c2::Pneumocystis carinii}} in AIDS pt.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I!uV`(%lYu",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mechanism of Action – Direct Inhibition of DNA synthesis/DNA replication:</div><div><br /></div><div>{{c1::Fluoroquinolones}}/{{c1::Quinolones}} (norfloxacin, ciprofloxacin) used for {{c2::UTIs}} and&nbsp;{{c3::lower&nbsp;respiratory tract infections}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f+3VGAK#1B",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mechanism of Action -- Direct Inhibition of mRNA synthesis:<div><br /></div><div><div>{{c1::Rifampin}} -Used to treat carriage of {{c2::Hib}} and {{c3::meningococcus}}, also therapy against&nbsp;{{c4::Mycobacterium tuberculosis}}.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uF*l[ME*g.",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mechanism of Action = Direct Inhibition of protein synthesis:<div><br /></div><div><div>1. {{c1::Chloramphenicol}}</div><div>2. {{c2::Streptogramins}} (Quinupristin-dalfopristin [synercid]</div><div>3. {{c3::Aminoglycosides}} (streptomycin, tobramycin, gentamicin, amikacin)</div><div>4. {{c4::Tetracyclines&nbsp;}}</div><div>5. {{c5::Oxazolidinones}} (Linezolid [Zyvox])</div><div>6. {{c6::Glycycyclines}} (tigecycline)</div><div>7. {{c7::Macrolides}} (erythromycin, azithromycin)&nbsp;</div></div><div>8. {{c8::Mupiricin}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F@N(Nl,Xye",
+            "note_model_uuid": "8d30746a-c6c2-11e9-8b5c-7085c26c9faf",
+            "tags": [
+                "Lecture_26",
+                "MicroBio_Exam3",
+                "Monica"
             ]
         }
     ]
