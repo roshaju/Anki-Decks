@@ -81,7 +81,6 @@
         "0065.jpg",
         "0066.jpg",
         "0067.jpg",
-        "0071.jpg",
         "0074.jpg",
         "0075.jpg",
         "0077.jpg",
@@ -314,11 +313,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze",
             "sortf": 0,
-            "tags": [
-                "Lecture1",
-                "MicroBio_Exam3",
-                "Priya"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n<br>\n<br>\n<br>\n<div style=\"font-style:italic;font-size:20px;color:Green;\">\n\n\n{{Extra}}</div>\n",
@@ -328,49 +323,6 @@
                     "name": "Cloze",
                     "ord": 0,
                     "qfmt": "{{cloze:Text}}\n<br>\n"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-0c47d",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n\n<script> \n<!-- Opens One Cloze at a time-->  \nvar handled = false,  \n clozes = document.getElementsByClassName(\"cloze\"),  \n clr = window.getComputedStyle(clozes[0]).color,  \n bg = window.getComputedStyle(clozes[0]).background;\nfor (i=1; i<clozes.length; ++i) {  \n  clozes[i].style.background = clr;\n  clozes[i].onclick = function() {      \n        this.style.background=bg;\n        this.style.cursor='text';}\n  clozes[i].style.cursor = 'help';\n}\ndocument.onkeypress = function(ev){  \nif (handled) return false;}  \ndocument.onkeydown = function() {  \nfor (i=1; i<clozes.length; ++i) {  \n if (event.which==32 && clozes[i].style.background!=bg){\n  clozes[i].style.background=bg;handled=true;return false}\n }\n handled=false;return true;\n}\nwindow.setTimeout(function(){ window.focus()},0);  \n</script>",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
                 }
             ],
             "type": 1,
@@ -1401,7 +1353,7 @@
             ],
             "flags": 0,
             "guid": "bV:nD&lEpV",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1753,7 +1705,7 @@
             ],
             "flags": 0,
             "guid": "Ioy+SN9!3Q",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1769,7 +1721,7 @@
             ],
             "flags": 0,
             "guid": "O3+`t<4!pQ",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -1801,7 +1753,7 @@
             ],
             "flags": 0,
             "guid": "zCRI%9N1?I",
-            "note_model_uuid": "0c381194-cf29-11e9-a89b-9801a79c7977",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
             "tags": [
                 "Jalal_A",
                 "Lecture_23",
@@ -4847,7 +4799,7 @@
             "data": "",
             "fields": [
                 "{{c1::Bright field}} microscopy - transmitted light illuminates cells due to contract differences between {{c2::the bacteria and the medium.}}",
-                "<img src=\"0071.jpg\">"
+                "Literally a normal microsope that we've all used"
             ],
             "flags": 0,
             "guid": "uy&uzq+15z",
@@ -8230,6 +8182,18 @@
                 "MicroBio_Exam3",
                 "Monica"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> <div> <div> <div>The following bacteria are stained via the modified gram stain&nbsp;</div><div><br></div><div>{{c1::Legionella}} spp., {{c1::Campylobacter}} spp., {{c2::Bacteroides}} spp. {{c2::Fusobacterium}} spp., {{c3::Brucella}} spp.&nbsp;</div> </div> </div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P01~}c*3LY",
+            "note_model_uuid": "972df9a7-c6bf-11e9-a1b3-7085c26c9faf",
+            "tags": []
         }
     ]
 }
